@@ -140107,4 +140107,18 @@
     "avg": "$1.64K",
     "avg_value": 1635.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:35:30",
+    "item": "Redstone Dust",
+    "avg": "$261.50",
+    "avg_value": 261.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:35:33",
+    "item": "Chests",
+    "avg": "$125.85",
+    "avg_value": 125.85
+  }
 ]
