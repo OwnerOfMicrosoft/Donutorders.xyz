@@ -139673,4 +139673,25 @@
     "avg": "$61.20",
     "avg_value": 61.2
   }
+,
+  {
+    "timestamp": "2026-05-25 23:25:13",
+    "item": "Minecarts with TNT",
+    "avg": "$4.50K",
+    "avg_value": 4500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:25:25",
+    "item": "Bones",
+    "avg": "$173.85",
+    "avg_value": 173.85
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:25:30",
+    "item": "Leather",
+    "avg": "$501.50",
+    "avg_value": 501.5
+  }
 ]
