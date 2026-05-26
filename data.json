@@ -149935,4 +149935,60 @@
     "avg": "$4.75K",
     "avg_value": 4750.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:23:55",
+    "item": "Leather Pants",
+    "avg": "$2.55K",
+    "avg_value": 2550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:58",
+    "item": "Redstone Comparators",
+    "avg": "$1.02K",
+    "avg_value": 1020.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:00",
+    "item": "Redstone Repeaters",
+    "avg": "$1.35K",
+    "avg_value": 1350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:06",
+    "item": "Book: Mending",
+    "avg": "$14.51K",
+    "avg_value": 14505.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:08",
+    "item": "Book: Silk Touch",
+    "avg": "$11.00K",
+    "avg_value": 11000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:11",
+    "item": "Book: Protection IV",
+    "avg": "$13.05K",
+    "avg_value": 13050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:13",
+    "item": "Book: Blast Protection IV",
+    "avg": "$18.50K",
+    "avg_value": 18500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:16",
+    "item": "Book: Unbreaking III",
+    "avg": "$9.00K",
+    "avg_value": 9000.0
+  }
 ]
