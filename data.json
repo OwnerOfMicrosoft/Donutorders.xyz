@@ -148640,4 +148640,67 @@
     "avg": "$825.50",
     "avg_value": 825.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:08:09",
+    "item": "Blocks of Gold",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:11",
+    "item": "Nether Quartz",
+    "avg": "$30.50",
+    "avg_value": 30.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:14",
+    "item": "Wheat",
+    "avg": "$263.50",
+    "avg_value": 263.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:30",
+    "item": "Gravel",
+    "avg": "$400.00",
+    "avg_value": 400.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:32",
+    "item": "Minecarts with Hoppers",
+    "avg": "$3.10K",
+    "avg_value": 3100.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:32",
+    "item": "Hoppers",
+    "avg": "$1.29K",
+    "avg_value": 1285.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:35",
+    "item": "Diamonds",
+    "avg": "$3.76K",
+    "avg_value": 3755.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:37",
+    "item": "Iron Ingots",
+    "avg": "$277.60",
+    "avg_value": 277.6
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:40",
+    "item": "Blocks of Iron",
+    "avg": "$2.19K",
+    "avg_value": 2185.0
+  }
 ]
