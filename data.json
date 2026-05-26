@@ -139120,4 +139120,25 @@
     "avg": "$66.00",
     "avg_value": 66.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:12:20",
+    "item": "Minecarts with TNT",
+    "avg": "$7.15K",
+    "avg_value": 7150.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:12:20",
+    "item": "TNT",
+    "avg": "$2.44K",
+    "avg_value": 2435.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:12:45",
+    "item": "Cobblestone",
+    "avg": "$25.85",
+    "avg_value": 25.85
+  }
 ]
