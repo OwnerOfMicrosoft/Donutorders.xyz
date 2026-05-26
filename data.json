@@ -145714,4 +145714,25 @@
     "avg": "$3.61M",
     "avg_value": 3610000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:56:27",
+    "item": "Blocks of Emerald",
+    "avg": "$5.10K",
+    "avg_value": 5100.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:56:30",
+    "item": "Stone",
+    "avg": "$58.55",
+    "avg_value": 58.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:56:38",
+    "item": "Minecarts with TNT",
+    "avg": "$3.63K",
+    "avg_value": 3625.0
+  }
 ]
