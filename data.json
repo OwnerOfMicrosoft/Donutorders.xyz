@@ -144650,4 +144650,53 @@
     "avg": "$275.00",
     "avg_value": 275.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:42:29",
+    "item": "Shulker Shells",
+    "avg": "$350.00",
+    "avg_value": 350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:42:40",
+    "item": "Gravel",
+    "avg": "$400.05",
+    "avg_value": 400.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:42:43",
+    "item": "Minecarts with Hoppers",
+    "avg": "$2.75K",
+    "avg_value": 2750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:42:43",
+    "item": "Hoppers",
+    "avg": "$1.52K",
+    "avg_value": 1515.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:42:45",
+    "item": "Diamonds",
+    "avg": "$3.45K",
+    "avg_value": 3450.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:42:48",
+    "item": "Iron Ingots",
+    "avg": "$275.00",
+    "avg_value": 275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:43:00",
+    "item": "Oak Logs",
+    "avg": "$425.00",
+    "avg_value": 425.0
+  }
 ]
