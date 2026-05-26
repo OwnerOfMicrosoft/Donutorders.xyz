@@ -140716,4 +140716,32 @@
     "avg": "$104.51",
     "avg_value": 104.505
   }
+,
+  {
+    "timestamp": "2026-05-25 23:53:17",
+    "item": "Ominous Trial Keys",
+    "avg": "$244.00K",
+    "avg_value": 244000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:53:20",
+    "item": "Bones",
+    "avg": "$176.20",
+    "avg_value": 176.2
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:53:34",
+    "item": "Cobblestone",
+    "avg": "$28.03",
+    "avg_value": 28.025
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:53:37",
+    "item": "Book: Mending",
+    "avg": "$7.25K",
+    "avg_value": 7250.0
+  }
 ]
