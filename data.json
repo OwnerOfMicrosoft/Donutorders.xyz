@@ -149256,4 +149256,32 @@
     "avg": "$540.65",
     "avg_value": 540.65
   }
+,
+  {
+    "timestamp": "2026-05-26 12:15:09",
+    "item": "Chests",
+    "avg": "$95.21",
+    "avg_value": 95.21
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:15:25",
+    "item": "Mossy Stone Bricks",
+    "avg": "$72.50",
+    "avg_value": 72.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:15:28",
+    "item": "Mud",
+    "avg": "$258.00",
+    "avg_value": 258.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:15:33",
+    "item": "Minecarts with TNT",
+    "avg": "$4.10K",
+    "avg_value": 4100.0
+  }
 ]
