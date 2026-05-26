@@ -142795,4 +142795,46 @@
     "avg": "$27.50",
     "avg_value": 27.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:20:45",
+    "item": "Book: Silk Touch",
+    "avg": "$6.17K",
+    "avg_value": 6170.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:20:48",
+    "item": "Book: Protection IV",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:20:50",
+    "item": "Book: Blast Protection IV",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:20:53",
+    "item": "Book: Unbreaking III",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:20:56",
+    "item": "Gold Ingots",
+    "avg": "$767.00",
+    "avg_value": 767.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:12",
+    "item": "Beacons",
+    "avg": "$178.00K",
+    "avg_value": 178000.0
+  }
 ]
