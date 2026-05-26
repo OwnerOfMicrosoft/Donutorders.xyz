@@ -140828,4 +140828,39 @@
     "avg": "$32.10M",
     "avg_value": 3.21E7
   }
+,
+  {
+    "timestamp": "2026-05-25 23:55:29",
+    "item": "Bones",
+    "avg": "$174.00",
+    "avg_value": 174.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:55:31",
+    "item": "Slime Blocks",
+    "avg": "$400.50",
+    "avg_value": 400.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:55:37",
+    "item": "Redstone Comparators",
+    "avg": "$986.00",
+    "avg_value": 986.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:55:40",
+    "item": "Redstone Repeaters",
+    "avg": "$1.30K",
+    "avg_value": 1300.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:55:46",
+    "item": "Book: Mending",
+    "avg": "$9.25K",
+    "avg_value": 9250.0
+  }
 ]
