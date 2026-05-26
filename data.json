@@ -140485,4 +140485,18 @@
     "avg": "$152.50",
     "avg_value": 152.5
   }
+,
+  {
+    "timestamp": "2026-05-25 23:46:37",
+    "item": "Mud",
+    "avg": "$3.00K",
+    "avg_value": 3000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:46:43",
+    "item": "Minecarts with TNT",
+    "avg": "$3.71K",
+    "avg_value": 3710.0
+  }
 ]
