@@ -149886,4 +149886,53 @@
     "avg": "$290.50K",
     "avg_value": 290500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:23:13",
+    "item": "Redstone Dust",
+    "avg": "$224.00",
+    "avg_value": 224.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:16",
+    "item": "Chests",
+    "avg": "$130.50",
+    "avg_value": 130.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:18",
+    "item": "Spruce Logs",
+    "avg": "$52.50",
+    "avg_value": 52.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:24",
+    "item": "Strings",
+    "avg": "$175.00",
+    "avg_value": 175.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:29",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$452.00K",
+    "avg_value": 452000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:32",
+    "item": "Smooth Stone",
+    "avg": "$73.00",
+    "avg_value": 73.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:39",
+    "item": "Minecarts with TNT",
+    "avg": "$4.75K",
+    "avg_value": 4750.0
+  }
 ]
