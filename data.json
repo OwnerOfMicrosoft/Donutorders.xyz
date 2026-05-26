@@ -144328,4 +144328,60 @@
     "avg": "$2.25K",
     "avg_value": 2250.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:38:35",
+    "item": "Blocks of Redstone",
+    "avg": "$1.84K",
+    "avg_value": 1840.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:35",
+    "item": "Redstone Comparators",
+    "avg": "$1.10K",
+    "avg_value": 1100.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:41",
+    "item": "Stripped Oak Logs",
+    "avg": "$400.00",
+    "avg_value": 400.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:41",
+    "item": "Oak Logs",
+    "avg": "$316.50",
+    "avg_value": 316.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:55",
+    "item": "Redstone Dust",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:39:01",
+    "item": "Spruce Logs",
+    "avg": "$46.05",
+    "avg_value": 46.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:39:03",
+    "item": "Block of Netherite",
+    "avg": "$31.86M",
+    "avg_value": 3.1855E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:39:06",
+    "item": "Strings",
+    "avg": "$102.00",
+    "avg_value": 102.0
+  }
 ]
