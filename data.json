@@ -150761,4 +150761,53 @@
     "avg": "$422.50",
     "avg_value": 422.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:32:52",
+    "item": "Diamonds",
+    "avg": "$3.60K",
+    "avg_value": 3600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:32:55",
+    "item": "Iron Ingots",
+    "avg": "$287.50",
+    "avg_value": 287.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:32:57",
+    "item": "Blocks of Iron",
+    "avg": "$2.60K",
+    "avg_value": 2600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:00",
+    "item": "Blocks of Redstone",
+    "avg": "$1.84K",
+    "avg_value": 1835.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:00",
+    "item": "Redstone Repeaters",
+    "avg": "$1.35K",
+    "avg_value": 1350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:08",
+    "item": "Bone Blocks",
+    "avg": "$540.01",
+    "avg_value": 540.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:19",
+    "item": "Redstone Dust",
+    "avg": "$236.01",
+    "avg_value": 236.005
+  }
 ]
