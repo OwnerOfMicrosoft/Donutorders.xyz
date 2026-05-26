@@ -139456,4 +139456,18 @@
     "avg": "$6.50K",
     "avg_value": 6500.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:19:57",
+    "item": "Hoppers",
+    "avg": "$1.48K",
+    "avg_value": 1475.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:20:08",
+    "item": "Redstone Repeaters",
+    "avg": "$1.05K",
+    "avg_value": 1050.0
+  }
 ]
