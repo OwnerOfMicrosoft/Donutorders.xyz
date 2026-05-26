@@ -146673,4 +146673,67 @@
     "avg": "$35.00",
     "avg_value": 35.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:42:49",
+    "item": "Book: Mending",
+    "avg": "$5.63K",
+    "avg_value": 5625.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:52",
+    "item": "Book: Silk Touch",
+    "avg": "$11.25K",
+    "avg_value": 11250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:57",
+    "item": "Book: Blast Protection IV",
+    "avg": "$5.05K",
+    "avg_value": 5050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:00",
+    "item": "Book: Unbreaking III",
+    "avg": "$7.65K",
+    "avg_value": 7650.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:07",
+    "item": "Quartz Stairs",
+    "avg": "$110.00",
+    "avg_value": 110.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:07",
+    "item": "Nether Quartz Ore",
+    "avg": "$50.02",
+    "avg_value": 50.015
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:10",
+    "item": "Wheat",
+    "avg": "$245.50",
+    "avg_value": 245.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:10",
+    "item": "Wheat Seeds",
+    "avg": "$16.10",
+    "avg_value": 16.1
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:18",
+    "item": "Beacons",
+    "avg": "$204.01K",
+    "avg_value": 204005.0
+  }
 ]
