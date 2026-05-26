@@ -141787,4 +141787,25 @@
     "avg": "$43.47",
     "avg_value": 43.474999999999994
   }
+,
+  {
+    "timestamp": "2026-05-26 09:41:01",
+    "item": "Stone",
+    "avg": "$58.75",
+    "avg_value": 58.75
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:09",
+    "item": "Minecarts with TNT",
+    "avg": "$3.63K",
+    "avg_value": 3625.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:20",
+    "item": "Bones",
+    "avg": "$189.50",
+    "avg_value": 189.5
+  }
 ]
