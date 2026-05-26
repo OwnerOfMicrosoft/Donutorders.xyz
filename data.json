@@ -150887,4 +150887,46 @@
     "avg": "$21.00K",
     "avg_value": 21000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:34:32",
+    "item": "Blocks of Gold",
+    "avg": "$6.80K",
+    "avg_value": 6800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:38",
+    "item": "Wheat",
+    "avg": "$263.50",
+    "avg_value": 263.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:38",
+    "item": "Wheat Seeds",
+    "avg": "$20.00",
+    "avg_value": 20.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:44",
+    "item": "Shulker Shells",
+    "avg": "$355.50",
+    "avg_value": 355.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:49",
+    "item": "End Crystals",
+    "avg": "$278.50",
+    "avg_value": 278.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:58",
+    "item": "Hoppers",
+    "avg": "$1.60K",
+    "avg_value": 1600.0
+  }
 ]
