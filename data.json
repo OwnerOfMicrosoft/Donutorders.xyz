@@ -139827,4 +139827,32 @@
     "avg": "$95.21",
     "avg_value": 95.21
   }
+,
+  {
+    "timestamp": "2026-05-25 23:29:09",
+    "item": "Spruce Logs",
+    "avg": "$60.20",
+    "avg_value": 60.2
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:29:20",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$443.50K",
+    "avg_value": 443500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:29:31",
+    "item": "Minecarts with TNT",
+    "avg": "$4.65K",
+    "avg_value": 4650.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:29:31",
+    "item": "TNT",
+    "avg": "$2.36K",
+    "avg_value": 2355.0
+  }
 ]
