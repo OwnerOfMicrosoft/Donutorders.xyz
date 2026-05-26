@@ -144034,4 +144034,46 @@
     "avg": "$3.75K",
     "avg_value": 3750.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:35:16",
+    "item": "Bones",
+    "avg": "$179.05",
+    "avg_value": 179.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:24",
+    "item": "Redstone Comparators",
+    "avg": "$995.00",
+    "avg_value": 995.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:30",
+    "item": "Cobblestone",
+    "avg": "$33.00",
+    "avg_value": 33.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:38",
+    "item": "Book: Protection IV",
+    "avg": "$8.80K",
+    "avg_value": 8800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:44",
+    "item": "Book: Unbreaking III",
+    "avg": "$11.50K",
+    "avg_value": 11500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:44",
+    "item": "Book: Unbreaking II",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
 ]
