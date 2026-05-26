@@ -151034,4 +151034,25 @@
     "avg": "$7.13K",
     "avg_value": 7125.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:36:22",
+    "item": "Cobblestone",
+    "avg": "$20.44",
+    "avg_value": 20.435000000000002
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:36:28",
+    "item": "Book: Silk Touch",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:36:31",
+    "item": "Book: Protection IV",
+    "avg": "$17.50K",
+    "avg_value": 17500.0
+  }
 ]
