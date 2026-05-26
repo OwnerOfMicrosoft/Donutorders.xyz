@@ -139939,4 +139939,39 @@
     "avg": "$180.00",
     "avg_value": 180.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:32:05",
+    "item": "Cobblestone",
+    "avg": "$32.50",
+    "avg_value": 32.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:32:08",
+    "item": "Book: Mending",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:32:17",
+    "item": "Book: Blast Protection IV",
+    "avg": "$17.50K",
+    "avg_value": 17500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:32:19",
+    "item": "Book: Unbreaking III",
+    "avg": "$5.97K",
+    "avg_value": 5965.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:32:19",
+    "item": "Book: Unbreaking I",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
 ]
