@@ -145588,4 +145588,60 @@
     "avg": "$178.01",
     "avg_value": 178.005
   }
+,
+  {
+    "timestamp": "2026-05-26 10:54:54",
+    "item": "Cobblestone",
+    "avg": "$45.75",
+    "avg_value": 45.75
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:54:57",
+    "item": "Book: Mending",
+    "avg": "$4.85K",
+    "avg_value": 4850.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:54:59",
+    "item": "Book: Silk Touch",
+    "avg": "$6.17K",
+    "avg_value": 6170.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:02",
+    "item": "Book: Protection IV",
+    "avg": "$50.50K",
+    "avg_value": 50500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:08",
+    "item": "Book: Unbreaking III",
+    "avg": "$15.50K",
+    "avg_value": 15500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:14",
+    "item": "Blocks of Gold",
+    "avg": "$6.78K",
+    "avg_value": 6780.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:16",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$300.50",
+    "avg_value": 300.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:16",
+    "item": "Nether Quartz",
+    "avg": "$29.50",
+    "avg_value": 29.5
+  }
 ]
