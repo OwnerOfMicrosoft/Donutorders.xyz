@@ -147737,4 +147737,46 @@
     "avg": "$3.52M",
     "avg_value": 3520000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:56:52",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$482.50K",
+    "avg_value": 482500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:57:03",
+    "item": "Minecarts with TNT",
+    "avg": "$6.50K",
+    "avg_value": 6500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:57:11",
+    "item": "Ominous Trial Keys",
+    "avg": "$257.50K",
+    "avg_value": 257500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:57:14",
+    "item": "Bones",
+    "avg": "$192.50",
+    "avg_value": 192.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:57:17",
+    "item": "Slime Blocks",
+    "avg": "$355.75",
+    "avg_value": 355.75
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:57:19",
+    "item": "Leather",
+    "avg": "$510.00",
+    "avg_value": 510.0
+  }
 ]
