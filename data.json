@@ -145238,4 +145238,53 @@
     "avg": "$221.50",
     "avg_value": 221.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:49:47",
+    "item": "Spruce Logs",
+    "avg": "$44.57",
+    "avg_value": 44.565
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:01",
+    "item": "Smooth Stone",
+    "avg": "$82.50",
+    "avg_value": 82.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:01",
+    "item": "Stone Bricks",
+    "avg": "$63.50",
+    "avg_value": 63.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:01",
+    "item": "Stone",
+    "avg": "$58.05",
+    "avg_value": 58.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:04",
+    "item": "Mud Bricks",
+    "avg": "$452.50",
+    "avg_value": 452.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:10",
+    "item": "Minecarts with TNT",
+    "avg": "$5.75K",
+    "avg_value": 5750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:15",
+    "item": "Piglin Heads",
+    "avg": "$406.10K",
+    "avg_value": 406100.0
+  }
 ]
