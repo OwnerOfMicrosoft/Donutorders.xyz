@@ -146260,4 +146260,46 @@
     "avg": "$8.75K",
     "avg_value": 8750.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:37:18",
+    "item": "End Crystals",
+    "avg": "$298.50",
+    "avg_value": 298.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:37:21",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$46.76K",
+    "avg_value": 46755.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:37:23",
+    "item": "Gravel",
+    "avg": "$390.00",
+    "avg_value": 390.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:37:26",
+    "item": "Hoppers",
+    "avg": "$1.62K",
+    "avg_value": 1620.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:37:31",
+    "item": "Iron Ingots",
+    "avg": "$260.51",
+    "avg_value": 260.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:37:34",
+    "item": "Blocks of Iron",
+    "avg": "$2.75K",
+    "avg_value": 2750.0
+  }
 ]
