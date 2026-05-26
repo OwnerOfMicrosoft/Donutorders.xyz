@@ -141731,4 +141731,60 @@
     "avg": "$3.55K",
     "avg_value": 3550.0
   }
+,
+  {
+    "timestamp": "2026-05-26 09:40:20",
+    "item": "Iron Ingots",
+    "avg": "$275.00",
+    "avg_value": 275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:25",
+    "item": "Blocks of Redstone",
+    "avg": "$2.45K",
+    "avg_value": 2450.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:27",
+    "item": "Emeralds",
+    "avg": "$906.50",
+    "avg_value": 906.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:30",
+    "item": "Stripped Spruce Logs",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:38",
+    "item": "Creeper Heads",
+    "avg": "$280.50K",
+    "avg_value": 280500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:43",
+    "item": "Redstone Dust",
+    "avg": "$218.00",
+    "avg_value": 218.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:46",
+    "item": "Chests",
+    "avg": "$172.50",
+    "avg_value": 172.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:48",
+    "item": "Spruce Logs",
+    "avg": "$43.47",
+    "avg_value": 43.474999999999994
+  }
 ]
