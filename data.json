@@ -142508,4 +142508,53 @@
     "avg": "$315.50",
     "avg_value": 315.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:16:15",
+    "item": "Minecarts with TNT",
+    "avg": "$5.65K",
+    "avg_value": 5650.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:25",
+    "item": "Bones",
+    "avg": "$184.00",
+    "avg_value": 184.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:30",
+    "item": "Leather",
+    "avg": "$400.00",
+    "avg_value": 400.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:38",
+    "item": "Cobblestone",
+    "avg": "$35.00",
+    "avg_value": 35.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:41",
+    "item": "Book: Mending",
+    "avg": "$5.85K",
+    "avg_value": 5845.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:43",
+    "item": "Book: Silk Touch",
+    "avg": "$8.60K",
+    "avg_value": 8600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:46",
+    "item": "Book: Protection IV",
+    "avg": "$9.05K",
+    "avg_value": 9050.0
+  }
 ]
