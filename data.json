@@ -147051,4 +147051,46 @@
     "avg": "$29.75",
     "avg_value": 29.75
   }
+,
+  {
+    "timestamp": "2026-05-26 11:47:25",
+    "item": "Elytra",
+    "avg": "$601.84M",
+    "avg_value": 6.01835E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:47:28",
+    "item": "Shulker Shells",
+    "avg": "$324.50",
+    "avg_value": 324.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:47:34",
+    "item": "End Crystals",
+    "avg": "$305.00",
+    "avg_value": 305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:47:37",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$46.45K",
+    "avg_value": 46450.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:47:48",
+    "item": "Iron Ingots",
+    "avg": "$263.01",
+    "avg_value": 263.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:47:54",
+    "item": "Blocks of Redstone",
+    "avg": "$1.93K",
+    "avg_value": 1925.0
+  }
 ]
