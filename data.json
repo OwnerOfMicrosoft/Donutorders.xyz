@@ -140450,4 +140450,39 @@
     "avg": "$1.85K",
     "avg_value": 1850.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:46:14",
+    "item": "Redstone Dust",
+    "avg": "$263.50",
+    "avg_value": 263.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:46:17",
+    "item": "Chests",
+    "avg": "$110.00",
+    "avg_value": 110.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:46:20",
+    "item": "Spruce Logs",
+    "avg": "$50.45",
+    "avg_value": 50.45
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:46:23",
+    "item": "Block of Netherite",
+    "avg": "$31.84M",
+    "avg_value": 3.1835E7
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:46:34",
+    "item": "Stone",
+    "avg": "$152.50",
+    "avg_value": 152.5
+  }
 ]
