@@ -140695,4 +140695,25 @@
     "avg": "$318.00",
     "avg_value": 318.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:52:46",
+    "item": "Spruce Logs",
+    "avg": "$51.25",
+    "avg_value": 51.25
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:52:52",
+    "item": "Strings",
+    "avg": "$101.00",
+    "avg_value": 101.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:53:00",
+    "item": "Smooth Stone",
+    "avg": "$104.51",
+    "avg_value": 104.505
+  }
 ]
