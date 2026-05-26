@@ -139183,4 +139183,32 @@
     "avg": "$333.50",
     "avg_value": 333.5
   }
+,
+  {
+    "timestamp": "2026-05-25 23:13:58",
+    "item": "Sand",
+    "avg": "$364.00",
+    "avg_value": 364.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:14:01",
+    "item": "Redstone Dust",
+    "avg": "$215.50",
+    "avg_value": 215.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:14:10",
+    "item": "Block of Netherite",
+    "avg": "$30.10M",
+    "avg_value": 3.01E7
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:14:21",
+    "item": "Stone",
+    "avg": "$51.55",
+    "avg_value": 51.55
+  }
 ]
