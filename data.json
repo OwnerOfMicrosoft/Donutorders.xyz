@@ -148199,4 +148199,32 @@
     "avg": "$317.50",
     "avg_value": 317.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:02:38",
+    "item": "Soul Sand",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:02:43",
+    "item": "Chests",
+    "avg": "$172.00",
+    "avg_value": 172.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:02:46",
+    "item": "Spruce Logs",
+    "avg": "$50.00",
+    "avg_value": 50.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:02:57",
+    "item": "Blocks of Emerald",
+    "avg": "$5.55K",
+    "avg_value": 5550.0
+  }
 ]
