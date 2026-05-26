@@ -139316,4 +139316,25 @@
     "avg": "$4.25K",
     "avg_value": 4250.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:17:12",
+    "item": "Book: Protection IV",
+    "avg": "$6.90K",
+    "avg_value": 6900.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:17:26",
+    "item": "Nether Quartz",
+    "avg": "$28.50",
+    "avg_value": 28.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:17:37",
+    "item": "Beacons",
+    "avg": "$182.51K",
+    "avg_value": 182505.0
+  }
 ]
