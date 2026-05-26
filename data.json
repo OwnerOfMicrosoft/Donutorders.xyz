@@ -140499,4 +140499,32 @@
     "avg": "$3.71K",
     "avg_value": 3710.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:47:19",
+    "item": "Book: Blast Protection IV",
+    "avg": "$10.00K",
+    "avg_value": 10000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:47:27",
+    "item": "Blocks of Gold",
+    "avg": "$6.83K",
+    "avg_value": 6830.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:47:30",
+    "item": "Nether Quartz",
+    "avg": "$29.25",
+    "avg_value": 29.25
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:47:36",
+    "item": "Elytra",
+    "avg": "$570.50M",
+    "avg_value": 5.705E8
+  }
 ]
