@@ -139890,4 +139890,32 @@
     "avg": "$2.30K",
     "avg_value": 2300.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:30:47",
+    "item": "Iron Ingots",
+    "avg": "$255.50",
+    "avg_value": 255.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:31:12",
+    "item": "Redstone Dust",
+    "avg": "$330.50",
+    "avg_value": 330.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:31:15",
+    "item": "Chests",
+    "avg": "$97.66",
+    "avg_value": 97.655
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:31:18",
+    "item": "Spruce Logs",
+    "avg": "$51.20",
+    "avg_value": 51.2
+  }
 ]
