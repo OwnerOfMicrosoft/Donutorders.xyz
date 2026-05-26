@@ -143215,4 +143215,39 @@
     "avg": "$355.00",
     "avg_value": 355.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:25:58",
+    "item": "Redstone Dust",
+    "avg": "$251.05",
+    "avg_value": 251.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:01",
+    "item": "Chests",
+    "avg": "$101.55",
+    "avg_value": 101.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:03",
+    "item": "Spruce Logs",
+    "avg": "$51.00",
+    "avg_value": 51.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:18",
+    "item": "Smooth Stone",
+    "avg": "$88.50",
+    "avg_value": 88.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:18",
+    "item": "Stone",
+    "avg": "$70.00",
+    "avg_value": 70.0
+  }
 ]
