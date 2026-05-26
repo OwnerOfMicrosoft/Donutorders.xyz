@@ -152007,4 +152007,53 @@
     "avg": "$145.33",
     "avg_value": 145.33499999999998
   }
+,
+  {
+    "timestamp": "2026-05-26 12:49:57",
+    "item": "End Crystals",
+    "avg": "$301.00",
+    "avg_value": 301.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:03",
+    "item": "Gravel",
+    "avg": "$423.00",
+    "avg_value": 423.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:05",
+    "item": "Hoppers",
+    "avg": "$1.35K",
+    "avg_value": 1350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:11",
+    "item": "Iron Ingots",
+    "avg": "$291.50",
+    "avg_value": 291.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:17",
+    "item": "Blocks of Redstone",
+    "avg": "$2.25K",
+    "avg_value": 2250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:17",
+    "item": "Redstone Comparators",
+    "avg": "$1.15K",
+    "avg_value": 1150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:25",
+    "item": "Bone Blocks",
+    "avg": "$537.50",
+    "avg_value": 537.5
+  }
 ]
