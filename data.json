@@ -148409,4 +148409,39 @@
     "avg": "$3.86K",
     "avg_value": 3860.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:05:28",
+    "item": "Bones",
+    "avg": "$182.50",
+    "avg_value": 182.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:05:34",
+    "item": "Leather",
+    "avg": "$358.50",
+    "avg_value": 358.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:05:42",
+    "item": "Cobblestone",
+    "avg": "$23.25",
+    "avg_value": 23.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:05:48",
+    "item": "Book: Silk Touch",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:05:51",
+    "item": "Book: Protection IV",
+    "avg": "$10.00K",
+    "avg_value": 10000.0
+  }
 ]
