@@ -151671,4 +151671,60 @@
     "avg": "$5.05K",
     "avg_value": 5050.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:45:09",
+    "item": "Book: Protection IV",
+    "avg": "$8.22K",
+    "avg_value": 8220.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:12",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.73K",
+    "avg_value": 4725.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:15",
+    "item": "Book: Unbreaking III",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:18",
+    "item": "Gold Ingots",
+    "avg": "$825.55",
+    "avg_value": 825.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:23",
+    "item": "Nether Quartz",
+    "avg": "$29.55",
+    "avg_value": 29.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:26",
+    "item": "Wheat",
+    "avg": "$282.00",
+    "avg_value": 282.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:32",
+    "item": "Shulker Shells",
+    "avg": "$341.51",
+    "avg_value": 341.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:37",
+    "item": "End Crystals",
+    "avg": "$300.50",
+    "avg_value": 300.5
+  }
 ]
