@@ -150985,4 +150985,53 @@
     "avg": "$238.50",
     "avg_value": 238.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:35:32",
+    "item": "Chests",
+    "avg": "$98.00",
+    "avg_value": 98.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:35",
+    "item": "Spruce Logs",
+    "avg": "$46.70",
+    "avg_value": 46.7
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:46",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$443.00K",
+    "avg_value": 443000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:49",
+    "item": "Stone",
+    "avg": "$70.06",
+    "avg_value": 70.055
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:51",
+    "item": "Mud",
+    "avg": "$285.00",
+    "avg_value": 285.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:54",
+    "item": "Ancient Debris",
+    "avg": "$865.50K",
+    "avg_value": 865500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:57",
+    "item": "Minecarts with TNT",
+    "avg": "$7.13K",
+    "avg_value": 7125.0
+  }
 ]
