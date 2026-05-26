@@ -147590,4 +147590,46 @@
     "avg": "$200.00K",
     "avg_value": 200000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:55:25",
+    "item": "Cobblestone",
+    "avg": "$20.42",
+    "avg_value": 20.42
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:55:28",
+    "item": "Book: Mending",
+    "avg": "$4.91K",
+    "avg_value": 4910.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:55:31",
+    "item": "Book: Silk Touch",
+    "avg": "$15.26K",
+    "avg_value": 15255.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:55:33",
+    "item": "Book: Protection IV",
+    "avg": "$23.75K",
+    "avg_value": 23750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:55:36",
+    "item": "Book: Blast Protection IV",
+    "avg": "$5.05K",
+    "avg_value": 5050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:55:41",
+    "item": "Gold Ingots",
+    "avg": "$800.50",
+    "avg_value": 800.5
+  }
 ]
