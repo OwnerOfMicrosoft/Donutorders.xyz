@@ -141010,4 +141010,32 @@
     "avg": "$3.56K",
     "avg_value": 3555.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:58:48",
+    "item": "Blocks of Redstone",
+    "avg": "$1.73K",
+    "avg_value": 1730.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:58:56",
+    "item": "Bone Blocks",
+    "avg": "$540.01",
+    "avg_value": 540.005
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:59:10",
+    "item": "Chests",
+    "avg": "$130.00",
+    "avg_value": 130.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:59:13",
+    "item": "Spruce Logs",
+    "avg": "$54.50",
+    "avg_value": 54.5
+  }
 ]
