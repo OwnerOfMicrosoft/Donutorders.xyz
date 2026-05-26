@@ -142571,4 +142571,39 @@
     "avg": "$47.21K",
     "avg_value": 47210.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:17:20",
+    "item": "Hoppers",
+    "avg": "$1.82K",
+    "avg_value": 1815.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:17:28",
+    "item": "Blocks of Iron",
+    "avg": "$2.32K",
+    "avg_value": 2315.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:17:31",
+    "item": "Redstone Comparators",
+    "avg": "$989.50",
+    "avg_value": 989.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:17:36",
+    "item": "Oak Logs",
+    "avg": "$305.00",
+    "avg_value": 305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:17:52",
+    "item": "Chests",
+    "avg": "$425.00",
+    "avg_value": 425.0
+  }
 ]
