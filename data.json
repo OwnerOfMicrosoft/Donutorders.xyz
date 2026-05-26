@@ -152105,4 +152105,46 @@
     "avg": "$25.00",
     "avg_value": 25.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:51:36",
+    "item": "Book: Silk Touch",
+    "avg": "$5.66K",
+    "avg_value": 5655.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:44",
+    "item": "Book: Unbreaking III",
+    "avg": "$9.01K",
+    "avg_value": 9010.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:47",
+    "item": "Gold Ingots",
+    "avg": "$780.50",
+    "avg_value": 780.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:50",
+    "item": "Blocks of Gold",
+    "avg": "$7.15K",
+    "avg_value": 7150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:53",
+    "item": "Blocks of Quartz",
+    "avg": "$162.83",
+    "avg_value": 162.83499999999998
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:56",
+    "item": "Wheat Seeds",
+    "avg": "$35.00",
+    "avg_value": 35.0
+  }
 ]
