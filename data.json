@@ -139631,4 +139631,25 @@
     "avg": "$6.50K",
     "avg_value": 6500.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:24:15",
+    "item": "Hoppers",
+    "avg": "$1.64K",
+    "avg_value": 1635.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:24:17",
+    "item": "Diamonds",
+    "avg": "$3.60K",
+    "avg_value": 3600.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:24:20",
+    "item": "Iron Ingots",
+    "avg": "$284.50",
+    "avg_value": 284.5
+  }
 ]
