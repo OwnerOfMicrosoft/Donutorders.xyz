@@ -140975,4 +140975,39 @@
     "avg": "$10.50K",
     "avg_value": 10500.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:58:11",
+    "item": "Blocks of Gold",
+    "avg": "$6.95K",
+    "avg_value": 6950.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:58:20",
+    "item": "Elytra",
+    "avg": "$570.00M",
+    "avg_value": 5.7E8
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:58:31",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$46.25K",
+    "avg_value": 46250.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:58:36",
+    "item": "Hoppers",
+    "avg": "$1.71K",
+    "avg_value": 1705.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:58:39",
+    "item": "Diamonds",
+    "avg": "$3.56K",
+    "avg_value": 3555.0
+  }
 ]
