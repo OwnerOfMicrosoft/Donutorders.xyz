@@ -148759,4 +148759,60 @@
     "avg": "$430.00",
     "avg_value": 430.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:09:52",
+    "item": "Cobblestone",
+    "avg": "$27.00",
+    "avg_value": 27.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:09:54",
+    "item": "Book: Mending",
+    "avg": "$5.41K",
+    "avg_value": 5405.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:09:57",
+    "item": "Book: Silk Touch",
+    "avg": "$13.62K",
+    "avg_value": 13620.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:10:00",
+    "item": "Book: Protection IV",
+    "avg": "$15.50K",
+    "avg_value": 15500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:10:05",
+    "item": "Book: Unbreaking III",
+    "avg": "$15.00K",
+    "avg_value": 15000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:10:10",
+    "item": "Blocks of Gold",
+    "avg": "$7.30K",
+    "avg_value": 7300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:10:13",
+    "item": "Nether Quartz",
+    "avg": "$30.00",
+    "avg_value": 30.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:10:18",
+    "item": "Elytra",
+    "avg": "$595.51M",
+    "avg_value": 5.95505E8
+  }
 ]
