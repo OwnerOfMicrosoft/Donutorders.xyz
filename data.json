@@ -143054,4 +143054,39 @@
     "avg": "$2.14K",
     "avg_value": 2135.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:23:34",
+    "item": "Blocks of Redstone",
+    "avg": "$1.83K",
+    "avg_value": 1830.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:39",
+    "item": "Cherry Logs",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:42",
+    "item": "Bone Blocks",
+    "avg": "$531.51",
+    "avg_value": 531.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:52",
+    "item": "Redstone Dust",
+    "avg": "$267.50",
+    "avg_value": 267.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:55",
+    "item": "Chests",
+    "avg": "$185.00",
+    "avg_value": 185.0
+  }
 ]
