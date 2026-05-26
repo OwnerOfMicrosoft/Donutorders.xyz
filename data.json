@@ -141871,4 +141871,60 @@
     "avg": "$20.50",
     "avg_value": 20.5
   }
+,
+  {
+    "timestamp": "2026-05-26 09:41:59",
+    "item": "Elytra",
+    "avg": "$611.00M",
+    "avg_value": 6.11E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:01",
+    "item": "Shulker Shells",
+    "avg": "$315.50",
+    "avg_value": 315.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:15",
+    "item": "Hoppers",
+    "avg": "$1.80K",
+    "avg_value": 1800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:17",
+    "item": "Diamonds",
+    "avg": "$3.68K",
+    "avg_value": 3680.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:20",
+    "item": "Iron Ingots",
+    "avg": "$253.00",
+    "avg_value": 253.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:22",
+    "item": "Blocks of Iron",
+    "avg": "$2.29K",
+    "avg_value": 2285.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:25",
+    "item": "Blocks of Redstone",
+    "avg": "$2.51K",
+    "avg_value": 2505.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:28",
+    "item": "Emeralds",
+    "avg": "$612.05",
+    "avg_value": 612.05
+  }
 ]
