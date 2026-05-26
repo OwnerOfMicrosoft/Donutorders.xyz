@@ -147884,4 +147884,46 @@
     "avg": "$350.50",
     "avg_value": 350.5
   }
+,
+  {
+    "timestamp": "2026-05-26 11:58:41",
+    "item": "Chests",
+    "avg": "$95.21",
+    "avg_value": 95.21
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:58:43",
+    "item": "Spruce Logs",
+    "avg": "$45.00",
+    "avg_value": 45.004999999999995
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:58:49",
+    "item": "Strings",
+    "avg": "$176.00",
+    "avg_value": 176.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:58:57",
+    "item": "Stone",
+    "avg": "$71.01",
+    "avg_value": 71.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:58:59",
+    "item": "Mud",
+    "avg": "$295.00",
+    "avg_value": 295.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:59:04",
+    "item": "Minecarts with TNT",
+    "avg": "$5.75K",
+    "avg_value": 5750.0
+  }
 ]
