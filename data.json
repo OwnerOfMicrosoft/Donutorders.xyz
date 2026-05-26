@@ -151055,4 +151055,32 @@
     "avg": "$17.50K",
     "avg_value": 17500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:36:36",
+    "item": "Book: Unbreaking III",
+    "avg": "$9.50K",
+    "avg_value": 9500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:36:48",
+    "item": "Wheat Seeds",
+    "avg": "$16.10",
+    "avg_value": 16.1
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:36:53",
+    "item": "Shulker Shells",
+    "avg": "$350.51",
+    "avg_value": 350.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:05",
+    "item": "Gravel",
+    "avg": "$414.50",
+    "avg_value": 414.5
+  }
 ]
