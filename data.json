@@ -140884,4 +140884,39 @@
     "avg": "$435.50",
     "avg_value": 435.5
   }
+,
+  {
+    "timestamp": "2026-05-25 23:56:30",
+    "item": "Diamonds",
+    "avg": "$3.51K",
+    "avg_value": 3505.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:56:33",
+    "item": "Iron Ingots",
+    "avg": "$223.50",
+    "avg_value": 223.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:56:47",
+    "item": "Bone Blocks",
+    "avg": "$546.01",
+    "avg_value": 546.01
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:56:56",
+    "item": "Sand",
+    "avg": "$361.55",
+    "avg_value": 361.55
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:56:58",
+    "item": "Redstone Dust",
+    "avg": "$202.55",
+    "avg_value": 202.55
+  }
 ]
