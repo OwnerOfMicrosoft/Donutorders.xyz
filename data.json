@@ -140149,4 +140149,18 @@
     "avg": "$2.32K",
     "avg_value": 2315.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:36:27",
+    "item": "Book: Mending",
+    "avg": "$4.25K",
+    "avg_value": 4250.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:36:29",
+    "item": "Book: Silk Touch",
+    "avg": "$7.25K",
+    "avg_value": 7250.0
+  }
 ]
