@@ -145644,4 +145644,32 @@
     "avg": "$29.50",
     "avg_value": 29.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:55:19",
+    "item": "Wheat Seeds",
+    "avg": "$20.50",
+    "avg_value": 20.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:30",
+    "item": "End Crystals",
+    "avg": "$352.00",
+    "avg_value": 352.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:42",
+    "item": "Diamonds",
+    "avg": "$3.53K",
+    "avg_value": 3530.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:47",
+    "item": "Blocks of Iron",
+    "avg": "$2.26K",
+    "avg_value": 2260.0
+  }
 ]
