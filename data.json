@@ -150096,4 +150096,46 @@
     "avg": "$55.50",
     "avg_value": 55.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:25:22",
+    "item": "Blocks of Netherite",
+    "avg": "$31.34M",
+    "avg_value": 3.1335E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:30",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$438.55K",
+    "avg_value": 438550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:32",
+    "item": "Stone",
+    "avg": "$125.00",
+    "avg_value": 125.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:32",
+    "item": "Smooth Stone",
+    "avg": "$75.00",
+    "avg_value": 75.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:38",
+    "item": "Ancient Debris",
+    "avg": "$880.05K",
+    "avg_value": 880050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:40",
+    "item": "Minecarts with TNT",
+    "avg": "$4.65K",
+    "avg_value": 4650.0
+  }
 ]
