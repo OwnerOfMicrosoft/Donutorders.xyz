@@ -140863,4 +140863,25 @@
     "avg": "$9.25K",
     "avg_value": 9250.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:56:16",
+    "item": "Beacons",
+    "avg": "$178.50K",
+    "avg_value": 178500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:56:22",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$48.50K",
+    "avg_value": 48500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:56:25",
+    "item": "Gravel",
+    "avg": "$435.50",
+    "avg_value": 435.5
+  }
 ]
