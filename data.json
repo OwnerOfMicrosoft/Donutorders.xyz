@@ -150271,4 +150271,46 @@
     "avg": "$223.00",
     "avg_value": 223.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:27:31",
+    "item": "Blocks of Emerald",
+    "avg": "$5.52K",
+    "avg_value": 5515.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:27:33",
+    "item": "Smooth Stone",
+    "avg": "$77.50",
+    "avg_value": 77.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:27:33",
+    "item": "Stone",
+    "avg": "$74.01",
+    "avg_value": 74.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:27:39",
+    "item": "Ancient Debris",
+    "avg": "$890.50K",
+    "avg_value": 890500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:27:41",
+    "item": "Minecarts with TNT",
+    "avg": "$5.40K",
+    "avg_value": 5400.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:27:57",
+    "item": "Leather",
+    "avg": "$390.05",
+    "avg_value": 390.05
+  }
 ]
