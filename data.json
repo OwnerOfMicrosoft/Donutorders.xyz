@@ -151405,4 +151405,60 @@
     "avg": "$54.75K",
     "avg_value": 54750.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:41:24",
+    "item": "Gravel",
+    "avg": "$397.00",
+    "avg_value": 397.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:27",
+    "item": "Hoppers",
+    "avg": "$1.31K",
+    "avg_value": 1305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:32",
+    "item": "Iron Ingots",
+    "avg": "$306.00",
+    "avg_value": 306.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:35",
+    "item": "Blocks of Iron",
+    "avg": "$2.50K",
+    "avg_value": 2500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:44",
+    "item": "Stripped Oak Logs",
+    "avg": "$425.00",
+    "avg_value": 425.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:44",
+    "item": "Acacia Logs",
+    "avg": "$350.00",
+    "avg_value": 350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:44",
+    "item": "Oak Logs",
+    "avg": "$327.50",
+    "avg_value": 327.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:55",
+    "item": "Sand",
+    "avg": "$378.50",
+    "avg_value": 378.5
+  }
 ]
