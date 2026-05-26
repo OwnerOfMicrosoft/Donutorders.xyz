@@ -148703,4 +148703,32 @@
     "avg": "$2.19K",
     "avg_value": 2185.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:08:45",
+    "item": "Emeralds",
+    "avg": "$700.50",
+    "avg_value": 700.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:48",
+    "item": "Oak Logs",
+    "avg": "$347.50",
+    "avg_value": 347.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:48",
+    "item": "Pale Oak Log",
+    "avg": "$310.00",
+    "avg_value": 310.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:09:04",
+    "item": "Chests",
+    "avg": "$95.21",
+    "avg_value": 95.21
+  }
 ]
