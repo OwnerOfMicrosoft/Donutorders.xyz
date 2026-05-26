@@ -143719,4 +143719,53 @@
     "avg": "$58.50K",
     "avg_value": 58500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:31:56",
+    "item": "Minecarts with Hoppers",
+    "avg": "$3.50K",
+    "avg_value": 3500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:56",
+    "item": "Hoppers",
+    "avg": "$1.80K",
+    "avg_value": 1800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:32:02",
+    "item": "Iron Ingots",
+    "avg": "$275.50",
+    "avg_value": 275.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:32:04",
+    "item": "Blocks of Iron",
+    "avg": "$2.85K",
+    "avg_value": 2850.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:32:07",
+    "item": "Blocks of Redstone",
+    "avg": "$2.00K",
+    "avg_value": 2000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:32:13",
+    "item": "Stripped Birch Logs",
+    "avg": "$500.00",
+    "avg_value": 500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:32:13",
+    "item": "Oak Logs",
+    "avg": "$320.00",
+    "avg_value": 320.0
+  }
 ]
