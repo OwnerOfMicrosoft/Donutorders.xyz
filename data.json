@@ -145672,4 +145672,46 @@
     "avg": "$2.26K",
     "avg_value": 2260.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:55:50",
+    "item": "Blocks of Redstone",
+    "avg": "$1.83K",
+    "avg_value": 1825.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:50",
+    "item": "Redstone Repeaters",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:55:53",
+    "item": "Emeralds",
+    "avg": "$668.00",
+    "avg_value": 668.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:56:16",
+    "item": "Spruce Logs",
+    "avg": "$45.04",
+    "avg_value": 45.035
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:56:21",
+    "item": "Strings",
+    "avg": "$130.50",
+    "avg_value": 130.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:56:24",
+    "item": "Netherite Ingot",
+    "avg": "$3.61M",
+    "avg_value": 3610000.0
+  }
 ]
