@@ -146456,4 +146456,32 @@
     "avg": "$381.05",
     "avg_value": 381.05
   }
+,
+  {
+    "timestamp": "2026-05-26 11:40:04",
+    "item": "Blocks of Netherite",
+    "avg": "$31.02M",
+    "avg_value": 3.1015E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:04",
+    "item": "Block of Netherite",
+    "avg": "$29.00M",
+    "avg_value": 2.9E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:14",
+    "item": "Smooth Stone",
+    "avg": "$130.50",
+    "avg_value": 130.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:22",
+    "item": "Minecarts with TNT",
+    "avg": "$4.38K",
+    "avg_value": 4375.0
+  }
 ]
