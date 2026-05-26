@@ -139694,4 +139694,18 @@
     "avg": "$501.50",
     "avg_value": 501.5
   }
+,
+  {
+    "timestamp": "2026-05-25 23:25:58",
+    "item": "Blocks of Gold",
+    "avg": "$7.07K",
+    "avg_value": 7065.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:26:07",
+    "item": "Elytra",
+    "avg": "$577.00M",
+    "avg_value": 5.77E8
+  }
 ]
