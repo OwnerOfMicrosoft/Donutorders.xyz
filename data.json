@@ -142445,4 +142445,67 @@
     "avg": "$330.00",
     "avg_value": 330.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:15:43",
+    "item": "Creeper Heads",
+    "avg": "$257.06K",
+    "avg_value": 257055.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:48",
+    "item": "Redstone Dust",
+    "avg": "$230.50",
+    "avg_value": 230.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:51",
+    "item": "Chests",
+    "avg": "$151.00",
+    "avg_value": 151.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:54",
+    "item": "Spruce Logs",
+    "avg": "$47.45",
+    "avg_value": 47.45
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:56",
+    "item": "Block of Netherite",
+    "avg": "$30.31M",
+    "avg_value": 3.031E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:59",
+    "item": "Strings",
+    "avg": "$212.50",
+    "avg_value": 212.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:07",
+    "item": "Stone",
+    "avg": "$109.51",
+    "avg_value": 109.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:07",
+    "item": "Smooth Stone",
+    "avg": "$74.50",
+    "avg_value": 74.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:16:09",
+    "item": "Mud",
+    "avg": "$315.50",
+    "avg_value": 315.5
+  }
 ]
