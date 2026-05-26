@@ -144384,4 +144384,39 @@
     "avg": "$102.00",
     "avg_value": 102.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:39:15",
+    "item": "Smooth Stone",
+    "avg": "$105.00",
+    "avg_value": 105.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:39:15",
+    "item": "Stone",
+    "avg": "$58.00",
+    "avg_value": 58.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:39:17",
+    "item": "Mud Bricks",
+    "avg": "$555.00",
+    "avg_value": 555.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:39:23",
+    "item": "Minecarts with TNT",
+    "avg": "$3.93K",
+    "avg_value": 3925.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:39:34",
+    "item": "Bones",
+    "avg": "$176.55",
+    "avg_value": 176.55
+  }
 ]
