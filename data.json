@@ -139267,4 +139267,18 @@
     "avg": "$315.00",
     "avg_value": 315.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:15:39",
+    "item": "Hoppers",
+    "avg": "$1.45K",
+    "avg_value": 1450.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:15:42",
+    "item": "Diamonds",
+    "avg": "$3.55K",
+    "avg_value": 3550.0
+  }
 ]
