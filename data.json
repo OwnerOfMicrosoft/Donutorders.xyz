@@ -151986,4 +151986,25 @@
     "avg": "$7.01K",
     "avg_value": 7010.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:49:32",
+    "item": "Book: Blast Protection IV",
+    "avg": "$5.25K",
+    "avg_value": 5250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:49:34",
+    "item": "Book: Unbreaking III",
+    "avg": "$29.51K",
+    "avg_value": 29510.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:49:43",
+    "item": "Blocks of Quartz",
+    "avg": "$145.33",
+    "avg_value": 145.33499999999998
+  }
 ]
