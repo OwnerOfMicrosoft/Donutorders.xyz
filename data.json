@@ -148584,4 +148584,60 @@
     "avg": "$420.50K",
     "avg_value": 420500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:07:48",
+    "item": "Redstone Repeaters",
+    "avg": "$1.65K",
+    "avg_value": 1650.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:50",
+    "item": "Cobblestone",
+    "avg": "$20.44",
+    "avg_value": 20.435000000000002
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:53",
+    "item": "Book: Mending",
+    "avg": "$4.75K",
+    "avg_value": 4750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:55",
+    "item": "Book: Silk Touch",
+    "avg": "$13.12K",
+    "avg_value": 13120.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:58",
+    "item": "Book: Protection IV",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:01",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.50K",
+    "avg_value": 4500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:03",
+    "item": "Book: Unbreaking III",
+    "avg": "$10.50K",
+    "avg_value": 10500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:08:06",
+    "item": "Gold Ingots",
+    "avg": "$825.50",
+    "avg_value": 825.5
+  }
 ]
