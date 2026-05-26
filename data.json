@@ -147268,4 +147268,18 @@
     "avg": "$8.00K",
     "avg_value": 8000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:51:02",
+    "item": "Bones",
+    "avg": "$179.05",
+    "avg_value": 179.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:11",
+    "item": "Redstone Comparators",
+    "avg": "$990.50",
+    "avg_value": 990.5
+  }
 ]
