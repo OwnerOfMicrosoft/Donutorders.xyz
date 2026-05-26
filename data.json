@@ -141234,4 +141234,165 @@
     "avg": "$3.19M",
     "avg_value": 3185000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 09:36:56",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$446.00K",
+    "avg_value": 446000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:56",
+    "item": "Blocks of Emerald",
+    "avg": "$5.76K",
+    "avg_value": 5755.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:59",
+    "item": "Smooth Stone",
+    "avg": "$190.00",
+    "avg_value": 190.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:59",
+    "item": "Stone Swords",
+    "avg": "$186.00",
+    "avg_value": 186.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:59",
+    "item": "Stone Shovels",
+    "avg": "$100.00",
+    "avg_value": 100.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:59",
+    "item": "Mossy Stone Bricks",
+    "avg": "$85.00",
+    "avg_value": 85.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:59",
+    "item": "Stone",
+    "avg": "$65.00",
+    "avg_value": 65.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:59",
+    "item": "Stone Bricks",
+    "avg": "$63.50",
+    "avg_value": 63.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:01",
+    "item": "Mud Bricks",
+    "avg": "$528.50",
+    "avg_value": 528.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:01",
+    "item": "Mud",
+    "avg": "$253.50",
+    "avg_value": 253.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:01",
+    "item": "Muddy Mangrove Roots",
+    "avg": "$10.00",
+    "avg_value": 10.004999999999999
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:09",
+    "item": "Enchanted Golden Apples",
+    "avg": "$648.32K",
+    "avg_value": 648315.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:12",
+    "item": "Piglin Heads",
+    "avg": "$392.10K",
+    "avg_value": 392100.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:14",
+    "item": "Ominous Trial Keys",
+    "avg": "$252.00K",
+    "avg_value": 252000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:14",
+    "item": "Ominous Trial Key",
+    "avg": "$100.00K",
+    "avg_value": 100000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:17",
+    "item": "Bones",
+    "avg": "$175.00",
+    "avg_value": 175.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:20",
+    "item": "Slime Blocks",
+    "avg": "$355.75",
+    "avg_value": 355.75
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:22",
+    "item": "Leather Tunics",
+    "avg": "$5.00K",
+    "avg_value": 5000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:22",
+    "item": "Leather",
+    "avg": "$405.50",
+    "avg_value": 405.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:25",
+    "item": "Redstone Comparators",
+    "avg": "$1.01K",
+    "avg_value": 1005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:25",
+    "item": "Redstone Comparator",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:30",
+    "item": "Mossy Cobblestone",
+    "avg": "$61.00",
+    "avg_value": 61.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:30",
+    "item": "Cobblestone",
+    "avg": "$19.36",
+    "avg_value": 19.36
+  }
 ]
