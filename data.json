@@ -151223,4 +151223,46 @@
     "avg": "$15.05K",
     "avg_value": 15050.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:38:43",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.05K",
+    "avg_value": 4050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:38:46",
+    "item": "Book: Unbreaking III",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:38:49",
+    "item": "Gold Ingots",
+    "avg": "$825.55",
+    "avg_value": 825.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:38:55",
+    "item": "Nether Quartz",
+    "avg": "$31.00",
+    "avg_value": 31.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:39:09",
+    "item": "End Crystals",
+    "avg": "$294.00",
+    "avg_value": 294.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:39:14",
+    "item": "Gravel",
+    "avg": "$431.00",
+    "avg_value": 431.0
+  }
 ]
