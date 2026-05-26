@@ -148955,4 +148955,39 @@
     "avg": "$4.15K",
     "avg_value": 4150.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:11:35",
+    "item": "Piglin Heads",
+    "avg": "$426.50K",
+    "avg_value": 426500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:11:40",
+    "item": "Bones",
+    "avg": "$176.35",
+    "avg_value": 176.35
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:11:45",
+    "item": "Leather",
+    "avg": "$358.25",
+    "avg_value": 358.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:11:56",
+    "item": "Book: Mending",
+    "avg": "$4.81K",
+    "avg_value": 4805.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:11:59",
+    "item": "Book: Silk Touch",
+    "avg": "$8.75K",
+    "avg_value": 8750.0
+  }
 ]
