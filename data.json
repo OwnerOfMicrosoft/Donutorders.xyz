@@ -143250,4 +143250,39 @@
     "avg": "$70.00",
     "avg_value": 70.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:26:20",
+    "item": "Mud",
+    "avg": "$330.50",
+    "avg_value": 330.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:26",
+    "item": "Minecarts with TNT",
+    "avg": "$3.63K",
+    "avg_value": 3625.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:35",
+    "item": "Ominous Trial Keys",
+    "avg": "$252.01K",
+    "avg_value": 252005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:38",
+    "item": "Bones",
+    "avg": "$177.75",
+    "avg_value": 177.75
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:26:43",
+    "item": "Leather Tunics",
+    "avg": "$29.00K",
+    "avg_value": 29000.0
+  }
 ]
