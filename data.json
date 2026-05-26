@@ -144902,4 +144902,39 @@
     "avg": "$861.00K",
     "avg_value": 860995.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:45:51",
+    "item": "Minecarts with TNT",
+    "avg": "$6.50K",
+    "avg_value": 6500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:10",
+    "item": "Redstone Comparators",
+    "avg": "$1.01K",
+    "avg_value": 1005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:13",
+    "item": "Redstone Repeaters",
+    "avg": "$1.65K",
+    "avg_value": 1650.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:16",
+    "item": "Cobblestone",
+    "avg": "$22.05",
+    "avg_value": 22.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:22",
+    "item": "Book: Silk Touch",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
 ]
