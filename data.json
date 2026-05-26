@@ -145854,4 +145854,39 @@
     "avg": "$3.52M",
     "avg_value": 3520000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:58:39",
+    "item": "Smooth Stone",
+    "avg": "$87.50",
+    "avg_value": 87.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:58:47",
+    "item": "Minecarts with TNT",
+    "avg": "$4.30K",
+    "avg_value": 4300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:58:56",
+    "item": "Ominous Trial Keys",
+    "avg": "$253.50K",
+    "avg_value": 253500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:58:58",
+    "item": "Bones",
+    "avg": "$183.51",
+    "avg_value": 183.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:59:03",
+    "item": "Map",
+    "avg": "$564.39M",
+    "avg_value": 5.64385E8
+  }
 ]
