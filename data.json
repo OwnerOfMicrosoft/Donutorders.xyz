@@ -141395,4 +141395,151 @@
     "avg": "$19.36",
     "avg_value": 19.36
   }
+,
+  {
+    "timestamp": "2026-05-26 09:37:33",
+    "item": "Book: Mending",
+    "avg": "$4.85K",
+    "avg_value": 4850.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:35",
+    "item": "Book: Silk Touch",
+    "avg": "$7.00K",
+    "avg_value": 6995.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:38",
+    "item": "Book: Protection IV",
+    "avg": "$10.50K",
+    "avg_value": 10500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:41",
+    "item": "Book: Blast Protection IV",
+    "avg": "$7.55K",
+    "avg_value": 7550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:43",
+    "item": "Book: Unbreaking III",
+    "avg": "$9.31K",
+    "avg_value": 9310.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:43",
+    "item": "Book: Unbreaking II",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:46",
+    "item": "Gold Ingots",
+    "avg": "$810.00",
+    "avg_value": 810.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:46",
+    "item": "Gold Ingot",
+    "avg": "$800.00",
+    "avg_value": 800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:48",
+    "item": "Blocks of Gold",
+    "avg": "$6.86K",
+    "avg_value": 6860.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:51",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$430.50",
+    "avg_value": 430.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:51",
+    "item": "Blocks of Quartz",
+    "avg": "$119.00",
+    "avg_value": 119.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:51",
+    "item": "Quartz Stairs",
+    "avg": "$107.50",
+    "avg_value": 107.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:51",
+    "item": "Nether Quartz Ore",
+    "avg": "$51.01",
+    "avg_value": 51.010000000000005
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:51",
+    "item": "Nether Quartz",
+    "avg": "$28.25",
+    "avg_value": 28.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:51",
+    "item": "Quartz Pillars",
+    "avg": "$22.50",
+    "avg_value": 22.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:51",
+    "item": "Quartz Slabs",
+    "avg": "$10.00",
+    "avg_value": 10.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:54",
+    "item": "Wheat",
+    "avg": "$240.50",
+    "avg_value": 240.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:54",
+    "item": "Wheat Seeds",
+    "avg": "$22.00",
+    "avg_value": 22.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:56",
+    "item": "Elytra",
+    "avg": "$640.25M",
+    "avg_value": 6.4025E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:37:59",
+    "item": "Shulker Shells",
+    "avg": "$315.50",
+    "avg_value": 315.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:38:02",
+    "item": "Beacons",
+    "avg": "$187.00K",
+    "avg_value": 187000.0
+  }
 ]
