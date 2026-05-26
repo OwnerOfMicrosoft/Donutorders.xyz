@@ -149991,4 +149991,60 @@
     "avg": "$9.00K",
     "avg_value": 9000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:24:19",
+    "item": "Gold Ingots",
+    "avg": "$825.55",
+    "avg_value": 825.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:21",
+    "item": "Blocks of Gold",
+    "avg": "$7.10K",
+    "avg_value": 7100.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:21",
+    "item": "Blocks of Raw Gold",
+    "avg": "$6.11K",
+    "avg_value": 6105.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:24",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$300.50",
+    "avg_value": 300.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:24",
+    "item": "Blocks of Quartz",
+    "avg": "$180.33",
+    "avg_value": 180.33499999999998
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:40",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$49.02K",
+    "avg_value": 49015.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:45",
+    "item": "Hoppers",
+    "avg": "$1.43K",
+    "avg_value": 1425.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:47",
+    "item": "Diamonds",
+    "avg": "$4.18K",
+    "avg_value": 4175.0
+  }
 ]
