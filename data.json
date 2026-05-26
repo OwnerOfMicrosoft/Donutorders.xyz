@@ -143600,4 +143600,39 @@
     "avg": "$3.93K",
     "avg_value": 3925.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:31:03",
+    "item": "Leather",
+    "avg": "$350.00",
+    "avg_value": 350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:05",
+    "item": "Redstone Comparators",
+    "avg": "$984.50",
+    "avg_value": 984.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:11",
+    "item": "Cobblestone",
+    "avg": "$21.71",
+    "avg_value": 21.705
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:14",
+    "item": "Book: Mending",
+    "avg": "$5.75K",
+    "avg_value": 5750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:17",
+    "item": "Book: Silk Touch",
+    "avg": "$6.32K",
+    "avg_value": 6320.0
+  }
 ]
