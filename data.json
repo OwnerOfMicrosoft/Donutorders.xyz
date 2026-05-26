@@ -140163,4 +140163,18 @@
     "avg": "$7.25K",
     "avg_value": 7250.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:37:11",
+    "item": "Diamonds",
+    "avg": "$3.50K",
+    "avg_value": 3500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:37:14",
+    "item": "Iron Ingots",
+    "avg": "$266.00",
+    "avg_value": 266.0
+  }
 ]
