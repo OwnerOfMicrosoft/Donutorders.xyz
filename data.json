@@ -141626,4 +141626,53 @@
     "avg": "$126.50",
     "avg_value": 126.5
   }
+,
+  {
+    "timestamp": "2026-05-26 09:39:17",
+    "item": "Ominous Trial Keys",
+    "avg": "$248.00K",
+    "avg_value": 248000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:39:19",
+    "item": "Bones",
+    "avg": "$178.00",
+    "avg_value": 178.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:39:30",
+    "item": "Redstone Repeaters",
+    "avg": "$1.66K",
+    "avg_value": 1660.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:39:33",
+    "item": "Cobblestone",
+    "avg": "$21.05",
+    "avg_value": 21.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:39:35",
+    "item": "Book: Mending",
+    "avg": "$5.50K",
+    "avg_value": 5500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:39:40",
+    "item": "Book: Protection IV",
+    "avg": "$11.75K",
+    "avg_value": 11750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:39:43",
+    "item": "Book: Blast Protection IV",
+    "avg": "$7.80K",
+    "avg_value": 7800.0
+  }
 ]
