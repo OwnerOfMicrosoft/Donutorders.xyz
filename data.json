@@ -151909,4 +151909,46 @@
     "avg": "$548.50",
     "avg_value": 548.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:48:27",
+    "item": "Redstone Dust",
+    "avg": "$211.00",
+    "avg_value": 211.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:30",
+    "item": "Chests",
+    "avg": "$97.61",
+    "avg_value": 97.61
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:44",
+    "item": "Blocks of Emerald",
+    "avg": "$5.55K",
+    "avg_value": 5550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:47",
+    "item": "Stone",
+    "avg": "$75.50",
+    "avg_value": 75.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:47",
+    "item": "Smooth Stone",
+    "avg": "$77.50",
+    "avg_value": 77.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:49",
+    "item": "Mud",
+    "avg": "$265.00",
+    "avg_value": 265.0
+  }
 ]
