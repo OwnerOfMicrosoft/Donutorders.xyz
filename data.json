@@ -146113,4 +146113,95 @@
     "avg": "$225.00",
     "avg_value": 225.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:35:56",
+    "item": "Chests",
+    "avg": "$197.61",
+    "avg_value": 197.61
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:35:59",
+    "item": "Spruce Logs",
+    "avg": "$43.66",
+    "avg_value": 43.655
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:01",
+    "item": "Block of Netherite",
+    "avg": "$30.00M",
+    "avg_value": 3.0E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:04",
+    "item": "Strings",
+    "avg": "$170.00",
+    "avg_value": 170.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:06",
+    "item": "Netherite Ingots",
+    "avg": "$3.59M",
+    "avg_value": 3585000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:09",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$452.00K",
+    "avg_value": 452000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:09",
+    "item": "Blocks of Emerald",
+    "avg": "$5.33K",
+    "avg_value": 5325.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:12",
+    "item": "Stone Button",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:12",
+    "item": "Smooth Stone",
+    "avg": "$95.50",
+    "avg_value": 95.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:12",
+    "item": "Stone",
+    "avg": "$85.01",
+    "avg_value": 85.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:14",
+    "item": "Mud Bricks",
+    "avg": "$727.00",
+    "avg_value": 727.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:14",
+    "item": "Mud",
+    "avg": "$295.00",
+    "avg_value": 295.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:36:20",
+    "item": "Minecarts with TNT",
+    "avg": "$3.83K",
+    "avg_value": 3825.0
+  }
 ]
