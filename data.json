@@ -152077,4 +152077,32 @@
     "avg": "$78.50",
     "avg_value": 78.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:51:05",
+    "item": "Minecarts with TNT",
+    "avg": "$4.00K",
+    "avg_value": 4000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:07",
+    "item": "Enchanted Golden Apples",
+    "avg": "$675.00K",
+    "avg_value": 675000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:27",
+    "item": "Redstone Repeaters",
+    "avg": "$1.59K",
+    "avg_value": 1590.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:51:30",
+    "item": "Cobblestone",
+    "avg": "$25.00",
+    "avg_value": 25.0
+  }
 ]
