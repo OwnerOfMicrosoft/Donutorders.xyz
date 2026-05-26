@@ -142284,4 +142284,18 @@
     "avg": "$8.10K",
     "avg_value": 8100.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:08:27",
+    "item": "Book: Protection IV",
+    "avg": "$7.51K",
+    "avg_value": 7505.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:29",
+    "item": "Book: Blast Protection IV",
+    "avg": "$8.35K",
+    "avg_value": 8350.0
+  }
 ]
