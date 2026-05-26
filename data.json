@@ -141990,4 +141990,39 @@
     "avg": "$63.75",
     "avg_value": 63.75
   }
+,
+  {
+    "timestamp": "2026-05-26 09:43:20",
+    "item": "Bones",
+    "avg": "$177.25",
+    "avg_value": 177.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:43:25",
+    "item": "Leather",
+    "avg": "$406.00",
+    "avg_value": 406.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:43:28",
+    "item": "Redstone Comparators",
+    "avg": "$3.25K",
+    "avg_value": 3250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:43:33",
+    "item": "Cobblestone",
+    "avg": "$20.30",
+    "avg_value": 20.3
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:43:36",
+    "item": "Book: Mending",
+    "avg": "$4.80K",
+    "avg_value": 4800.0
+  }
 ]
