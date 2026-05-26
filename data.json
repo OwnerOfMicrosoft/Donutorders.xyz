@@ -152231,4 +152231,39 @@
     "avg": "$70.01",
     "avg_value": 70.005
   }
+,
+  {
+    "timestamp": "2026-05-26 12:53:09",
+    "item": "Mud",
+    "avg": "$285.00",
+    "avg_value": 285.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:53:15",
+    "item": "Minecarts with TNT",
+    "avg": "$3.86K",
+    "avg_value": 3855.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:53:26",
+    "item": "Bones",
+    "avg": "$180.00",
+    "avg_value": 180.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:53:29",
+    "item": "Slime Blocks",
+    "avg": "$355.50",
+    "avg_value": 355.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:53:34",
+    "item": "Redstone Comparators",
+    "avg": "$1.25K",
+    "avg_value": 1250.0
+  }
 ]
