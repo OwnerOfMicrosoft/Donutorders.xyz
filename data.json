@@ -139722,4 +139722,39 @@
     "avg": "$260.00",
     "avg_value": 260.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:26:54",
+    "item": "Redstone Dust",
+    "avg": "$261.50",
+    "avg_value": 261.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:26:57",
+    "item": "Chests",
+    "avg": "$227.00",
+    "avg_value": 227.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:27:00",
+    "item": "Spruce Logs",
+    "avg": "$50.21",
+    "avg_value": 50.205
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:27:06",
+    "item": "Strings",
+    "avg": "$126.00",
+    "avg_value": 126.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:27:23",
+    "item": "TNT",
+    "avg": "$2.48K",
+    "avg_value": 2480.0
+  }
 ]
