@@ -151461,4 +151461,39 @@
     "avg": "$378.50",
     "avg_value": 378.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:41:58",
+    "item": "Redstone Dust",
+    "avg": "$238.50",
+    "avg_value": 238.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:42:01",
+    "item": "Chests",
+    "avg": "$95.22",
+    "avg_value": 95.215
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:42:12",
+    "item": "Netherite Ingot",
+    "avg": "$3.42M",
+    "avg_value": 3415000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:42:15",
+    "item": "Blocks of Emerald",
+    "avg": "$5.85K",
+    "avg_value": 5850.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:42:26",
+    "item": "Minecarts with TNT",
+    "avg": "$3.76K",
+    "avg_value": 3755.0
+  }
 ]
