@@ -140625,4 +140625,18 @@
     "avg": "$560.00M",
     "avg_value": 5.6E8
   }
+,
+  {
+    "timestamp": "2026-05-25 23:50:01",
+    "item": "Minecarts with Hoppers",
+    "avg": "$3.95K",
+    "avg_value": 3950.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:50:01",
+    "item": "Hoppers",
+    "avg": "$1.45K",
+    "avg_value": 1450.0
+  }
 ]
