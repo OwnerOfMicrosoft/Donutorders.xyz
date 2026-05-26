@@ -142116,4 +142116,116 @@
     "avg": "$400.00",
     "avg_value": 400.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:07:19",
+    "item": "Bone Blocks",
+    "avg": "$545.00",
+    "avg_value": 545.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:24",
+    "item": "Creeper Heads",
+    "avg": "$261.06K",
+    "avg_value": 261055.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:24",
+    "item": "Banner Patterns",
+    "avg": "$55.51K",
+    "avg_value": 55510.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:29",
+    "item": "Redstone Dust",
+    "avg": "$222.50",
+    "avg_value": 222.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:32",
+    "item": "Chests",
+    "avg": "$100.55",
+    "avg_value": 100.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:34",
+    "item": "Spruce Logs",
+    "avg": "$65.50",
+    "avg_value": 65.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:37",
+    "item": "Blocks of Netherite",
+    "avg": "$32.14M",
+    "avg_value": 3.2135E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:39",
+    "item": "Strings",
+    "avg": "$130.01",
+    "avg_value": 130.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:42",
+    "item": "Netherite Ingots",
+    "avg": "$3.53M",
+    "avg_value": 3525000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:45",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$439.00K",
+    "avg_value": 439000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:45",
+    "item": "Blocks of Emerald",
+    "avg": "$5.88K",
+    "avg_value": 5875.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:47",
+    "item": "Smooth Stone",
+    "avg": "$72.84",
+    "avg_value": 72.83500000000001
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:47",
+    "item": "Mossy Stone Bricks",
+    "avg": "$70.00",
+    "avg_value": 70.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:47",
+    "item": "Stone Bricks",
+    "avg": "$63.50",
+    "avg_value": 63.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:47",
+    "item": "Stone",
+    "avg": "$59.00",
+    "avg_value": 59.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:50",
+    "item": "Mud",
+    "avg": "$275.50",
+    "avg_value": 275.5
+  }
 ]
