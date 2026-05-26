@@ -140422,4 +140422,32 @@
     "avg": "$12.10",
     "avg_value": 12.1
   }
+,
+  {
+    "timestamp": "2026-05-25 23:45:35",
+    "item": "End Crystals",
+    "avg": "$342.50",
+    "avg_value": 342.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:49",
+    "item": "Iron Ingots",
+    "avg": "$313.00",
+    "avg_value": 313.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:52",
+    "item": "Blocks of Iron",
+    "avg": "$2.58K",
+    "avg_value": 2575.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:55",
+    "item": "Blocks of Redstone",
+    "avg": "$1.85K",
+    "avg_value": 1850.0
+  }
 ]
