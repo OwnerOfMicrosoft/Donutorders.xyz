@@ -151804,4 +151804,39 @@
     "avg": "$75.50",
     "avg_value": 75.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:46:45",
+    "item": "Minecarts with TNT",
+    "avg": "$3.71K",
+    "avg_value": 3705.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:02",
+    "item": "Leather",
+    "avg": "$358.25",
+    "avg_value": 358.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:08",
+    "item": "Redstone Repeaters",
+    "avg": "$1.45K",
+    "avg_value": 1450.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:11",
+    "item": "Cobblestone",
+    "avg": "$31.00",
+    "avg_value": 31.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:14",
+    "item": "Book: Mending",
+    "avg": "$6.50K",
+    "avg_value": 6500.0
+  }
 ]
