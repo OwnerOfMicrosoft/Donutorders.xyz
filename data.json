@@ -151370,4 +151370,39 @@
     "avg": "$6.25K",
     "avg_value": 6245.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:40:53",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.15K",
+    "avg_value": 4150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:40:56",
+    "item": "Book: Unbreaking III",
+    "avg": "$6.56K",
+    "avg_value": 6555.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:40:59",
+    "item": "Gold Ingots",
+    "avg": "$850.50",
+    "avg_value": 850.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:04",
+    "item": "Nether Quartz",
+    "avg": "$30.00",
+    "avg_value": 30.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:41:21",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$54.75K",
+    "avg_value": 54750.0
+  }
 ]
