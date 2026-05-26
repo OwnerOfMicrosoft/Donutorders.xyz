@@ -140009,4 +140009,39 @@
     "avg": "$100.38",
     "avg_value": 100.38499999999999
   }
+,
+  {
+    "timestamp": "2026-05-25 23:33:35",
+    "item": "Netherite Ingot",
+    "avg": "$3.19M",
+    "avg_value": 3185000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:33:38",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$436.56K",
+    "avg_value": 436555.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:33:41",
+    "item": "Stone",
+    "avg": "$52.70",
+    "avg_value": 52.7
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:33:49",
+    "item": "Minecarts with TNT",
+    "avg": "$4.80K",
+    "avg_value": 4800.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:34:00",
+    "item": "Bones",
+    "avg": "$176.00",
+    "avg_value": 176.0
+  }
 ]
