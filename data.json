@@ -151083,4 +151083,67 @@
     "avg": "$414.50",
     "avg_value": 414.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:37:07",
+    "item": "Minecarts with Hoppers",
+    "avg": "$3.35K",
+    "avg_value": 3350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:07",
+    "item": "Hoppers",
+    "avg": "$1.48K",
+    "avg_value": 1480.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:10",
+    "item": "Diamonds",
+    "avg": "$3.52K",
+    "avg_value": 3515.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:13",
+    "item": "Iron Ingots",
+    "avg": "$280.00",
+    "avg_value": 280.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:16",
+    "item": "Blocks of Iron",
+    "avg": "$2.49K",
+    "avg_value": 2485.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:19",
+    "item": "Redstone Repeaters",
+    "avg": "$1.15K",
+    "avg_value": 1150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:19",
+    "item": "Redstone Comparators",
+    "avg": "$1.02K",
+    "avg_value": 1020.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:25",
+    "item": "Oak Logs",
+    "avg": "$303.50",
+    "avg_value": 303.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:37:36",
+    "item": "Sand",
+    "avg": "$369.50",
+    "avg_value": 369.5
+  }
 ]
