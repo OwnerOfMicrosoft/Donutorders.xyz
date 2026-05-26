@@ -141045,4 +141045,60 @@
     "avg": "$31.70M",
     "avg_value": 3.17E7
   }
+,
+  {
+    "timestamp": "2026-05-26 09:36:06",
+    "item": "Diamonds",
+    "avg": "$3.70K",
+    "avg_value": 3695.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:09",
+    "item": "Gravel",
+    "avg": "$385.00",
+    "avg_value": 385.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:11",
+    "item": "Minecarts with Hoppers",
+    "avg": "$4.05K",
+    "avg_value": 4050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:11",
+    "item": "Hoppers",
+    "avg": "$1.50K",
+    "avg_value": 1500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:17",
+    "item": "Iron Ingots",
+    "avg": "$236.00",
+    "avg_value": 236.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:19",
+    "item": "Blocks of Iron",
+    "avg": "$2.23K",
+    "avg_value": 2230.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:19",
+    "item": "Blocks of Raw Iron",
+    "avg": "$2.11K",
+    "avg_value": 2105.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:19",
+    "item": "Block of Iron",
+    "avg": "$2.00K",
+    "avg_value": 2000.0
+  }
 ]
