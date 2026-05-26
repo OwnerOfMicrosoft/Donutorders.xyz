@@ -150047,4 +150047,53 @@
     "avg": "$4.18K",
     "avg_value": 4175.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:24:50",
+    "item": "Iron Ingots",
+    "avg": "$301.50",
+    "avg_value": 301.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:53",
+    "item": "Blocks of Iron",
+    "avg": "$2.75K",
+    "avg_value": 2750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:24:56",
+    "item": "Blocks of Redstone",
+    "avg": "$1.78K",
+    "avg_value": 1775.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:04",
+    "item": "Bone Blocks",
+    "avg": "$540.50",
+    "avg_value": 540.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:14",
+    "item": "Redstone Dust",
+    "avg": "$246.00",
+    "avg_value": 246.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:17",
+    "item": "Chests",
+    "avg": "$103.50",
+    "avg_value": 103.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:25:19",
+    "item": "Spruce Logs",
+    "avg": "$55.50",
+    "avg_value": 55.5
+  }
 ]
