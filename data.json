@@ -142228,4 +142228,60 @@
     "avg": "$275.50",
     "avg_value": 275.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:07:55",
+    "item": "Minecarts with TNT",
+    "avg": "$4.55K",
+    "avg_value": 4550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:01",
+    "item": "Piglin Heads",
+    "avg": "$401.10K",
+    "avg_value": 401100.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:03",
+    "item": "Ominous Trial Keys",
+    "avg": "$251.50K",
+    "avg_value": 251500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:06",
+    "item": "Bones",
+    "avg": "$175.06",
+    "avg_value": 175.055
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:14",
+    "item": "Redstone Comparators",
+    "avg": "$989.50",
+    "avg_value": 989.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:19",
+    "item": "Cobblestone",
+    "avg": "$25.00",
+    "avg_value": 25.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:21",
+    "item": "Book: Mending",
+    "avg": "$6.75K",
+    "avg_value": 6750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:08:24",
+    "item": "Book: Silk Touch",
+    "avg": "$8.10K",
+    "avg_value": 8100.0
+  }
 ]
