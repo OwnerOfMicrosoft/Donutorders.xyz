@@ -151874,4 +151874,39 @@
     "avg": "$294.00",
     "avg_value": 294.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:47:53",
+    "item": "Gravel",
+    "avg": "$437.50",
+    "avg_value": 437.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:56",
+    "item": "Hoppers",
+    "avg": "$1.49K",
+    "avg_value": 1490.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:04",
+    "item": "Blocks of Iron",
+    "avg": "$2.38K",
+    "avg_value": 2380.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:07",
+    "item": "Blocks of Redstone",
+    "avg": "$1.98K",
+    "avg_value": 1980.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:48:16",
+    "item": "Bone Blocks",
+    "avg": "$548.50",
+    "avg_value": 548.5
+  }
 ]
