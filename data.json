@@ -143089,4 +143089,39 @@
     "avg": "$185.00",
     "avg_value": 185.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:24:11",
+    "item": "Stone",
+    "avg": "$62.50",
+    "avg_value": 62.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:19",
+    "item": "Minecarts with TNT",
+    "avg": "$4.85K",
+    "avg_value": 4850.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:29",
+    "item": "Bones",
+    "avg": "$193.50",
+    "avg_value": 193.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:35",
+    "item": "Leather Tunics",
+    "avg": "$27.50K",
+    "avg_value": 27500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:35",
+    "item": "Leather",
+    "avg": "$400.00",
+    "avg_value": 400.0
+  }
 ]
