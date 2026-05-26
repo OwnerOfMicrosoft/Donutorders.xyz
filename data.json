@@ -139596,4 +139596,25 @@
     "avg": "$715.00",
     "avg_value": 715.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:22:26",
+    "item": "Bone Blocks",
+    "avg": "$538.30",
+    "avg_value": 538.3
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:22:37",
+    "item": "Redstone Dust",
+    "avg": "$240.50",
+    "avg_value": 240.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:22:42",
+    "item": "Spruce Logs",
+    "avg": "$52.50",
+    "avg_value": 52.504999999999995
+  }
 ]
