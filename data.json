@@ -146589,4 +146589,53 @@
     "avg": "$1.01K",
     "avg_value": 1005.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:41:41",
+    "item": "Emeralds",
+    "avg": "$628.50",
+    "avg_value": 628.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:44",
+    "item": "Oak Logs",
+    "avg": "$311.00",
+    "avg_value": 311.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:57",
+    "item": "Redstone Dust",
+    "avg": "$225.50",
+    "avg_value": 225.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:59",
+    "item": "Chests",
+    "avg": "$97.11",
+    "avg_value": 97.11
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:02",
+    "item": "Spruce Logs",
+    "avg": "$49.60",
+    "avg_value": 49.6
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:05",
+    "item": "Block of Netherite",
+    "avg": "$30.11M",
+    "avg_value": 3.011E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:07",
+    "item": "Strings",
+    "avg": "$190.00",
+    "avg_value": 190.0
+  }
 ]
