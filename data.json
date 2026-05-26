@@ -142606,4 +142606,39 @@
     "avg": "$425.00",
     "avg_value": 425.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:17:54",
+    "item": "Spruce Logs",
+    "avg": "$45.50",
+    "avg_value": 45.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:18:00",
+    "item": "Strings",
+    "avg": "$310.00",
+    "avg_value": 310.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:18:08",
+    "item": "Stone",
+    "avg": "$2.54K",
+    "avg_value": 2535.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:18:08",
+    "item": "Cracked Stone Bricks",
+    "avg": "$200.00",
+    "avg_value": 200.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:18:26",
+    "item": "Bones",
+    "avg": "$175.60",
+    "avg_value": 175.6
+  }
 ]
