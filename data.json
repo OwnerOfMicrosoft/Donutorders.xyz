@@ -147996,4 +147996,46 @@
     "avg": "$3.53K",
     "avg_value": 3530.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:00:15",
+    "item": "Iron Ingots",
+    "avg": "$263.00",
+    "avg_value": 263.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:18",
+    "item": "Blocks of Iron",
+    "avg": "$2.19K",
+    "avg_value": 2185.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:26",
+    "item": "Pale Oak Log",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:34",
+    "item": "Banner Patterns",
+    "avg": "$111.00K",
+    "avg_value": 111000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:45",
+    "item": "Spruce Logs",
+    "avg": "$45.55",
+    "avg_value": 45.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:47",
+    "item": "Block of Netherite",
+    "avg": "$31.30M",
+    "avg_value": 3.13E7
+  }
 ]
