@@ -139652,4 +139652,25 @@
     "avg": "$284.50",
     "avg_value": 284.5
   }
+,
+  {
+    "timestamp": "2026-05-25 23:24:56",
+    "item": "Strings",
+    "avg": "$101.00",
+    "avg_value": 101.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:24:59",
+    "item": "Netherite Ingots",
+    "avg": "$3.53M",
+    "avg_value": 3525000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:25:05",
+    "item": "Stone",
+    "avg": "$61.20",
+    "avg_value": 61.2
+  }
 ]
