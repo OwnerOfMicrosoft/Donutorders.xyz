@@ -147240,4 +147240,32 @@
     "avg": "$3.00K",
     "avg_value": 3000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:50:12",
+    "item": "Bone Blocks",
+    "avg": "$531.10",
+    "avg_value": 531.1
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:50:20",
+    "item": "Sand",
+    "avg": "$388.15",
+    "avg_value": 388.15
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:50:23",
+    "item": "Redstone Dust",
+    "avg": "$235.50",
+    "avg_value": 235.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:50:40",
+    "item": "Blocks of Emerald",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
 ]
