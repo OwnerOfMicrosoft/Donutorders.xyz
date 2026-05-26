@@ -257,14 +257,14 @@
   .freshness-warn { background: rgba(247,161,48,0.15); color: var(--accent); }
   .freshness-old  { background: rgba(232,79,61,0.15);  color: var(--red);    }
 
-  .card-header { display: flex; align-items: center; justify-content: space-between; padding: 14px 18px 10px; border-bottom: 1px solid var(--border); cursor: pointer; user-select: none; }
+  .card-header { display: flex; align-items: center; justify-content: space-between; padding: 16px 18px; border-bottom: 1px solid var(--border); cursor: pointer; user-select: none; }
   .card-header:hover { background: rgba(255,255,255,0.02); }
-  .card-header-left { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-  .item-name { font-weight: 700; font-size: 16px; letter-spacing: 0.5px; text-transform: uppercase; color: var(--text); }
-  .item-badge { font-family: var(--mono); font-size: 10px; padding: 3px 8px; border-radius: 4px; letter-spacing: 0.5px; }
-  .badge-up   { background: rgba(61,232,122,0.12); color: var(--green); }
-  .badge-down { background: rgba(232,79,61,0.12);  color: var(--red); }
-  .badge-flat { background: rgba(74,85,104,0.2);   color: var(--muted); }
+  .card-header-left { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .item-name { font-weight: 700; font-size: 17px; letter-spacing: 0.5px; text-transform: uppercase; color: var(--text); }
+  .item-badge { font-family: var(--mono); font-size: 10px; padding: 4px 10px; border-radius: 5px; letter-spacing: 0.5px; }
+  .badge-up   { background: rgba(61,232,122,0.15); color: var(--green); }
+  .badge-down { background: rgba(232,79,61,0.15);  color: var(--red); }
+  .badge-flat { background: rgba(74,85,104,0.25);   color: var(--muted); }
 
   .card-header-right { display: flex; align-items: center; gap: 8px; }
   .alert-indicator { font-size: 12px; opacity: 0.3; transition: opacity 0.2s; }
@@ -282,34 +282,34 @@
   .expand-toggle { color: var(--text-dim); font-size: 12px; font-family: var(--mono); transition: transform 0.2s; display: inline-block; }
   .item-card.expanded .expand-toggle { transform: rotate(180deg); }
 
-  .card-body { padding: 14px 18px; }
-  .price-row { display: flex; align-items: baseline; gap: 12px; margin-bottom: 14px; }
-  .current-price { font-family: var(--mono); font-size: 30px; color: var(--accent); letter-spacing: -0.5px; text-shadow: 0 0 20px var(--glow-accent); }
-  .price-label { font-family: var(--mono); font-size: 10px; color: var(--text-dim); letter-spacing: 1px; text-transform: uppercase; }
-  .price-change { font-family: var(--mono); font-size: 13px; margin-left: auto; }
+  .card-body { padding: 18px 18px; }
+  .price-row { display: flex; align-items: baseline; gap: 16px; margin-bottom: 16px; }
+  .current-price { font-family: var(--mono); font-size: 32px; color: var(--accent); letter-spacing: -0.5px; text-shadow: 0 0 20px var(--glow-accent); font-weight: 600; }
+  .price-label { font-family: var(--mono); font-size: 11px; color: var(--text-dim); letter-spacing: 1.5px; text-transform: uppercase; font-weight: 500; }
+  .price-change { font-family: var(--mono); font-size: 14px; margin-left: auto; font-weight: 600; }
   .price-change.up { color: var(--green); }
   .price-change.down { color: var(--red); }
 
-  .sparkline-wrap { margin-bottom: 14px; }
-  .sparkline-wrap canvas { width: 100%; height: 56px; display: block; }
-  .sparkline-range { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 9px; color: var(--text-dim); margin-top: 2px; }
+  .sparkline-wrap { margin-bottom: 16px; }
+  .sparkline-wrap canvas { width: 100%; height: 60px; display: block; }
+  .sparkline-range { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 10px; color: var(--text-dim); margin-top: 4px; }
 
   /* Expanded sections */
-  .card-expanded-section { display: none; padding: 0 18px 14px; border-top: 1px solid var(--border); }
+  .card-expanded-section { display: none; padding: 0 18px 16px; border-top: 1px solid var(--border); }
   .item-card.expanded .card-expanded-section { display: block; }
-  .expanded-title { font-family: var(--mono); font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text-dim); padding: 12px 0 8px; }
+  .expanded-title { font-family: var(--mono); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--text-dim); padding: 14px 0 10px; font-weight: 500; }
   
-  .history-table, .orders-table { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: 11px; }
-  .history-table th, .orders-table th { text-align: left; padding: 4px 6px; color: var(--muted); font-size: 10px; letter-spacing: 1px; text-transform: uppercase; border-bottom: 1px solid var(--border); }
-  .history-table td, .orders-table td { padding: 4px 6px; color: var(--text); border-bottom: 1px solid rgba(30,37,48,0.4); }
+  .history-table, .orders-table { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: 12px; }
+  .history-table th, .orders-table th { text-align: left; padding: 6px 6px; color: var(--muted); font-size: 10px; letter-spacing: 1px; text-transform: uppercase; border-bottom: 1px solid var(--border); font-weight: 500; }
+  .history-table td, .orders-table td { padding: 6px 6px; color: var(--text); border-bottom: 1px solid rgba(30,37,48,0.4); }
   .history-table td.ts { color: var(--text-dim); } 
-  .history-table td.val, .orders-table td.price { color: var(--accent); }
+  .history-table td.val, .orders-table td.price { color: var(--accent); font-weight: 600; }
   .history-table td.chg.up { color: var(--green); } 
   .history-table td.chg.down { color: var(--red); }
 
-  .card-footer { padding: 8px 18px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
-  .snapshot-count { font-family: var(--mono); font-size: 10px; color: var(--text-dim); }
-  .last-seen { font-family: var(--mono); font-size: 10px; color: var(--text-dim); }
+  .card-footer { padding: 12px 18px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
+  .snapshot-count { font-family: var(--mono); font-size: 11px; color: var(--text-dim); }
+  .last-seen { font-family: var(--mono); font-size: 11px; color: var(--text-dim); }
 
   .empty-state { grid-column: 1/-1; text-align: center; padding: 80px 20px; color: var(--text-dim); font-family: var(--mono); font-size: 13px; }
 
@@ -373,6 +373,7 @@
     margin-bottom: 24px; background: var(--surface2); border: 1px solid var(--border);
     border-radius: 8px; padding: 12px; position: relative; cursor: crosshair;
     overflow: hidden;
+    user-select: none; -webkit-user-select: none;
   }
   #modal-canvas { width: 100%; height: 220px; display: block; }
   
@@ -660,9 +661,8 @@
       <div class="chart-options">
         <div class="chart-range-btns" id="chart-range-btns">
           <button class="chart-range-btn" data-range="all" onclick="setChartRange('all')">All</button>
-          <button class="chart-range-btn" data-range="30" onclick="setChartRange(30)">Last 30</button>
-          <button class="chart-range-btn" data-range="20" onclick="setChartRange(20)">Last 20</button>
-          <button class="chart-range-btn active" data-range="10" onclick="setChartRange(10)">Last 10</button>
+          <button class="chart-range-btn" data-range="week" onclick="setChartRange('week')">Last Week</button>
+          <button class="chart-range-btn active" data-range="day" onclick="setChartRange('day')">Last Day</button>
         </div>
       </div>
       <div class="modal-chart-wrap" id="modal-chart-wrap">
@@ -696,8 +696,49 @@ const PF_KEY = 'donut_portfolio';
 const BANNED_ITEMS = new Set(['redstone repeater', 'map', 'unknown', 'diamond', 'creeper head']);
 
 let modalChartState = null;
-let modalChartRange = 10;
+let chartZoomState   = { scaleX: 1, panX: 0 };   // target (set instantly by input)
+let chartDisplayState= { scaleX: 1, panX: 0 };   // displayed (lerps toward target)
+let _animFrameId     = null;                       // rAF handle for lerp loop
+let _coastRafId      = null;                       // rAF handle for inertia coast
+let modalChartRange  = 'day';
 let modalCurrentItem = null;
+
+function lerp(a, b, t) { return a + (b - a) * t; }
+
+// Kick off the animation loop — runs only while the modal is open.
+// Each frame it nudges displayState toward zoomState and redraws if needed.
+function startChartAnimLoop() {
+  if (_animFrameId) return; // already running
+  const SPEED = 0.18; // 0-1: lower = smoother/slower, higher = snappier
+  const SNAP  = 0.001; // close enough → stop animating
+
+  function tick() {
+    if (!modalCurrentItem) { _animFrameId = null; return; }
+
+    const ds = chartDisplayState;
+    const ts = chartZoomState;
+    const dScale = Math.abs(ts.scaleX - ds.scaleX);
+    const dPan   = Math.abs(ts.panX   - ds.panX);
+
+    if (dScale > SNAP || dPan > SNAP) {
+      ds.scaleX = lerp(ds.scaleX, ts.scaleX, SPEED);
+      ds.panX   = lerp(ds.panX,   ts.panX,   SPEED);
+      renderModalChart(modalCurrentItem);
+      _animFrameId = requestAnimationFrame(tick);
+    } else {
+      // Snap to exact target and do one final draw
+      ds.scaleX = ts.scaleX;
+      ds.panX   = ts.panX;
+      renderModalChart(modalCurrentItem);
+      _animFrameId = null;
+    }
+  }
+  _animFrameId = requestAnimationFrame(tick);
+}
+
+function stopChartAnimLoop() {
+  if (_animFrameId) { cancelAnimationFrame(_animFrameId); _animFrameId = null; }
+}
 
 function isBanned(item) { return BANNED_ITEMS.has(item.toLowerCase().trim()); }
 
@@ -885,8 +926,38 @@ function processData(parsed) {
   Object.keys(snapshots).forEach(key => { 
     snapshots[key] = filterPriceOutliers(snapshots[key]); 
   });
+
+  // Merge items that differ only by capitalization
+  const normalizedSnapshots = {};
+  const caseMap = {}; // Maps lowercase name to actual casing used
   
-  rawData = { snapshots };
+  Object.keys(snapshots).forEach(key => {
+    const normalized = key.toLowerCase().trim();
+    
+    if (!caseMap[normalized]) {
+      // First time seeing this item (case-insensitive)
+      caseMap[normalized] = key;
+      normalizedSnapshots[key] = snapshots[key];
+    } else {
+      // Merge with existing entry using the first casing we saw
+      const existingKey = caseMap[normalized];
+      normalizedSnapshots[existingKey] = [
+        ...normalizedSnapshots[existingKey],
+        ...snapshots[key]
+      ];
+    }
+  });
+  
+  // Re-sort all merged entries by timestamp
+  Object.keys(normalizedSnapshots).forEach(key => {
+    normalizedSnapshots[key].sort((a, b) => {
+      const timeA = typeof a.timestamp === 'number' ? a.timestamp : parseInt(a.timestamp) || 0;
+      const timeB = typeof b.timestamp === 'number' ? b.timestamp : parseInt(b.timestamp) || 0;
+      return timeA - timeB;
+    });
+  });
+  
+  rawData = { snapshots: normalizedSnapshots };
   if (parsed.portfolio) rawData.portfolio = parsed.portfolio;
 
   localStorage.setItem('donut_data', JSON.stringify(rawData));
@@ -972,7 +1043,7 @@ function showPage(name) {
 // ── Core Renders ──
 function renderDashboard(data) {
   const snapshots = data.snapshots || {};
-  const items = Object.keys(snapshots).filter(i => snapshots[i].length >= MIN_SNAPSHOTS && !isBanned(i));
+  const items = [...new Set(Object.keys(snapshots).filter(i => snapshots[i].length >= MIN_SNAPSHOTS && !isBanned(i)))];
   let totalSnaps = 0, ups = 0, downs = 0;
   
   items.forEach(item => {
@@ -1002,10 +1073,10 @@ function setSort(s) {
 
 function renderGrid(snapshots) {
   const query = document.getElementById('search').value.toLowerCase();
-  let items = Object.keys(snapshots)
+  let items = [...new Set(Object.keys(snapshots)
     .filter(i => snapshots[i].length >= MIN_SNAPSHOTS && !isBanned(i))
     .filter(i => i.toLowerCase().includes(query))
-    .filter(i => !pinnedFilterOnly || pinnedItems.has(i));
+    .filter(i => !pinnedFilterOnly || pinnedItems.has(i)))];
 
   items.sort((a, b) => {
     const pinDiff = (pinnedItems.has(b)?1:0) - (pinnedItems.has(a)?1:0);
@@ -1056,7 +1127,7 @@ function renderGrid(snapshots) {
       </div>
       <div class="card-body">
         <div class="price-row">
-          <div><div class="price-label">TOP 2 AVG</div><div class="current-price">${curVal ? fmtPrice(curVal) : '—'}</div></div>
+          <div><div class="price-label">AVERAGE</div><div class="current-price">${curVal ? fmtPrice(curVal) : '—'}</div></div>
           ${chgPct ? `<div class="price-change ${dir}">${Math.abs(chgPct).toFixed(1)}%</div>` : ''}
         </div>
         
@@ -1174,20 +1245,30 @@ function drawSparkline(id, values, dir) {
 function openModal(item) {
   if (!rawData) return;
   modalCurrentItem = item;
+  chartZoomState    = { scaleX: 1, panX: 0 };
+  chartDisplayState = { scaleX: 1, panX: 0 };
   document.getElementById('modal-item-name').textContent = item;
   document.getElementById('modal-overlay').classList.add('open');
   renderModalContent(item);
+  startChartAnimLoop();
 }
 
 function closeModal(e) { if (e.target === document.getElementById('modal-overlay')) closeModalDirect(); }
 function closeModalDirect() {
   document.getElementById('modal-overlay').classList.remove('open');
+  chartZoomState    = { scaleX: 1, panX: 0 };
+  chartDisplayState = { scaleX: 1, panX: 0 };
+  stopChartAnimLoop();
   modalChartState = null;
   modalCurrentItem = null;
+  if (_chartListeners) { _chartListeners.cleanup(); _chartListeners = null; }
 }
 
 function setChartRange(range) {
   modalChartRange = range;
+  chartZoomState    = { scaleX: 1, panX: 0 };
+  chartDisplayState = { scaleX: 1, panX: 0 };
+  stopChartAnimLoop();
   document.querySelectorAll('.chart-range-btn').forEach(b => b.classList.toggle('active', b.dataset.range == range));
   if (modalCurrentItem) renderModalChart(modalCurrentItem);
 }
@@ -1265,9 +1346,15 @@ function renderModalChart(item) {
 
   let sliceHistory = cleanHistory;
   if (modalChartRange !== 'all') {
-    const rangeNum = parseInt(modalChartRange);
-    sliceHistory = cleanHistory.slice(-rangeNum);
+    const now = Date.now();
+    const rangeMs = modalChartRange === 'week' ? 7 * 24 * 60 * 60 * 1000 : modalChartRange === 'day' ? 24 * 60 * 60 * 1000 : 0;
+    sliceHistory = cleanHistory.filter(h => {
+      const timestamp = typeof h.timestamp === 'number' ? h.timestamp : parseInt(h.timestamp) || 0;
+      const tsMs = timestamp > 1e10 ? timestamp : timestamp * 1000;
+      return now - tsMs <= rangeMs;
+    });
   }
+  if (sliceHistory.length < 2) sliceHistory = cleanHistory;
 
   const sliceVals = sliceHistory.map(h => h.avg_value);
   if (sliceVals.length < 2) return;
@@ -1291,24 +1378,159 @@ function renderModalChart(item) {
   const first = sliceVals[0];
   const dir = last >= first ? 'up' : 'down';
 
-  const { pts, min, max, lineColor } = drawLine(ctx, sliceVals, dir, w, h, pad);
+  const chartWidth = w - pad * 2;
+  const chartHeight = h - pad * 2;
+  
+  // Lock Y-axis bounds to the FULL slice so curve geometry stays stable while panning/zooming
+  const globalMin = Math.min(...sliceVals);
+  const globalMax = Math.max(...sliceVals);
 
-  modalChartState = { pts, min, max, values: sliceVals, history: sliceHistory, w, h, pad, lineColor };
+  // Calculate visible data range based on zoom
+  let visibleVals = sliceVals;
+  let visibleHistory = sliceHistory;
+
+  if (chartDisplayState.scaleX > 1) {
+    const total = sliceVals.length;
+    const visibleCount = Math.max(2, Math.round(total / chartDisplayState.scaleX));
+    const startIdx = Math.max(0, Math.min(
+      total - visibleCount,
+      Math.round(chartDisplayState.panX * (total - visibleCount))
+    ));
+    const endIdx = Math.min(total, startIdx + visibleCount);
+    visibleVals    = sliceVals.slice(startIdx, endIdx);
+    visibleHistory = sliceHistory.slice(startIdx, endIdx);
+  }
+
+  // Draw the chart — pass fixed Y bounds so humps don't rescale as you pan
+  const { pts, min, max, lineColor } = drawLine(ctx, visibleVals, dir, w, h, pad, { yMin: globalMin, yMax: globalMax });
+
+  // Draw Y-axis labels (prices)
+  ctx.font = '11px var(--mono)';
+  ctx.fillStyle = 'rgba(212, 229, 247, 0.5)';
+  ctx.textAlign = 'right';
+  ctx.textBaseline = 'middle';
+  const yLabels = [
+    { val: max, label: fmtPrice(max) },
+    { val: (max + min) / 2, label: fmtPrice((max + min) / 2) },
+    { val: min, label: fmtPrice(min) }
+  ];
+  yLabels.forEach(label => {
+    const range = max - min || 1;
+    const y = h - pad - ((label.val - min) / range) * chartHeight;
+    ctx.fillText(label.label, w - 8, y);
+  });
+
+  // Draw X-axis labels (time) - with extra bottom padding for text
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'top';
+  ctx.font = '10px var(--mono)';
+  const xInterval = Math.max(1, Math.ceil(visibleHistory.length / 3));
+  for (let i = 0; i < visibleHistory.length; i += xInterval) {
+    const xPos = pad + (i / Math.max(1, visibleHistory.length - 1)) * chartWidth;
+    const time = visibleHistory[i].timestamp;
+    if (time && xPos > pad && xPos < w - pad) { // Only draw if visible
+      const ts = typeof time === 'number' ? time : parseInt(time) || 0;
+      const tsMs = ts > 1e10 ? ts : ts * 1000;
+      const date = new Date(tsMs);
+      const timeStr = date.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+      ctx.fillText(timeStr, xPos, h - 8);
+    }
+  }
+
+  modalChartState = { pts, min, max, values: visibleVals, history: visibleHistory, w, h, pad, lineColor };
   setupCrosshair(wrap);
 }
 
-// ── Hover Crosshair Implementation ──
-function setupCrosshair(wrap) {
-  const tooltip = document.getElementById('chart-tooltip');
-  const crossLine = document.getElementById('crosshair-line');
-  const crossHLine = document.getElementById('crosshair-hline');
-  const crossDot = document.getElementById('crosshair-dot');
+// ── Hover Crosshair + Zoom/Pan Implementation ──
+// Listeners are attached once per modal open; stored here so they can be cleaned up.
+let _chartListeners = null;
 
-  wrap.onmousemove = e => {
+function setupCrosshair(wrap) {
+  const tooltip   = document.getElementById('chart-tooltip');
+  const crossLine = document.getElementById('crosshair-line');
+  const crossHLine= document.getElementById('crosshair-hline');
+  const crossDot  = document.getElementById('crosshair-dot');
+
+  // ── Remove any previously attached listeners (prevent stacking) ──
+  if (_chartListeners) {
+    const { wl } = _chartListeners;
+    wl.forEach(([type, fn, opts]) => wrap.removeEventListener(type, fn, opts));
+    _chartListeners = null;
+  }
+
+  // ── Drag-to-pan state ──
+  let isDragging   = false;
+  let dragStartX   = 0;
+  let dragStartPan = 0;
+
+  // ── Velocity / inertia state ──
+  // We keep a tiny rolling buffer of the last few move deltas (in pan-space)
+  // so we can compute a stable velocity on release and coast from there.
+  const VEL_SAMPLES  = 5;      // how many recent moves to average
+  const FRICTION     = 0.97;   // multiplied each frame (lower = stops sooner)
+  const MIN_VEL      = 5e-6;   // below this we stop the coast
+  let velBuffer      = [];     // [{dx, dt}] ring buffer
+  let lastMoveTime   = 0;
+  let lastMoveX      = 0;
+  let coastVel       = 0;      // current coasting velocity (pan-units/ms)
+
+  function stopCoast() {
+    if (_coastRafId) { cancelAnimationFrame(_coastRafId); _coastRafId = null; }
+    coastVel = 0;
+  }
+
+  function launchCoast(initialVel) {
+    stopCoast();
+    coastVel = initialVel;
+    let lastT = performance.now();
+
+    function coast(now) {
+      if (!modalCurrentItem || !modalChartState) { coastVel = 0; return; }
+      const dt = now - lastT;
+      lastT = now;
+
+      // Apply velocity to target pan
+      const scale = chartZoomState.scaleX;
+      if (scale <= 1) { coastVel = 0; return; }
+      chartZoomState.panX = clampPan(chartZoomState.panX + coastVel * dt, scale);
+
+      // Friction
+      coastVel *= Math.pow(FRICTION, dt / 16); // normalise to 60fps
+
+      startChartAnimLoop();
+
+      if (Math.abs(coastVel) > MIN_VEL) {
+        _coastRafId = requestAnimationFrame(coast);
+      } else {
+        coastVel = 0;
+        _coastRafId = null;
+      }
+    }
+    _coastRafId = requestAnimationFrame(coast);
+  }
+
+  // ── Helpers ──
+  function clampPan(pan, scale) {
+    const halfWindow = 1 / scale;
+    return Math.max(0, Math.min(1 - halfWindow, pan));
+  }
+
+  function chartFraction(clientX) {
+    if (!modalChartState) return 0.5;
+    const rect = wrap.getBoundingClientRect();
+    const { pad, w } = modalChartState;
+    const chartLeft  = 12 + pad;
+    const chartWidth = w - pad * 2;
+    return Math.max(0, Math.min(1, (clientX - rect.left - chartLeft) / chartWidth));
+  }
+
+  // ── Crosshair on hover ──
+  function onMouseMove(e) {
+    if (isDragging) return;
     if (!modalChartState) return;
     const { pts, values, history, lineColor } = modalChartState;
 
-    const rect = wrap.getBoundingClientRect();
+    const rect   = wrap.getBoundingClientRect();
     const mouseX = e.clientX - rect.left - 12;
 
     let closestIdx = 0, closestDist = Infinity;
@@ -1317,36 +1539,224 @@ function setupCrosshair(wrap) {
       if (d < closestDist) { closestDist = d; closestIdx = i; }
     });
 
-    const pt = pts[closestIdx];
+    const pt  = pts[closestIdx];
     const val = values[closestIdx];
     const snap = history ? history[closestIdx] : null;
 
     const overlayX = pt.x + 12;
     const overlayY = pt.y + 12;
 
-    crossLine.style.left = overlayX + 'px';
+    crossLine.style.left    = overlayX + 'px';
     crossLine.style.display = 'block';
-    crossHLine.style.top = overlayY + 'px';
-    crossHLine.style.display = 'block';
-    
-    crossDot.style.left = overlayX + 'px';
-    crossDot.style.top = overlayY + 'px';
-    crossDot.style.display = 'block';
+    crossHLine.style.top    = overlayY + 'px';
+    crossHLine.style.display= 'block';
+    crossDot.style.left     = overlayX + 'px';
+    crossDot.style.top      = overlayY + 'px';
+    crossDot.style.display  = 'block';
     crossDot.style.background = lineColor;
 
-    tooltip.style.left = Math.min(wrap.clientWidth - 150, Math.max(10, overlayX + 15)) + 'px';
-    tooltip.style.top = Math.max(10, overlayY - 35) + 'px';
+    tooltip.style.left    = Math.min(wrap.clientWidth - 150, Math.max(10, overlayX + 15)) + 'px';
+    tooltip.style.top     = Math.max(10, overlayY - 35) + 'px';
     tooltip.style.display = 'block';
 
     document.getElementById('tt-price').textContent = fmtPrice(val);
-    document.getElementById('tt-time').textContent = snap ? getRelativeChartTime(snap.timestamp) : `Index #${closestIdx + 1}`;
-  };
+    document.getElementById('tt-time').textContent  = snap
+      ? getRelativeChartTime(snap.timestamp)
+      : `Index #${closestIdx + 1}`;
+  }
 
-  wrap.onmouseleave = () => {
-    tooltip.style.display = 'none';
-    crossLine.style.display = 'none';
+  function onMouseLeave() {
+    if (isDragging) return;
+    tooltip.style.display    = 'none';
+    crossLine.style.display  = 'none';
     crossHLine.style.display = 'none';
-    crossDot.style.display = 'none';
+    crossDot.style.display   = 'none';
+  }
+
+  // ── Mouse drag-to-pan ──
+  function onMouseDown(e) {
+    if (chartZoomState.scaleX <= 1) return;
+    stopCoast();
+    isDragging   = true;
+    dragStartX   = e.clientX;
+    dragStartPan = chartZoomState.panX;
+    velBuffer    = [];
+    lastMoveX    = e.clientX;
+    lastMoveTime = performance.now();
+    wrap.style.cursor = 'grabbing';
+    tooltip.style.display    = 'none';
+    crossLine.style.display  = 'none';
+    crossHLine.style.display = 'none';
+    crossDot.style.display   = 'none';
+    e.preventDefault();
+  }
+
+  function onMouseDrag(e) {
+    if (!isDragging || !modalChartState) return;
+    const { w, pad } = modalChartState;
+    const chartWidth = w - pad * 2;
+    const scale      = chartZoomState.scaleX;
+    const now        = performance.now();
+
+    // Track velocity sample
+    const rawDx = e.clientX - lastMoveX;
+    const dt    = now - lastMoveTime || 1;
+    velBuffer.push({ v: -rawDx / chartWidth / dt }); // pan-units per ms
+    if (velBuffer.length > VEL_SAMPLES) velBuffer.shift();
+    lastMoveX    = e.clientX;
+    lastMoveTime = now;
+
+    const dx = e.clientX - dragStartX;
+    chartZoomState.panX = clampPan(dragStartPan + (-dx / chartWidth), scale);
+    startChartAnimLoop();
+  }
+
+  function onMouseUp() {
+    if (!isDragging) return;
+    isDragging = false;
+    wrap.style.cursor = '';
+
+    // Compute average velocity from buffer and launch coast
+    if (velBuffer.length > 0) {
+      const avg = velBuffer.reduce((s, x) => s + x.v, 0) / velBuffer.length;
+      if (Math.abs(avg) > MIN_VEL) launchCoast(avg);
+    }
+    velBuffer = [];
+  }
+
+  // ── Scroll-wheel zoom (anchored to cursor position) ──
+  function onWheel(e) {
+    e.preventDefault();
+    if (!modalChartState) return;
+    stopCoast();
+
+    const cursor  = chartFraction(e.clientX);
+    const oldScale= chartZoomState.scaleX;
+    const factor  = e.deltaY < 0 ? 1.15 : 1 / 1.15;
+    const newScale= Math.max(1, Math.min(20, oldScale * factor));
+
+    if (Math.abs(newScale - oldScale) < 0.005) return;
+
+    if (newScale <= 1) {
+      chartZoomState.scaleX = 1;
+      chartZoomState.panX   = 0;
+    } else {
+      const dataUnderCursor = chartZoomState.panX + cursor * (1 / oldScale);
+      const newPan = dataUnderCursor - cursor * (1 / newScale);
+      chartZoomState.scaleX = newScale;
+      chartZoomState.panX   = clampPan(newPan, newScale);
+    }
+    startChartAnimLoop();
+  }
+
+  // ── Touch: 1-finger drag + 2-finger pinch ──
+  let touch1StartX   = 0;
+  let touch1StartPan = 0;
+  let pinchStartDist = 0;
+  let pinchStartScale= 1;
+  let pinchStartPan  = 0;
+  let touchVelBuffer = [];
+  let lastTouchX     = 0;
+  let lastTouchTime  = 0;
+
+  function onTouchStart(e) {
+    stopCoast();
+    if (e.touches.length === 1) {
+      touch1StartX   = e.touches[0].clientX;
+      touch1StartPan = chartZoomState.panX;
+      touchVelBuffer = [];
+      lastTouchX     = e.touches[0].clientX;
+      lastTouchTime  = performance.now();
+    } else if (e.touches.length === 2) {
+      const dx = e.touches[0].clientX - e.touches[1].clientX;
+      const dy = e.touches[0].clientY - e.touches[1].clientY;
+      pinchStartDist  = Math.hypot(dx, dy);
+      pinchStartScale = chartZoomState.scaleX;
+      pinchStartPan   = chartZoomState.panX;
+    }
+  }
+
+  function onTouchMove(e) {
+    e.preventDefault();
+    if (!modalChartState) return;
+
+    if (e.touches.length === 1 && chartZoomState.scaleX > 1) {
+      const { w, pad } = modalChartState;
+      const chartWidth = w - pad * 2;
+      const scale      = chartZoomState.scaleX;
+      const now        = performance.now();
+
+      const rawDx = e.touches[0].clientX - lastTouchX;
+      const dt    = now - lastTouchTime || 1;
+      touchVelBuffer.push({ v: -rawDx / chartWidth / dt });
+      if (touchVelBuffer.length > VEL_SAMPLES) touchVelBuffer.shift();
+      lastTouchX    = e.touches[0].clientX;
+      lastTouchTime = now;
+
+      const dx = e.touches[0].clientX - touch1StartX;
+      chartZoomState.panX = clampPan(touch1StartPan + (-dx / chartWidth), scale);
+      startChartAnimLoop();
+
+    } else if (e.touches.length === 2 && pinchStartDist > 0) {
+      const dx       = e.touches[0].clientX - e.touches[1].clientX;
+      const dy       = e.touches[0].clientY - e.touches[1].clientY;
+      const dist     = Math.hypot(dx, dy);
+      const ratio    = dist / pinchStartDist;
+      const newScale = Math.max(1, Math.min(20, pinchStartScale * ratio));
+
+      const touchCenterX = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+      const cursor       = chartFraction(touchCenterX);
+
+      if (newScale <= 1) {
+        chartZoomState.scaleX = 1;
+        chartZoomState.panX   = 0;
+      } else {
+        const dataUnderCursor = pinchStartPan + cursor * (1 / pinchStartScale);
+        const newPan          = dataUnderCursor - cursor * (1 / newScale);
+        chartZoomState.scaleX = newScale;
+        chartZoomState.panX   = clampPan(newPan, newScale);
+      }
+      startChartAnimLoop();
+    }
+  }
+
+  function onTouchEnd(e) {
+    if (e.touches.length < 2) pinchStartDist = 0;
+    if (e.touches.length === 0) {
+      touch1StartX = 0;
+      // Launch inertial coast from touch velocity
+      if (touchVelBuffer.length > 0) {
+        const avg = touchVelBuffer.reduce((s, x) => s + x.v, 0) / touchVelBuffer.length;
+        if (Math.abs(avg) > MIN_VEL) launchCoast(avg);
+      }
+      touchVelBuffer = [];
+    }
+  }
+
+  // ── Attach all listeners ──
+  const listeners = [
+    ['mousemove',  onMouseMove,  false],
+    ['mouseleave', onMouseLeave, false],
+    ['mousedown',  onMouseDown,  false],
+    ['wheel',      onWheel,      { passive: false }],
+    ['touchstart', onTouchStart, { passive: true  }],
+    ['touchmove',  onTouchMove,  { passive: false }],
+    ['touchend',   onTouchEnd,   { passive: true  }],
+  ];
+  listeners.forEach(([type, fn, opts]) => wrap.addEventListener(type, fn, opts));
+
+  // Global mouse move/up for drag (so drag works outside the wrap)
+  const globalMove = e => onMouseDrag(e);
+  const globalUp   = () => onMouseUp();
+  document.addEventListener('mousemove', globalMove);
+  document.addEventListener('mouseup',   globalUp);
+
+  _chartListeners = {
+    wl: listeners,
+    cleanup() {
+      document.removeEventListener('mousemove', globalMove);
+      document.removeEventListener('mouseup',   globalUp);
+    }
   };
 }
 
