@@ -146876,4 +146876,39 @@
     "avg": "$4.50K",
     "avg_value": 4500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:45:10",
+    "item": "Nether Quartz",
+    "avg": "$28.25",
+    "avg_value": 28.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:45:16",
+    "item": "Elytra",
+    "avg": "$634.85M",
+    "avg_value": 6.34845E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:45:24",
+    "item": "End Crystals",
+    "avg": "$310.08",
+    "avg_value": 310.075
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:45:27",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$47.26K",
+    "avg_value": 47255.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:45:30",
+    "item": "Gravel",
+    "avg": "$372.55",
+    "avg_value": 372.55
+  }
 ]
