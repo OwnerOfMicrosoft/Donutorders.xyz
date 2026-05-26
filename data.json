@@ -150929,4 +150929,60 @@
     "avg": "$1.60K",
     "avg_value": 1600.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:35:01",
+    "item": "Diamonds",
+    "avg": "$3.56K",
+    "avg_value": 3560.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:03",
+    "item": "Iron Ingots",
+    "avg": "$295.00",
+    "avg_value": 295.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:06",
+    "item": "Blocks of Iron",
+    "avg": "$2.56K",
+    "avg_value": 2560.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:09",
+    "item": "Blocks of Redstone",
+    "avg": "$1.82K",
+    "avg_value": 1815.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:12",
+    "item": "Emeralds",
+    "avg": "$621.05",
+    "avg_value": 621.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:15",
+    "item": "Mangrove Logs",
+    "avg": "$868.50",
+    "avg_value": 868.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:15",
+    "item": "Oak Logs",
+    "avg": "$353.00",
+    "avg_value": 353.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:35:29",
+    "item": "Redstone Dust",
+    "avg": "$238.50",
+    "avg_value": 238.5
+  }
 ]
