@@ -140744,4 +140744,25 @@
     "avg": "$7.25K",
     "avg_value": 7250.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:53:48",
+    "item": "Book: Unbreaking III",
+    "avg": "$11.50K",
+    "avg_value": 11500.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:54:05",
+    "item": "Shulker Shells",
+    "avg": "$332.00",
+    "avg_value": 332.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:54:16",
+    "item": "Gravel",
+    "avg": "$420.00",
+    "avg_value": 420.0
+  }
 ]
