@@ -142557,4 +142557,18 @@
     "avg": "$9.05K",
     "avg_value": 9050.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:16:48",
+    "item": "Book: Blast Protection IV",
+    "avg": "$8.11K",
+    "avg_value": 8110.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:17:15",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$47.21K",
+    "avg_value": 47210.0
+  }
 ]
