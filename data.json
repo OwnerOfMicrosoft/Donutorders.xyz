@@ -139155,4 +139155,32 @@
     "avg": "$570.50M",
     "avg_value": 5.705E8
   }
+,
+  {
+    "timestamp": "2026-05-25 23:13:30",
+    "item": "Hoppers",
+    "avg": "$1.29K",
+    "avg_value": 1285.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:13:33",
+    "item": "Diamonds",
+    "avg": "$3.60K",
+    "avg_value": 3600.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:13:36",
+    "item": "Iron Ingots",
+    "avg": "$269.50",
+    "avg_value": 269.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:13:47",
+    "item": "Oak Logs",
+    "avg": "$333.50",
+    "avg_value": 333.5
+  }
 ]
