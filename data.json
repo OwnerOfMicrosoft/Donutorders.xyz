@@ -151265,4 +151265,46 @@
     "avg": "$431.00",
     "avg_value": 431.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:39:17",
+    "item": "Minecarts with Hoppers",
+    "avg": "$2.65K",
+    "avg_value": 2650.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:39:17",
+    "item": "Hoppers",
+    "avg": "$1.46K",
+    "avg_value": 1455.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:39:25",
+    "item": "Blocks of Iron",
+    "avg": "$2.35K",
+    "avg_value": 2350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:39:28",
+    "item": "Blocks of Redstone",
+    "avg": "$1.94K",
+    "avg_value": 1940.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:39:34",
+    "item": "Spruce Logs",
+    "avg": "$10.00K",
+    "avg_value": 10000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:39:45",
+    "item": "Sand",
+    "avg": "$364.00",
+    "avg_value": 364.0
+  }
 ]
