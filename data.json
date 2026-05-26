@@ -149333,4 +149333,39 @@
     "avg": "$10.56K",
     "avg_value": 10555.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:16:21",
+    "item": "Wheat Seeds",
+    "avg": "$24.00",
+    "avg_value": 24.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:16:34",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$47.75K",
+    "avg_value": 47750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:16:37",
+    "item": "Gravel",
+    "avg": "$420.00",
+    "avg_value": 420.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:16:39",
+    "item": "Hoppers",
+    "avg": "$1.28K",
+    "avg_value": 1275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:16:44",
+    "item": "Iron Ingots",
+    "avg": "$277.60",
+    "avg_value": 277.6
+  }
 ]
