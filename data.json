@@ -148444,4 +148444,25 @@
     "avg": "$10.00K",
     "avg_value": 10000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:05:56",
+    "item": "Book: Unbreaking III",
+    "avg": "$13.00K",
+    "avg_value": 13000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:06:02",
+    "item": "Blocks of Gold",
+    "avg": "$7.90K",
+    "avg_value": 7900.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:06:22",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$46.61K",
+    "avg_value": 46605.0
+  }
 ]
