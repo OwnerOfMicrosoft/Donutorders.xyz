@@ -149746,4 +149746,39 @@
     "avg": "$5.76K",
     "avg_value": 5755.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:21:30",
+    "item": "Stone",
+    "avg": "$70.51",
+    "avg_value": 70.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:35",
+    "item": "Ancient Debris",
+    "avg": "$870.05K",
+    "avg_value": 870050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:38",
+    "item": "Minecarts with TNT",
+    "avg": "$4.15K",
+    "avg_value": 4150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:43",
+    "item": "Piglin Heads",
+    "avg": "$421.50K",
+    "avg_value": 421500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:02",
+    "item": "Cobblestone",
+    "avg": "$21.25",
+    "avg_value": 21.25
+  }
 ]
