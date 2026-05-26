@@ -142683,4 +142683,53 @@
     "avg": "$7.05K",
     "avg_value": 7050.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:19:02",
+    "item": "Wheat Seeds",
+    "avg": "$30.50",
+    "avg_value": 30.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:19:08",
+    "item": "Shulker Shells",
+    "avg": "$320.25",
+    "avg_value": 320.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:19:15",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$48.51K",
+    "avg_value": 48505.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:19:21",
+    "item": "Hoppers",
+    "avg": "$1.55K",
+    "avg_value": 1550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:19:23",
+    "item": "Diamonds",
+    "avg": "$4.31K",
+    "avg_value": 4305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:19:26",
+    "item": "Iron Ingots",
+    "avg": "$250.50",
+    "avg_value": 250.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:19:29",
+    "item": "Blocks of Iron",
+    "avg": "$2.16K",
+    "avg_value": 2160.0
+  }
 ]
