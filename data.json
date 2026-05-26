@@ -140338,4 +140338,46 @@
     "avg": "$1.80K",
     "avg_value": 1800.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:44:06",
+    "item": "Redstone Dust",
+    "avg": "$320.00",
+    "avg_value": 320.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:44:08",
+    "item": "Chests",
+    "avg": "$135.00",
+    "avg_value": 135.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:44:19",
+    "item": "Netherite Ingot",
+    "avg": "$3.45M",
+    "avg_value": 3450000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:44:25",
+    "item": "Stone",
+    "avg": "$54.50",
+    "avg_value": 54.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:44:28",
+    "item": "Mud",
+    "avg": "$2.70K",
+    "avg_value": 2700.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:44:50",
+    "item": "Leather",
+    "avg": "$501.50",
+    "avg_value": 501.5
+  }
 ]
