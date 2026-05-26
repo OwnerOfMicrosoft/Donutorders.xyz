@@ -142998,4 +142998,60 @@
     "avg": "$8.50K",
     "avg_value": 8500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:23:10",
+    "item": "Shulker Shells",
+    "avg": "$313.00",
+    "avg_value": 313.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:18",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$48.31K",
+    "avg_value": 48305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:21",
+    "item": "Gravel",
+    "avg": "$370.00",
+    "avg_value": 370.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:23",
+    "item": "Minecarts with Hoppers",
+    "avg": "$2.80K",
+    "avg_value": 2800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:23",
+    "item": "Hoppers",
+    "avg": "$1.53K",
+    "avg_value": 1530.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:26",
+    "item": "Diamonds",
+    "avg": "$3.61K",
+    "avg_value": 3605.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:29",
+    "item": "Iron Ingots",
+    "avg": "$253.00",
+    "avg_value": 253.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:23:31",
+    "item": "Blocks of Iron",
+    "avg": "$2.14K",
+    "avg_value": 2135.0
+  }
 ]
