@@ -140177,4 +140177,32 @@
     "avg": "$266.00",
     "avg_value": 266.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:37:36",
+    "item": "Sand",
+    "avg": "$360.05",
+    "avg_value": 360.05
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:37:39",
+    "item": "Redstone Dust",
+    "avg": "$264.50",
+    "avg_value": 264.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:37:42",
+    "item": "Chests",
+    "avg": "$95.21",
+    "avg_value": 95.21
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:37:53",
+    "item": "Netherite Ingots",
+    "avg": "$3.57M",
+    "avg_value": 3565000.0
+  }
 ]
