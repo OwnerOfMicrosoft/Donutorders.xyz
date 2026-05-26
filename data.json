@@ -147163,4 +147163,39 @@
     "avg": "$356.25",
     "avg_value": 356.25
   }
+,
+  {
+    "timestamp": "2026-05-26 11:49:07",
+    "item": "Cobblestone",
+    "avg": "$20.36",
+    "avg_value": 20.36
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:49:15",
+    "item": "Book: Protection IV",
+    "avg": "$21.05K",
+    "avg_value": 21050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:49:18",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.55K",
+    "avg_value": 4550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:49:21",
+    "item": "Book: Unbreaking III",
+    "avg": "$21.00K",
+    "avg_value": 21000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:49:29",
+    "item": "Nether Quartz",
+    "avg": "$28.75",
+    "avg_value": 28.75
+  }
 ]
