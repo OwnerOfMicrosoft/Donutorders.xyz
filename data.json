@@ -146736,4 +146736,60 @@
     "avg": "$204.01K",
     "avg_value": 204005.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:43:23",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$50.50K",
+    "avg_value": 50500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:29",
+    "item": "Hoppers",
+    "avg": "$1.51K",
+    "avg_value": 1510.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:34",
+    "item": "Iron Ingots",
+    "avg": "$267.50",
+    "avg_value": 267.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:36",
+    "item": "Blocks of Iron",
+    "avg": "$2.40K",
+    "avg_value": 2400.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:39",
+    "item": "Redstone Dust",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:42",
+    "item": "Emeralds",
+    "avg": "$618.00",
+    "avg_value": 618.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:44",
+    "item": "Oak Logs",
+    "avg": "$303.50",
+    "avg_value": 303.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:43:55",
+    "item": "Sand",
+    "avg": "$377.15",
+    "avg_value": 377.15
+  }
 ]
