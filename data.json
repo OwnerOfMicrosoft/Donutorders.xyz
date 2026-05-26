@@ -146484,4 +146484,46 @@
     "avg": "$4.38K",
     "avg_value": 4375.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:40:38",
+    "item": "Leather Horse Armor",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:46",
+    "item": "Cobblestone",
+    "avg": "$75.00",
+    "avg_value": 75.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:48",
+    "item": "Book: Mending",
+    "avg": "$8.28K",
+    "avg_value": 8275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:54",
+    "item": "Book: Protection IV",
+    "avg": "$11.00K",
+    "avg_value": 11000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:56",
+    "item": "Book: Blast Protection IV",
+    "avg": "$8.05K",
+    "avg_value": 8050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:40:59",
+    "item": "Book: Unbreaking III",
+    "avg": "$7.55K",
+    "avg_value": 7550.0
+  }
 ]
