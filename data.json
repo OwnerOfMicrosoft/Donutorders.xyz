@@ -139918,4 +139918,25 @@
     "avg": "$51.20",
     "avg_value": 51.2
   }
+,
+  {
+    "timestamp": "2026-05-25 23:31:26",
+    "item": "Netherite Ingot",
+    "avg": "$3.47M",
+    "avg_value": 3465000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:31:40",
+    "item": "Minecarts with TNT",
+    "avg": "$4.85K",
+    "avg_value": 4850.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:31:51",
+    "item": "Bones",
+    "avg": "$180.00",
+    "avg_value": 180.0
+  }
 ]
