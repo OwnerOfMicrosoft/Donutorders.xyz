@@ -152147,4 +152147,60 @@
     "avg": "$35.00",
     "avg_value": 35.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:52:16",
+    "item": "Hoppers",
+    "avg": "$2.00K",
+    "avg_value": 2000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:52:18",
+    "item": "Diamonds",
+    "avg": "$3.56K",
+    "avg_value": 3560.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:52:21",
+    "item": "Iron Ingots",
+    "avg": "$336.00",
+    "avg_value": 336.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:52:24",
+    "item": "Blocks of Iron",
+    "avg": "$2.46K",
+    "avg_value": 2455.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:52:27",
+    "item": "Blocks of Redstone",
+    "avg": "$2.05K",
+    "avg_value": 2050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:52:32",
+    "item": "Mangrove Logs",
+    "avg": "$885.00",
+    "avg_value": 885.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:52:32",
+    "item": "Oak Logs",
+    "avg": "$328.00",
+    "avg_value": 328.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:52:35",
+    "item": "Bone Blocks",
+    "avg": "$543.60",
+    "avg_value": 543.6
+  }
 ]
