@@ -148731,4 +148731,32 @@
     "avg": "$95.21",
     "avg_value": 95.21
   }
+,
+  {
+    "timestamp": "2026-05-26 12:09:17",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$482.50K",
+    "avg_value": 482500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:09:20",
+    "item": "Smooth Stone",
+    "avg": "$73.00",
+    "avg_value": 73.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:09:28",
+    "item": "Minecarts with TNT",
+    "avg": "$4.30K",
+    "avg_value": 4300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:09:44",
+    "item": "Leather",
+    "avg": "$430.00",
+    "avg_value": 430.0
+  }
 ]
