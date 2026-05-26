@@ -141808,4 +141808,67 @@
     "avg": "$189.50",
     "avg_value": 189.5
   }
+,
+  {
+    "timestamp": "2026-05-26 09:41:25",
+    "item": "Leather Horse Armor",
+    "avg": "$5.50K",
+    "avg_value": 5500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:25",
+    "item": "Leather",
+    "avg": "$453.50",
+    "avg_value": 453.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:30",
+    "item": "Redstone Repeaters",
+    "avg": "$1.52K",
+    "avg_value": 1515.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:33",
+    "item": "Cobblestone",
+    "avg": "$20.05",
+    "avg_value": 20.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:35",
+    "item": "Book: Mending",
+    "avg": "$4.90K",
+    "avg_value": 4900.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:43",
+    "item": "Book: Blast Protection IV",
+    "avg": "$8.50K",
+    "avg_value": 8500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:46",
+    "item": "Book: Unbreaking III",
+    "avg": "$11.50K",
+    "avg_value": 11500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:48",
+    "item": "Gold Ingots",
+    "avg": "$753.69",
+    "avg_value": 753.685
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:41:56",
+    "item": "Wheat Seeds",
+    "avg": "$20.50",
+    "avg_value": 20.5
+  }
 ]
