@@ -144552,4 +144552,60 @@
     "avg": "$106.50",
     "avg_value": 106.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:41:21",
+    "item": "Blocks of Emerald",
+    "avg": "$6.05K",
+    "avg_value": 6050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:41:24",
+    "item": "Stone Brick Stairs",
+    "avg": "$2.00K",
+    "avg_value": 2000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:41:24",
+    "item": "Stone",
+    "avg": "$92.00",
+    "avg_value": 92.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:41:24",
+    "item": "Smooth Stone",
+    "avg": "$87.50",
+    "avg_value": 87.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:41:27",
+    "item": "Mud Bricks",
+    "avg": "$528.50",
+    "avg_value": 528.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:41:27",
+    "item": "Mud",
+    "avg": "$340.00",
+    "avg_value": 340.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:41:32",
+    "item": "Minecarts with TNT",
+    "avg": "$7.15K",
+    "avg_value": 7150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:41:41",
+    "item": "Ominous Trial Keys",
+    "avg": "$256.50K",
+    "avg_value": 256500.0
+  }
 ]
