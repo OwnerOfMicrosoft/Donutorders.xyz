@@ -142354,4 +142354,95 @@
     "avg": "$25.00",
     "avg_value": 25.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:15:09",
+    "item": "Beacons",
+    "avg": "$176.00K",
+    "avg_value": 176000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:12",
+    "item": "End Crystals",
+    "avg": "$312.05",
+    "avg_value": 312.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:14",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$49.01K",
+    "avg_value": 49005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:17",
+    "item": "Gravel",
+    "avg": "$415.55",
+    "avg_value": 415.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:20",
+    "item": "Minecarts with Hoppers",
+    "avg": "$3.50K",
+    "avg_value": 3500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:20",
+    "item": "Hoppers",
+    "avg": "$1.69K",
+    "avg_value": 1690.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:25",
+    "item": "Iron Ingots",
+    "avg": "$262.50",
+    "avg_value": 262.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:30",
+    "item": "Redstone Lamps",
+    "avg": "$2.60K",
+    "avg_value": 2600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:30",
+    "item": "Blocks of Redstone",
+    "avg": "$1.78K",
+    "avg_value": 1775.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:30",
+    "item": "Redstone Repeaters",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:30",
+    "item": "Redstone Comparators",
+    "avg": "$975.00",
+    "avg_value": 975.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:35",
+    "item": "Stripped Oak Logs",
+    "avg": "$700.00",
+    "avg_value": 700.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:35",
+    "item": "Oak Logs",
+    "avg": "$330.00",
+    "avg_value": 330.0
+  }
 ]
