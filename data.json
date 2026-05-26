@@ -139974,4 +139974,25 @@
     "avg": "$1.00K",
     "avg_value": 1000.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:32:36",
+    "item": "Shulker Shells",
+    "avg": "$345.05",
+    "avg_value": 345.05
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:32:50",
+    "item": "Hoppers",
+    "avg": "$1.66K",
+    "avg_value": 1655.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:32:53",
+    "item": "Diamonds",
+    "avg": "$3.55K",
+    "avg_value": 3550.0
+  }
 ]
