@@ -150810,4 +150810,53 @@
     "avg": "$236.01",
     "avg_value": 236.005
   }
+,
+  {
+    "timestamp": "2026-05-26 12:33:22",
+    "item": "Chests",
+    "avg": "$130.00",
+    "avg_value": 130.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:25",
+    "item": "Spruce Logs",
+    "avg": "$50.00",
+    "avg_value": 50.004999999999995
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:30",
+    "item": "Strings",
+    "avg": "$250.00",
+    "avg_value": 250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:33",
+    "item": "Netherite Ingot",
+    "avg": "$3.32M",
+    "avg_value": 3315000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:44",
+    "item": "Ancient Debris",
+    "avg": "$880.05K",
+    "avg_value": 880050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:47",
+    "item": "Minecarts with TNT",
+    "avg": "$4.21K",
+    "avg_value": 4205.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:33:53",
+    "item": "Piglin Heads",
+    "avg": "$424.10K",
+    "avg_value": 424100.0
+  }
 ]
