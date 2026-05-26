@@ -143838,4 +143838,46 @@
     "avg": "$8.05K",
     "avg_value": 8050.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:33:06",
+    "item": "Bones",
+    "avg": "$191.00",
+    "avg_value": 191.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:33:18",
+    "item": "Redstone Repeaters",
+    "avg": "$950.00",
+    "avg_value": 950.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:33:20",
+    "item": "Cobblestone",
+    "avg": "$31.50",
+    "avg_value": 31.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:33:23",
+    "item": "Book: Mending",
+    "avg": "$5.90K",
+    "avg_value": 5900.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:33:26",
+    "item": "Book: Silk Touch",
+    "avg": "$6.50K",
+    "avg_value": 6500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:33:32",
+    "item": "Book: Blast Protection IV",
+    "avg": "$3.60K",
+    "avg_value": 3600.0
+  }
 ]
