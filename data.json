@@ -140324,4 +140324,18 @@
     "avg": "$48.50K",
     "avg_value": 48500.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:43:40",
+    "item": "Iron Ingots",
+    "avg": "$305.00",
+    "avg_value": 305.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:43:46",
+    "item": "Blocks of Redstone",
+    "avg": "$1.80K",
+    "avg_value": 1800.0
+  }
 ]
