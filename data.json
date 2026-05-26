@@ -140562,4 +140562,39 @@
     "avg": "$2.05K",
     "avg_value": 2050.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:48:26",
+    "item": "Chests",
+    "avg": "$260.00",
+    "avg_value": 260.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:48:37",
+    "item": "Netherite Ingot",
+    "avg": "$3.56M",
+    "avg_value": 3560000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:48:43",
+    "item": "Stonecutters",
+    "avg": "$101.50",
+    "avg_value": 101.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:48:43",
+    "item": "Stone",
+    "avg": "$55.00",
+    "avg_value": 55.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:48:46",
+    "item": "Mud",
+    "avg": "$2.70K",
+    "avg_value": 2700.0
+  }
 ]
