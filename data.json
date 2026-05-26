@@ -144937,4 +144937,46 @@
     "avg": "$12.50K",
     "avg_value": 12500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:46:25",
+    "item": "Book: Protection IV",
+    "avg": "$19.25K",
+    "avg_value": 19250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:27",
+    "item": "Book: Blast Protection IV",
+    "avg": "$20.25K",
+    "avg_value": 20250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:30",
+    "item": "Book: Unbreaking III",
+    "avg": "$15.00K",
+    "avg_value": 15000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:36",
+    "item": "Blocks of Gold",
+    "avg": "$7.00K",
+    "avg_value": 7000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:39",
+    "item": "Blocks of Quartz",
+    "avg": "$77.50",
+    "avg_value": 77.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:46:47",
+    "item": "Shulker Shells",
+    "avg": "$310.51",
+    "avg_value": 310.505
+  }
 ]
