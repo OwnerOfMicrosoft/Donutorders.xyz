@@ -145889,4 +145889,32 @@
     "avg": "$564.39M",
     "avg_value": 5.64385E8
   }
+,
+  {
+    "timestamp": "2026-05-26 11:34:34",
+    "item": "Creeper Heads",
+    "avg": "$280.50K",
+    "avg_value": 280500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:34:37",
+    "item": "Redstone Comparators",
+    "avg": "$990.50",
+    "avg_value": 990.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:34:42",
+    "item": "Cobblestone",
+    "avg": "$21.21",
+    "avg_value": 21.205
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:34:45",
+    "item": "Book: Mending",
+    "avg": "$4.90K",
+    "avg_value": 4900.0
+  }
 ]
