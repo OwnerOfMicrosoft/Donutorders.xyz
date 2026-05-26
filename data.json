@@ -143495,4 +143495,32 @@
     "avg": "$8.00K",
     "avg_value": 8000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:29:10",
+    "item": "Book: Protection IV",
+    "avg": "$7.55K",
+    "avg_value": 7550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:16",
+    "item": "Book: Unbreaking III",
+    "avg": "$6.49K",
+    "avg_value": 6490.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:24",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$80.00",
+    "avg_value": 80.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:27",
+    "item": "Wheat Seeds",
+    "avg": "$25.50",
+    "avg_value": 25.5
+  }
 ]
