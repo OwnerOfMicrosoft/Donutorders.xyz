@@ -140282,4 +140282,25 @@
     "avg": "$1.73K",
     "avg_value": 1730.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:42:05",
+    "item": "Blocks of Netherite",
+    "avg": "$31.75M",
+    "avg_value": 3.175E7
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:42:14",
+    "item": "Blocks of Emerald",
+    "avg": "$6.12K",
+    "avg_value": 6115.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:42:16",
+    "item": "Stone",
+    "avg": "$77.00",
+    "avg_value": 77.0
+  }
 ]
