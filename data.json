@@ -139526,4 +139526,39 @@
     "avg": "$358.00",
     "avg_value": 358.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:21:21",
+    "item": "Cobblestone",
+    "avg": "$31.00",
+    "avg_value": 31.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:21:27",
+    "item": "Book: Silk Touch",
+    "avg": "$6.25K",
+    "avg_value": 6250.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:21:30",
+    "item": "Book: Protection IV",
+    "avg": "$10.00K",
+    "avg_value": 10000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:21:35",
+    "item": "Book: Unbreaking III",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:21:44",
+    "item": "Nether Quartz",
+    "avg": "$29.25",
+    "avg_value": 29.25
+  }
 ]
