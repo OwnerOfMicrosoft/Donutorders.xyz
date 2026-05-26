@@ -757,6 +757,34 @@ function iqrBounds(vals, fence = 2.5) {
   return iqr === 0 ? null : { lo: q1 - fence * iqr, hi: q3 + fence * iqr };
 }
 
+function iqrFilterVals(vals) {
+  if (!vals || vals.length < 4) return vals;
+  const bounds = iqrBounds(vals, 2.5);
+  if (!bounds) return vals;
+  return vals.filter(v => v >= bounds.lo && v <= bounds.hi);
+}
+
+function filterPriceOutliers(entries) {
+  if (!entries || entries.length < 3) return entries;
+  return entries.filter((e, i) => {
+    if (e.avg_value == null || e.avg_value <= 0) return true;
+    let prev = null, next = null;
+    for (let p = i - 1; p >= 0; p--) { if (entries[p].avg_value > 0) { prev = entries[p].avg_value; break; } }
+    for (let n = i + 1; n < entries.length; n++) { if (entries[n].avg_value > 0) { next = entries[n].avg_value; break; } }
+    
+    const v = e.avg_value;
+    const SPIKE = 10;
+    if (prev !== null && next !== null) {
+      const farP = (v / prev > SPIKE || prev / v > SPIKE);
+      const farN = (v / next > SPIKE || next / v > SPIKE);
+      return !(farP && farN);
+    }
+    const neighbor = prev !== null ? prev : next;
+    if (neighbor !== null) return !(v / neighbor > 50 || neighbor / v > 50);
+    return true;
+  });
+}
+
 // ── Parsing Helpers ──
 function safeId(name) { return name.replace(/[^a-zA-Z0-9]/g, '_'); }
 function fmtPrice(v) {
@@ -803,88 +831,59 @@ function getRelativeChartTime(ts) {
   }
 }
 
-// ── Unified Data Processor (Upgraded for Case-Insensitive Consolidation) ──
+// ── Unified Data Processor (Upgraded for Grouped Table Structure) ──
 function processData(parsed) {
-  let consolidated = {};
-
-  // Process input data points into unified lowercase-keyed collections
-  function appendPoints(itemKey, rawPoints) {
-    const cleanKey = itemKey.trim();
-    if (!cleanKey) return;
-    const lowerKey = cleanKey.toLowerCase();
-
-    const normalizedPoints = rawPoints.map(point => {
-      // Point is either a point object or a legacy list object or compact [timestamp, value]
-      let ts = point.timestamp ?? point[0];
-      let val = point.avg_value ?? point[1];
-      return {
-        timestamp: ts,
-        avg: fmtPrice(val),
-        avg_value: val,
-        top2: point.top2 || []
-      };
-    }).filter(pt => pt.avg_value != null && pt.avg_value > 0);
-
-    if (!consolidated[lowerKey]) {
-      consolidated[lowerKey] = {
-        displayName: cleanKey, // Retain case capitalization of the first match
-        history: []
-      };
-    }
-    consolidated[lowerKey].history = consolidated[lowerKey].history.concat(normalizedPoints);
-  }
+  let snapshots = {};
 
   if (parsed && !Array.isArray(parsed) && !parsed.snapshots) {
-    // 1. Grouped Table Format: {"ItemName": [[timestamp, value], ...]}
+    // 1. New highly compact Grouped Table Format: {"ItemName": [[timestamp, value], ...]}
     Object.keys(parsed).forEach(itemKey => {
-      appendPoints(itemKey, parsed[itemKey]);
+      // Retain original capitalization for pretty display values
+      snapshots[itemKey] = parsed[itemKey].map(point => {
+        const epoch = point[0];
+        const val = point[1];
+        return {
+          timestamp: epoch,
+          avg: fmtPrice(val),
+          avg_value: val,
+          top2: []
+        };
+      });
     });
   } else if (parsed && parsed.snapshots && typeof parsed.snapshots === 'object' && !Array.isArray(parsed.snapshots)) {
-    // 2. Re-hydrated local cache parsed files
-    Object.keys(parsed.snapshots).forEach(itemKey => {
-      appendPoints(itemKey, parsed.snapshots[itemKey]);
+    // Correctly handle re-hydrated local cache parsed files
+    snapshots = parsed.snapshots;
+  } else if (Array.isArray(parsed)) {
+    // 2. Legacy verbose linear object list
+    parsed.forEach(entry => {
+      const key = entry.item || 'unknown';
+      if (!snapshots[key]) snapshots[key] = [];
+      snapshots[key].push({ 
+        timestamp: entry.timestamp || '', 
+        avg: entry.avg || '', 
+        avg_value: entry.avg_value ?? null, 
+        top2: entry.top2 || [] 
+      });
+    });
+  } else if (parsed && parsed.snapshots && Array.isArray(parsed.snapshots)) {
+    // 3. Intermediate cache array format
+    parsed.snapshots.forEach(entry => {
+      const key = entry.item || 'unknown';
+      if (!snapshots[key]) snapshots[key] = [];
+      snapshots[key].push({ 
+        timestamp: entry.timestamp || '', 
+        avg: entry.avg || '', 
+        avg_value: entry.avg_value ?? null, 
+        top2: entry.top2 || [] 
+      });
     });
   } else {
-    // 3. Flat array forms (Legacy snapshots list or plain list)
-    let entries = [];
-    if (Array.isArray(parsed)) {
-      entries = parsed;
-    } else if (parsed && parsed.snapshots && Array.isArray(parsed.snapshots)) {
-      entries = parsed.snapshots;
-    }
-
-    entries.forEach(entry => {
-      const itemKey = entry.item || 'unknown';
-      appendPoints(itemKey, [entry]);
-    });
+    throw new Error('Unrecognised format');
   }
 
-  // Deduplicate timelines, chronologically order points, and filter price outliers
-  let snapshots = {};
-  Object.keys(consolidated).forEach(lowerKey => {
-    const itemObj = consolidated[lowerKey];
-    if (isBanned(itemObj.displayName)) return;
-
-    // Chronological sorting
-    itemObj.history.sort((a, b) => toMs(a.timestamp) - toMs(b.timestamp));
-
-    // Deduplicate overlapping timestamps
-    const uniqueHistory = [];
-    const seenEpochs = new Set();
-    itemObj.history.forEach(pt => {
-      const epoch = toMs(pt.timestamp);
-      if (!seenEpochs.has(epoch)) {
-        seenEpochs.add(epoch);
-        uniqueHistory.push(pt);
-      }
-    });
-
-    // Run outlier filtering on combined, ordered dataset
-    const cleanedHistory = filterPriceOutliers(uniqueHistory);
-
-    if (cleanedHistory.length > 0) {
-      snapshots[itemObj.displayName] = cleanedHistory;
-    }
+  // Sanitize outliers per-item list
+  Object.keys(snapshots).forEach(key => { 
+    snapshots[key] = filterPriceOutliers(snapshots[key]); 
   });
   
   rawData = { snapshots };
