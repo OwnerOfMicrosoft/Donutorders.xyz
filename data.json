@@ -148269,4 +148269,46 @@
     "avg": "$16.00K",
     "avg_value": 16000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:03:41",
+    "item": "Book: Protection IV",
+    "avg": "$16.50K",
+    "avg_value": 16500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:44",
+    "item": "Book: Blast Protection IV",
+    "avg": "$15.00K",
+    "avg_value": 15000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:46",
+    "item": "Book: Unbreaking III",
+    "avg": "$14.50K",
+    "avg_value": 14500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:49",
+    "item": "Gold Ingots",
+    "avg": "$850.01",
+    "avg_value": 850.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:58",
+    "item": "Wheat Seeds",
+    "avg": "$16.10",
+    "avg_value": 16.1
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:04:09",
+    "item": "End Crystals",
+    "avg": "$310.50",
+    "avg_value": 310.5
+  }
 ]
