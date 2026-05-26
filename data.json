@@ -144076,4 +144076,53 @@
     "avg": "$8.00K",
     "avg_value": 8000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:35:49",
+    "item": "Blocks of Gold",
+    "avg": "$7.01K",
+    "avg_value": 7005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:52",
+    "item": "Nether Quartz",
+    "avg": "$28.25",
+    "avg_value": 28.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:55",
+    "item": "Wheat Seeds",
+    "avg": "$16.10",
+    "avg_value": 16.1
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:09",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$50.50K",
+    "avg_value": 50500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:12",
+    "item": "Gravel",
+    "avg": "$417.50",
+    "avg_value": 417.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:15",
+    "item": "Minecarts with Hoppers",
+    "avg": "$2.55K",
+    "avg_value": 2550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:15",
+    "item": "Hoppers",
+    "avg": "$1.90K",
+    "avg_value": 1900.0
+  }
 ]
