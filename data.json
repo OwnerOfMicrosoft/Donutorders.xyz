@@ -147681,4 +147681,60 @@
     "avg": "$247.50",
     "avg_value": 247.5
   }
+,
+  {
+    "timestamp": "2026-05-26 11:56:23",
+    "item": "Oak Logs",
+    "avg": "$340.00",
+    "avg_value": 340.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:56:26",
+    "item": "Bone Blocks",
+    "avg": "$531.56",
+    "avg_value": 531.56
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:56:34",
+    "item": "Sand",
+    "avg": "$370.07",
+    "avg_value": 370.065
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:56:39",
+    "item": "Chests",
+    "avg": "$135.00",
+    "avg_value": 135.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:56:42",
+    "item": "Spruce Logs",
+    "avg": "$45.50",
+    "avg_value": 45.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:56:47",
+    "item": "Strings",
+    "avg": "$170.00",
+    "avg_value": 170.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:56:50",
+    "item": "Netherite Ingots",
+    "avg": "$3.54M",
+    "avg_value": 3535000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:56:50",
+    "item": "Netherite Ingot",
+    "avg": "$3.52M",
+    "avg_value": 3520000.0
+  }
 ]
