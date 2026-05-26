@@ -147954,4 +147954,46 @@
     "avg": "$4.82K",
     "avg_value": 4815.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:59:41",
+    "item": "Book: Unbreaking III",
+    "avg": "$23.35K",
+    "avg_value": 23350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:59:49",
+    "item": "Blocks of Quartz",
+    "avg": "$119.00",
+    "avg_value": 119.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:59:54",
+    "item": "Elytra",
+    "avg": "$602.50M",
+    "avg_value": 6.025E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:07",
+    "item": "Gravel",
+    "avg": "$374.00",
+    "avg_value": 374.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:10",
+    "item": "Hoppers",
+    "avg": "$1.50K",
+    "avg_value": 1500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:00:13",
+    "item": "Diamonds",
+    "avg": "$3.53K",
+    "avg_value": 3530.0
+  }
 ]
