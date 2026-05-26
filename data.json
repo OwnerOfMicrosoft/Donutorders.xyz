@@ -140079,4 +140079,32 @@
     "avg": "$7.05K",
     "avg_value": 7050.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:34:57",
+    "item": "Gravel",
+    "avg": "$451.00",
+    "avg_value": 451.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:35:05",
+    "item": "Iron Ingots",
+    "avg": "$261.00",
+    "avg_value": 261.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:35:08",
+    "item": "Blocks of Iron",
+    "avg": "$2.34K",
+    "avg_value": 2335.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:35:11",
+    "item": "Blocks of Redstone",
+    "avg": "$1.64K",
+    "avg_value": 1635.0
+  }
 ]
