@@ -147541,4 +147541,53 @@
     "avg": "$317.50",
     "avg_value": 317.5
   }
+,
+  {
+    "timestamp": "2026-05-26 11:54:38",
+    "item": "Chests",
+    "avg": "$98.10",
+    "avg_value": 98.10499999999999
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:43",
+    "item": "Block of Netherite",
+    "avg": "$30.13M",
+    "avg_value": 3.013E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:48",
+    "item": "Netherite Ingot",
+    "avg": "$3.56M",
+    "avg_value": 3560000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:54",
+    "item": "Smooth Stone",
+    "avg": "$121.25",
+    "avg_value": 121.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:54",
+    "item": "Stone Bricks",
+    "avg": "$67.00",
+    "avg_value": 67.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:55:01",
+    "item": "Minecarts with TNT",
+    "avg": "$5.50K",
+    "avg_value": 5500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:55:04",
+    "item": "Enchanted Golden Apple",
+    "avg": "$200.00K",
+    "avg_value": 200000.0
+  }
 ]
