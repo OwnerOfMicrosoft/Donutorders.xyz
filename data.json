@@ -150250,4 +150250,25 @@
     "avg": "$1.41K",
     "avg_value": 1405.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:27:02",
+    "item": "Oak Logs",
+    "avg": "$309.00",
+    "avg_value": 309.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:27:05",
+    "item": "Bone Blocks",
+    "avg": "$535.01",
+    "avg_value": 535.01
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:27:15",
+    "item": "Redstone Dust",
+    "avg": "$223.00",
+    "avg_value": 223.0
+  }
 ]
