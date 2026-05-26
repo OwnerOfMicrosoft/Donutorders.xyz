@@ -147338,4 +147338,39 @@
     "avg": "$630.55M",
     "avg_value": 6.3055E8
   }
+,
+  {
+    "timestamp": "2026-05-26 11:51:48",
+    "item": "Shulker Shells",
+    "avg": "$313.50",
+    "avg_value": 313.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:53",
+    "item": "End Crystals",
+    "avg": "$355.00",
+    "avg_value": 355.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:56",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$50.00K",
+    "avg_value": 50000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:52:02",
+    "item": "Hoppers",
+    "avg": "$1.54K",
+    "avg_value": 1540.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:52:13",
+    "item": "Redstone Lamps",
+    "avg": "$3.00K",
+    "avg_value": 3000.0
+  }
 ]
