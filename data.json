@@ -144867,4 +144867,39 @@
     "avg": "$543.00",
     "avg_value": 543.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:45:20",
+    "item": "Sand",
+    "avg": "$377.00",
+    "avg_value": 377.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:45:23",
+    "item": "Redstone Dust",
+    "avg": "$262.50",
+    "avg_value": 262.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:45:42",
+    "item": "Smooth Stone",
+    "avg": "$77.50",
+    "avg_value": 77.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:45:45",
+    "item": "Mud",
+    "avg": "$350.50",
+    "avg_value": 350.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:45:48",
+    "item": "Ancient Debris",
+    "avg": "$861.00K",
+    "avg_value": 860995.0
+  }
 ]
