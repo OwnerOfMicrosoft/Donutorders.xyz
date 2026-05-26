@@ -144258,4 +144258,39 @@
     "avg": "$4.03K",
     "avg_value": 4025.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:37:36",
+    "item": "Redstone Repeaters",
+    "avg": "$1.75K",
+    "avg_value": 1750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:39",
+    "item": "Cobblestone",
+    "avg": "$100.50",
+    "avg_value": 100.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:42",
+    "item": "Book: Mending",
+    "avg": "$6.00K",
+    "avg_value": 6000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:47",
+    "item": "Book: Protection IV",
+    "avg": "$21.50K",
+    "avg_value": 21500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:50",
+    "item": "Book: Blast Protection IV",
+    "avg": "$9.00K",
+    "avg_value": 9000.0
+  }
 ]
