@@ -140597,4 +140597,25 @@
     "avg": "$2.70K",
     "avg_value": 2700.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:49:02",
+    "item": "Bones",
+    "avg": "$180.00",
+    "avg_value": 180.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:49:05",
+    "item": "Slime Blocks",
+    "avg": "$380.00",
+    "avg_value": 380.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:49:17",
+    "item": "Cobblestone",
+    "avg": "$23.85",
+    "avg_value": 23.85
+  }
 ]
