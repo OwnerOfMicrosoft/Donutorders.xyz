@@ -144979,4 +144979,67 @@
     "avg": "$310.51",
     "avg_value": 310.505
   }
+,
+  {
+    "timestamp": "2026-05-26 10:46:58",
+    "item": "Gravel",
+    "avg": "$377.55",
+    "avg_value": 377.55
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:01",
+    "item": "Minecart with Hopper",
+    "avg": "$4.00K",
+    "avg_value": 4000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:01",
+    "item": "Minecarts with Hoppers",
+    "avg": "$3.01K",
+    "avg_value": 3005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:01",
+    "item": "Hoppers",
+    "avg": "$1.53K",
+    "avg_value": 1530.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:04",
+    "item": "Diamonds",
+    "avg": "$3.80K",
+    "avg_value": 3800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:07",
+    "item": "Iron Ingots",
+    "avg": "$903.00",
+    "avg_value": 903.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:10",
+    "item": "Blocks of Iron",
+    "avg": "$2.26K",
+    "avg_value": 2255.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:12",
+    "item": "Blocks of Redstone",
+    "avg": "$1.78K",
+    "avg_value": 1780.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:47:18",
+    "item": "Mangrove Logs",
+    "avg": "$815.50",
+    "avg_value": 815.5
+  }
 ]
