@@ -143124,4 +143124,53 @@
     "avg": "$400.00",
     "avg_value": 400.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:24:42",
+    "item": "Cobblestone",
+    "avg": "$30.05",
+    "avg_value": 30.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:45",
+    "item": "Book: Mending",
+    "avg": "$9.50K",
+    "avg_value": 9500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:50",
+    "item": "Book: Protection IV",
+    "avg": "$9.05K",
+    "avg_value": 9050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:53",
+    "item": "Book: Blast Protection IV",
+    "avg": "$13.50K",
+    "avg_value": 13500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:24:56",
+    "item": "Book: Unbreaking III",
+    "avg": "$12.00K",
+    "avg_value": 12000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:25:04",
+    "item": "Nether Quartz",
+    "avg": "$31.50",
+    "avg_value": 31.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:25:04",
+    "item": "Quartz Stairs",
+    "avg": "$10.00",
+    "avg_value": 10.0
+  }
 ]
