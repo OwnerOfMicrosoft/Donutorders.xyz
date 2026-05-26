@@ -145735,4 +145735,32 @@
     "avg": "$3.63K",
     "avg_value": 3625.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:57:03",
+    "item": "Cobblestone",
+    "avg": "$35.50",
+    "avg_value": 35.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:57:12",
+    "item": "Book: Protection IV",
+    "avg": "$52.50K",
+    "avg_value": 52500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:57:17",
+    "item": "Book: Unbreaking III",
+    "avg": "$13.00K",
+    "avg_value": 13000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:57:29",
+    "item": "Wheat Seeds",
+    "avg": "$22.00",
+    "avg_value": 22.0
+  }
 ]
