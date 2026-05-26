@@ -139232,4 +139232,39 @@
     "avg": "$7.00K",
     "avg_value": 7000.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:15:03",
+    "item": "Book: Protection IV",
+    "avg": "$8.45K",
+    "avg_value": 8450.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:15:05",
+    "item": "Book: Blast Protection IV",
+    "avg": "$11.05K",
+    "avg_value": 11050.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:15:08",
+    "item": "Book: Unbreaking III",
+    "avg": "$6.00K",
+    "avg_value": 6000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:15:28",
+    "item": "Beacons",
+    "avg": "$180.51K",
+    "avg_value": 180505.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:15:31",
+    "item": "End Crystals",
+    "avg": "$315.00",
+    "avg_value": 315.0
+  }
 ]
