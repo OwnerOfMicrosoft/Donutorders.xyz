@@ -146638,4 +146638,39 @@
     "avg": "$190.00",
     "avg_value": 190.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:42:15",
+    "item": "Stone",
+    "avg": "$76.00",
+    "avg_value": 75.995
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:18",
+    "item": "Mud",
+    "avg": "$275.00",
+    "avg_value": 275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:23",
+    "item": "Minecarts with TNT",
+    "avg": "$5.28K",
+    "avg_value": 5275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:33",
+    "item": "Bones",
+    "avg": "$182.01",
+    "avg_value": 182.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:42:46",
+    "item": "Cobblestone",
+    "avg": "$35.00",
+    "avg_value": 35.0
+  }
 ]
