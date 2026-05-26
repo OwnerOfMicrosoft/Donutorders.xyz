@@ -140303,4 +140303,18 @@
     "avg": "$77.00",
     "avg_value": 77.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:42:42",
+    "item": "Leather",
+    "avg": "$493.50",
+    "avg_value": 493.495
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:42:53",
+    "item": "Book: Mending",
+    "avg": "$5.85K",
+    "avg_value": 5850.0
+  }
 ]
