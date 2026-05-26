@@ -142767,4 +142767,32 @@
     "avg": "$62.50",
     "avg_value": 62.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:20:16",
+    "item": "Minecarts with TNT",
+    "avg": "$6.05K",
+    "avg_value": 6050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:20:24",
+    "item": "Ominous Trial Keys",
+    "avg": "$256.01K",
+    "avg_value": 256005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:20:35",
+    "item": "Redstone Comparators",
+    "avg": "$975.00",
+    "avg_value": 975.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:20:40",
+    "item": "Cobblestone",
+    "avg": "$27.50",
+    "avg_value": 27.5
+  }
 ]
