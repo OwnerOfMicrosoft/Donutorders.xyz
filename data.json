@@ -150516,4 +150516,46 @@
     "avg": "$6.55K",
     "avg_value": 6550.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:30:14",
+    "item": "Book: Protection IV",
+    "avg": "$8.42K",
+    "avg_value": 8420.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:30:17",
+    "item": "Book: Blast Protection IV",
+    "avg": "$3.60K",
+    "avg_value": 3600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:30:22",
+    "item": "Gold Ingots",
+    "avg": "$852.50",
+    "avg_value": 852.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:30:27",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$80.00",
+    "avg_value": 80.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:30:33",
+    "item": "Elytra",
+    "avg": "$602.56M",
+    "avg_value": 6.02555E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:30:35",
+    "item": "Shulker Shells",
+    "avg": "$350.26",
+    "avg_value": 350.255
+  }
 ]
