@@ -149837,4 +149837,53 @@
     "avg": "$50.50K",
     "avg_value": 50500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:22:41",
+    "item": "Gravel",
+    "avg": "$427.50",
+    "avg_value": 427.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:44",
+    "item": "Hoppers",
+    "avg": "$1.33K",
+    "avg_value": 1330.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:49",
+    "item": "Iron Ingots",
+    "avg": "$326.00",
+    "avg_value": 326.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:54",
+    "item": "Blocks of Redstone",
+    "avg": "$1.69K",
+    "avg_value": 1685.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:00",
+    "item": "Acacia Logs",
+    "avg": "$401.00",
+    "avg_value": 401.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:02",
+    "item": "Bone Blocks",
+    "avg": "$547.50",
+    "avg_value": 547.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:23:08",
+    "item": "Creeper Heads",
+    "avg": "$290.50K",
+    "avg_value": 290500.0
+  }
 ]
