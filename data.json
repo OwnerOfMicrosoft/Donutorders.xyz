@@ -141675,4 +141675,60 @@
     "avg": "$7.80K",
     "avg_value": 7800.0
   }
+,
+  {
+    "timestamp": "2026-05-26 09:39:46",
+    "item": "Book: Unbreaking III",
+    "avg": "$10.26K",
+    "avg_value": 10260.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:01",
+    "item": "Shulker Shells",
+    "avg": "$333.50",
+    "avg_value": 333.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:04",
+    "item": "Beacons",
+    "avg": "$178.60K",
+    "avg_value": 178600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:07",
+    "item": "End Crystals",
+    "avg": "$387.50",
+    "avg_value": 387.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:09",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$46.05K",
+    "avg_value": 46050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:14",
+    "item": "Minecarts with Hoppers",
+    "avg": "$3.90K",
+    "avg_value": 3900.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:14",
+    "item": "Hoppers",
+    "avg": "$1.61K",
+    "avg_value": 1605.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:40:17",
+    "item": "Diamonds",
+    "avg": "$3.55K",
+    "avg_value": 3550.0
+  }
 ]
