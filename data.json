@@ -146911,4 +146911,32 @@
     "avg": "$372.55",
     "avg_value": 372.55
   }
+,
+  {
+    "timestamp": "2026-05-26 11:45:41",
+    "item": "Blocks of Iron",
+    "avg": "$2.58K",
+    "avg_value": 2575.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:45:47",
+    "item": "Emerald",
+    "avg": "$1.00",
+    "avg_value": 1.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:46:07",
+    "item": "Chests",
+    "avg": "$97.00",
+    "avg_value": 97.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:46:09",
+    "item": "Spruce Logs",
+    "avg": "$44.21",
+    "avg_value": 44.205
+  }
 ]
