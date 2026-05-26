@@ -139505,4 +139505,25 @@
     "avg": "$60.00",
     "avg_value": 60.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:20:50",
+    "item": "Mud",
+    "avg": "$201.50",
+    "avg_value": 201.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:21:07",
+    "item": "Bones",
+    "avg": "$176.50",
+    "avg_value": 176.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:21:10",
+    "item": "Slime Blocks",
+    "avg": "$358.00",
+    "avg_value": 358.0
+  }
 ]
