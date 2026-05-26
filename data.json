@@ -147093,4 +147093,25 @@
     "avg": "$1.93K",
     "avg_value": 1925.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:47:59",
+    "item": "Pale Oak Log",
+    "avg": "$375.00",
+    "avg_value": 375.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:13",
+    "item": "Redstone Dust",
+    "avg": "$218.51",
+    "avg_value": 218.505
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:16",
+    "item": "Chests",
+    "avg": "$95.21",
+    "avg_value": 95.21
+  }
 ]
