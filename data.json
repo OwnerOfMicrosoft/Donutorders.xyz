@@ -149641,4 +149641,67 @@
     "avg": "$6.58K",
     "avg_value": 6580.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:20:21",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$365.00",
+    "avg_value": 365.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:21",
+    "item": "Blocks of Quartz",
+    "avg": "$141.50",
+    "avg_value": 141.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:27",
+    "item": "Elytra",
+    "avg": "$604.34M",
+    "avg_value": 6.04335E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:37",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$48.25K",
+    "avg_value": 48250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:40",
+    "item": "Gravel",
+    "avg": "$422.50",
+    "avg_value": 422.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:43",
+    "item": "Hoppers",
+    "avg": "$1.31K",
+    "avg_value": 1305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:48",
+    "item": "Iron Ingots",
+    "avg": "$301.50",
+    "avg_value": 301.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:51",
+    "item": "Blocks of Iron",
+    "avg": "$2.45K",
+    "avg_value": 2445.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:20:53",
+    "item": "Redstone Comparators",
+    "avg": "$2.64K",
+    "avg_value": 2635.0
+  }
 ]
