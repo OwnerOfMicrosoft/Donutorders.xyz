@@ -140212,4 +140212,18 @@
     "avg": "$4.06K",
     "avg_value": 4060.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:38:35",
+    "item": "Book: Mending",
+    "avg": "$8.60K",
+    "avg_value": 8600.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:38:58",
+    "item": "Wheat Seeds",
+    "avg": "$13.60",
+    "avg_value": 13.6
+  }
 ]
