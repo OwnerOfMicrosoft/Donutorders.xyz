@@ -148227,4 +148227,46 @@
     "avg": "$5.55K",
     "avg_value": 5550.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:03:07",
+    "item": "Minecarts with TNT",
+    "avg": "$4.15K",
+    "avg_value": 4150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:15",
+    "item": "Ominous Trial Keys",
+    "avg": "$253.50K",
+    "avg_value": 253500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:18",
+    "item": "Bones",
+    "avg": "$175.88",
+    "avg_value": 175.875
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:24",
+    "item": "Leather",
+    "avg": "$575.00",
+    "avg_value": 575.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:32",
+    "item": "Cobblestone",
+    "avg": "$21.72",
+    "avg_value": 21.72
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:03:35",
+    "item": "Book: Mending",
+    "avg": "$16.00K",
+    "avg_value": 16000.0
+  }
 ]
