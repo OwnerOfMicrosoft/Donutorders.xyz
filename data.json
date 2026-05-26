@@ -149781,4 +149781,60 @@
     "avg": "$21.25",
     "avg_value": 21.25
   }
+,
+  {
+    "timestamp": "2026-05-26 12:22:04",
+    "item": "Book: Mending",
+    "avg": "$8.51K",
+    "avg_value": 8505.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:07",
+    "item": "Book: Silk Touch",
+    "avg": "$10.00K",
+    "avg_value": 10000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:10",
+    "item": "Book: Protection IV",
+    "avg": "$29.05K",
+    "avg_value": 29050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:12",
+    "item": "Book: Blast Protection IV",
+    "avg": "$5.50K",
+    "avg_value": 5500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:15",
+    "item": "Book: Unbreaking III",
+    "avg": "$17.56K",
+    "avg_value": 17555.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:18",
+    "item": "Gold Ingots",
+    "avg": "$925.00",
+    "avg_value": 925.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:20",
+    "item": "Blocks of Gold",
+    "avg": "$6.90K",
+    "avg_value": 6900.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:22:39",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$50.50K",
+    "avg_value": 50500.0
+  }
 ]
