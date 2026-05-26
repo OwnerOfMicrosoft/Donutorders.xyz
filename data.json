@@ -151356,4 +151356,18 @@
     "avg": "$3.72K",
     "avg_value": 3715.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:40:41",
+    "item": "Cobblestone",
+    "avg": "$40.00",
+    "avg_value": 40.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:40:47",
+    "item": "Book: Silk Touch",
+    "avg": "$6.25K",
+    "avg_value": 6245.0
+  }
 ]
