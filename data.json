@@ -142074,4 +142074,46 @@
     "avg": "$3.61K",
     "avg_value": 3605.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:07:08",
+    "item": "Elytra",
+    "avg": "$629.05M",
+    "avg_value": 6.2905E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:08",
+    "item": "Map",
+    "avg": "$628.77M",
+    "avg_value": 6.2877E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:11",
+    "item": "Blocks of Redstone",
+    "avg": "$2.08K",
+    "avg_value": 2075.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:13",
+    "item": "Emeralds",
+    "avg": "$620.50",
+    "avg_value": 620.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:16",
+    "item": "Acacia Logs",
+    "avg": "$350.00",
+    "avg_value": 350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:07:16",
+    "item": "Stripped Oak Logs",
+    "avg": "$400.00",
+    "avg_value": 400.0
+  }
 ]
