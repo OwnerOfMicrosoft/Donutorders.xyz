@@ -144468,4 +144468,53 @@
     "avg": "$140.00",
     "avg_value": 140.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:40:31",
+    "item": "Gravel",
+    "avg": "$393.00",
+    "avg_value": 393.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:40:33",
+    "item": "Minecarts with Hoppers",
+    "avg": "$2.25K",
+    "avg_value": 2250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:40:33",
+    "item": "Hoppers",
+    "avg": "$1.68K",
+    "avg_value": 1680.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:40:36",
+    "item": "Diamonds",
+    "avg": "$3.55K",
+    "avg_value": 3550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:40:39",
+    "item": "Iron Ingots",
+    "avg": "$280.05",
+    "avg_value": 280.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:40:45",
+    "item": "Blocks of Redstone",
+    "avg": "$1.77K",
+    "avg_value": 1765.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:40:45",
+    "item": "Redstone Comparators",
+    "avg": "$995.00",
+    "avg_value": 995.0
+  }
 ]
