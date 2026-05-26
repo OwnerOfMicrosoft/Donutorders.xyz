@@ -143635,4 +143635,88 @@
     "avg": "$6.32K",
     "avg_value": 6320.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:31:19",
+    "item": "Book: Protection IV",
+    "avg": "$14.75K",
+    "avg_value": 14750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:22",
+    "item": "Book: Blast Protection IV",
+    "avg": "$7.70K",
+    "avg_value": 7700.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:25",
+    "item": "Book: Unbreaking II",
+    "avg": "$4.00K",
+    "avg_value": 4000.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:28",
+    "item": "Gold Ingots",
+    "avg": "$780.50",
+    "avg_value": 780.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:33",
+    "item": "Blocks of Quartz",
+    "avg": "$72.50",
+    "avg_value": 72.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:33",
+    "item": "Nether Quartz",
+    "avg": "$32.50",
+    "avg_value": 32.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:33",
+    "item": "Quartz Bricks",
+    "avg": "$0.20",
+    "avg_value": 0.2
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:36",
+    "item": "Wheat",
+    "avg": "$251.00",
+    "avg_value": 251.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:36",
+    "item": "Wheat Seeds",
+    "avg": "$16.10",
+    "avg_value": 16.1
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:39",
+    "item": "Elytra",
+    "avg": "$635.51M",
+    "avg_value": 6.3551E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:48",
+    "item": "End Crystals",
+    "avg": "$311.50",
+    "avg_value": 311.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:31:50",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$58.50K",
+    "avg_value": 58500.0
+  }
 ]
