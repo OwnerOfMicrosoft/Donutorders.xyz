@@ -146344,4 +146344,32 @@
     "avg": "$71.51",
     "avg_value": 71.505
   }
+,
+  {
+    "timestamp": "2026-05-26 11:38:21",
+    "item": "Minecarts with TNT",
+    "avg": "$3.72K",
+    "avg_value": 3715.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:38:37",
+    "item": "Leather",
+    "avg": "$356.25",
+    "avg_value": 356.25
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:38:45",
+    "item": "Cobblestone",
+    "avg": "$40.00",
+    "avg_value": 40.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:38:47",
+    "item": "Book: Mending",
+    "avg": "$4.65K",
+    "avg_value": 4650.0
+  }
 ]
