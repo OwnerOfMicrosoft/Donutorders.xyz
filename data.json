@@ -147485,4 +147485,60 @@
     "avg": "$46.55K",
     "avg_value": 46550.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:54:06",
+    "item": "Hoppers",
+    "avg": "$1.51K",
+    "avg_value": 1510.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:09",
+    "item": "Diamonds",
+    "avg": "$3.58K",
+    "avg_value": 3580.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:14",
+    "item": "Blocks of Iron",
+    "avg": "$2.25K",
+    "avg_value": 2250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:17",
+    "item": "Redstone Repeaters",
+    "avg": "$1.15K",
+    "avg_value": 1150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:19",
+    "item": "Emeralds",
+    "avg": "$627.50",
+    "avg_value": 627.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:22",
+    "item": "Birch Logs",
+    "avg": "$600.00",
+    "avg_value": 600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:22",
+    "item": "Pale Oak Log",
+    "avg": "$475.00",
+    "avg_value": 475.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:22",
+    "item": "Oak Logs",
+    "avg": "$317.50",
+    "avg_value": 317.5
+  }
 ]
