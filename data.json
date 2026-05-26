@@ -151650,4 +151650,25 @@
     "avg": "$3.32M",
     "avg_value": 3315000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:44:49",
+    "item": "Slime Blocks",
+    "avg": "$360.75",
+    "avg_value": 360.75
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:03",
+    "item": "Book: Mending",
+    "avg": "$9.00K",
+    "avg_value": 9000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:45:06",
+    "item": "Book: Silk Touch",
+    "avg": "$5.05K",
+    "avg_value": 5050.0
+  }
 ]
