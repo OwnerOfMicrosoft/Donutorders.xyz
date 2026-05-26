@@ -144293,4 +144293,39 @@
     "avg": "$9.00K",
     "avg_value": 9000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:38:02",
+    "item": "Blocks of Quartz",
+    "avg": "$77.50",
+    "avg_value": 77.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:10",
+    "item": "Shulker Shells",
+    "avg": "$322.50",
+    "avg_value": 322.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:21",
+    "item": "Gravel",
+    "avg": "$375.10",
+    "avg_value": 375.1
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:24",
+    "item": "Hoppers",
+    "avg": "$1.54K",
+    "avg_value": 1535.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:38:32",
+    "item": "Blocks of Iron",
+    "avg": "$2.25K",
+    "avg_value": 2250.0
+  }
 ]
