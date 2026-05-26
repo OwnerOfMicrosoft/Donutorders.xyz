@@ -143992,4 +143992,46 @@
     "avg": "$97.60",
     "avg_value": 97.60499999999999
   }
+,
+  {
+    "timestamp": "2026-05-26 10:34:42",
+    "item": "Spruce Logs",
+    "avg": "$53.00",
+    "avg_value": 53.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:34:47",
+    "item": "Strings",
+    "avg": "$103.00",
+    "avg_value": 103.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:34:53",
+    "item": "Blocks of Emerald",
+    "avg": "$6.46K",
+    "avg_value": 6455.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:34:56",
+    "item": "Stone",
+    "avg": "$75.00",
+    "avg_value": 75.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:04",
+    "item": "TNT",
+    "avg": "$8.00K",
+    "avg_value": 8000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:35:04",
+    "item": "Minecarts with TNT",
+    "avg": "$3.75K",
+    "avg_value": 3750.0
+  }
 ]
