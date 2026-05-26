@@ -151195,4 +151195,32 @@
     "avg": "$3.97K",
     "avg_value": 3970.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:38:15",
+    "item": "Ominous Trial Keys",
+    "avg": "$256.00K",
+    "avg_value": 256000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:38:26",
+    "item": "Redstone Comparators",
+    "avg": "$990.50",
+    "avg_value": 990.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:38:32",
+    "item": "Cobblestone",
+    "avg": "$28.05",
+    "avg_value": 28.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:38:41",
+    "item": "Book: Protection IV",
+    "avg": "$15.05K",
+    "avg_value": 15050.0
+  }
 ]
