@@ -145511,4 +145511,46 @@
     "avg": "$3.68K",
     "avg_value": 3675.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:53:38",
+    "item": "Blocks of Iron",
+    "avg": "$2.40K",
+    "avg_value": 2400.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:41",
+    "item": "Redstone Repeaters",
+    "avg": "$1.50K",
+    "avg_value": 1500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:44",
+    "item": "Emeralds",
+    "avg": "$628.50",
+    "avg_value": 628.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:46",
+    "item": "Oak Logs",
+    "avg": "$315.00",
+    "avg_value": 315.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:49",
+    "item": "Bone Blocks",
+    "avg": "$535.01",
+    "avg_value": 535.005
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:54:03",
+    "item": "Chests",
+    "avg": "$95.22",
+    "avg_value": 95.215
+  }
 ]
