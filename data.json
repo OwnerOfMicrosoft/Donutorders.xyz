@@ -147198,4 +147198,46 @@
     "avg": "$28.75",
     "avg_value": 28.75
   }
+,
+  {
+    "timestamp": "2026-05-26 11:49:35",
+    "item": "Elytra",
+    "avg": "$615.51M",
+    "avg_value": 6.15505E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:49:43",
+    "item": "End Crystals",
+    "avg": "$330.50",
+    "avg_value": 330.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:49:52",
+    "item": "Hoppers",
+    "avg": "$1.58K",
+    "avg_value": 1580.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:49:57",
+    "item": "Iron Ingots",
+    "avg": "$268.00",
+    "avg_value": 268.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:50:00",
+    "item": "Blocks of Iron",
+    "avg": "$2.30K",
+    "avg_value": 2300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:50:03",
+    "item": "Redstone Comparators",
+    "avg": "$3.00K",
+    "avg_value": 3000.0
+  }
 ]
