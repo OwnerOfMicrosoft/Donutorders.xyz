@@ -149046,4 +149046,60 @@
     "avg": "$3.85K",
     "avg_value": 3850.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:12:41",
+    "item": "Iron Ingots",
+    "avg": "$290.50",
+    "avg_value": 290.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:44",
+    "item": "Blocks of Iron",
+    "avg": "$2.28K",
+    "avg_value": 2275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:47",
+    "item": "Blocks of Redstone",
+    "avg": "$1.69K",
+    "avg_value": 1685.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:47",
+    "item": "Redstone Repeaters",
+    "avg": "$1.28K",
+    "avg_value": 1275.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:49",
+    "item": "Emeralds",
+    "avg": "$608.60",
+    "avg_value": 608.6
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:55",
+    "item": "Bone Blocks",
+    "avg": "$561.00",
+    "avg_value": 561.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:13:08",
+    "item": "Chests",
+    "avg": "$105.00",
+    "avg_value": 105.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:13:10",
+    "item": "Spruce Logs",
+    "avg": "$48.01",
+    "avg_value": 48.010000000000005
+  }
 ]
