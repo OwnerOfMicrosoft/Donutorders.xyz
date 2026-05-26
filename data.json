@@ -139561,4 +139561,39 @@
     "avg": "$29.25",
     "avg_value": 29.25
   }
+,
+  {
+    "timestamp": "2026-05-25 23:21:58",
+    "item": "End Crystals",
+    "avg": "$309.07",
+    "avg_value": 309.065
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:22:06",
+    "item": "Hoppers",
+    "avg": "$2.25K",
+    "avg_value": 2250.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:22:12",
+    "item": "Iron Ingots",
+    "avg": "$270.55",
+    "avg_value": 270.55
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:22:14",
+    "item": "Blocks of Iron",
+    "avg": "$2.31K",
+    "avg_value": 2305.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:22:20",
+    "item": "Emeralds",
+    "avg": "$715.00",
+    "avg_value": 715.0
+  }
 ]
