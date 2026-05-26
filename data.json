@@ -147114,4 +147114,53 @@
     "avg": "$95.21",
     "avg_value": 95.21
   }
+,
+  {
+    "timestamp": "2026-05-26 11:48:30",
+    "item": "Blocks of Emerald",
+    "avg": "$5.58K",
+    "avg_value": 5575.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:33",
+    "item": "Smooth Stone",
+    "avg": "$120.50",
+    "avg_value": 120.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:33",
+    "item": "Stone",
+    "avg": "$69.01",
+    "avg_value": 69.01
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:42",
+    "item": "Minecarts with TNT",
+    "avg": "$3.90K",
+    "avg_value": 3900.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:47",
+    "item": "Piglin Heads",
+    "avg": "$415.50K",
+    "avg_value": 415500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:53",
+    "item": "Bones",
+    "avg": "$182.00",
+    "avg_value": 182.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:48:59",
+    "item": "Leather",
+    "avg": "$356.25",
+    "avg_value": 356.25
+  }
 ]
