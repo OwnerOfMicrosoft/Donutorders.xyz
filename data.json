@@ -145287,4 +145287,53 @@
     "avg": "$406.10K",
     "avg_value": 406100.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:50:21",
+    "item": "Bones",
+    "avg": "$180.75",
+    "avg_value": 180.75
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:27",
+    "item": "Leather",
+    "avg": "$350.50",
+    "avg_value": 350.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:35",
+    "item": "Cobblestone",
+    "avg": "$37.50",
+    "avg_value": 37.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:38",
+    "item": "Book: Mending",
+    "avg": "$7.95K",
+    "avg_value": 7950.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:43",
+    "item": "Book: Protection IV",
+    "avg": "$36.00K",
+    "avg_value": 36000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:46",
+    "item": "Book: Blast Protection IV",
+    "avg": "$22.25K",
+    "avg_value": 22250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:50:49",
+    "item": "Book: Unbreaking III",
+    "avg": "$11.50K",
+    "avg_value": 11500.0
+  }
 ]
