@@ -141101,4 +141101,137 @@
     "avg": "$2.00K",
     "avg_value": 2000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 09:36:22",
+    "item": "Blocks of Redstone",
+    "avg": "$2.01K",
+    "avg_value": 2005.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:22",
+    "item": "Redstone Repeaters",
+    "avg": "$1.52K",
+    "avg_value": 1515.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:25",
+    "item": "Emeralds",
+    "avg": "$611.05",
+    "avg_value": 611.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:27",
+    "item": "Stripped Pale Oak Log",
+    "avg": "$425.00",
+    "avg_value": 425.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:27",
+    "item": "Stripped Mangrove Logs",
+    "avg": "$473.00",
+    "avg_value": 473.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:27",
+    "item": "Stripped Spruce Logs",
+    "avg": "$305.00",
+    "avg_value": 305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:27",
+    "item": "Oak Logs",
+    "avg": "$302.50",
+    "avg_value": 302.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:27",
+    "item": "Cherry Logs",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:32",
+    "item": "Dried Kelp Blocks",
+    "avg": "$740.01",
+    "avg_value": 740.01
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:32",
+    "item": "Dried Ghast",
+    "avg": "$700.50",
+    "avg_value": 700.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:35",
+    "item": "Creeper Heads",
+    "avg": "$277.50K",
+    "avg_value": 277500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:35",
+    "item": "Creeper Head",
+    "avg": "$51.15K",
+    "avg_value": 51150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:40",
+    "item": "Redstone Dust",
+    "avg": "$216.50",
+    "avg_value": 216.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:43",
+    "item": "Chests",
+    "avg": "$101.00",
+    "avg_value": 101.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:46",
+    "item": "Spruce Logs",
+    "avg": "$59.00",
+    "avg_value": 59.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:48",
+    "item": "Blocks of Netherite",
+    "avg": "$32.47M",
+    "avg_value": 3.2465E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:48",
+    "item": "Block of Netherite",
+    "avg": "$31.89M",
+    "avg_value": 3.189E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:51",
+    "item": "Strings",
+    "avg": "$300.50",
+    "avg_value": 300.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:36:53",
+    "item": "Netherite Ingot",
+    "avg": "$3.19M",
+    "avg_value": 3185000.0
+  }
 ]
