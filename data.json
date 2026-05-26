@@ -144202,4 +144202,60 @@
     "avg": "$51.50",
     "avg_value": 51.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:36:54",
+    "item": "Block of Netherite",
+    "avg": "$30.31M",
+    "avg_value": 3.031E7
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:57",
+    "item": "Strings",
+    "avg": "$100.50",
+    "avg_value": 100.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:00",
+    "item": "Netherite Ingots",
+    "avg": "$3.55M",
+    "avg_value": 3545000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:02",
+    "item": "Blocks of Emerald",
+    "avg": "$5.86K",
+    "avg_value": 5855.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:05",
+    "item": "Stone Bricks",
+    "avg": "$67.50",
+    "avg_value": 67.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:05",
+    "item": "Stone",
+    "avg": "$60.00",
+    "avg_value": 60.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:08",
+    "item": "Mud",
+    "avg": "$350.50",
+    "avg_value": 350.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:37:14",
+    "item": "Minecarts with TNT",
+    "avg": "$4.03K",
+    "avg_value": 4025.0
+  }
 ]
