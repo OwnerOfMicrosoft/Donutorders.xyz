@@ -149704,4 +149704,46 @@
     "avg": "$2.64K",
     "avg_value": 2635.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:21:04",
+    "item": "Dried Ghast",
+    "avg": "$851.50",
+    "avg_value": 851.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:09",
+    "item": "Red Sand",
+    "avg": "$340.01",
+    "avg_value": 340.01
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:12",
+    "item": "Redstone Dust",
+    "avg": "$220.50",
+    "avg_value": 220.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:14",
+    "item": "Chests",
+    "avg": "$97.61",
+    "avg_value": 97.61
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:22",
+    "item": "Strings",
+    "avg": "$145.50",
+    "avg_value": 145.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:21:27",
+    "item": "Blocks of Emerald",
+    "avg": "$5.76K",
+    "avg_value": 5755.0
+  }
 ]
