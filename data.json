@@ -149501,4 +149501,46 @@
     "avg": "$16.10",
     "avg_value": 16.1
   }
+,
+  {
+    "timestamp": "2026-05-26 12:18:38",
+    "item": "Gravel",
+    "avg": "$415.00",
+    "avg_value": 415.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:18:46",
+    "item": "Iron Ingots",
+    "avg": "$290.50",
+    "avg_value": 290.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:18:49",
+    "item": "Blocks of Iron",
+    "avg": "$2.41K",
+    "avg_value": 2405.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:18:54",
+    "item": "Emeralds",
+    "avg": "$608.61",
+    "avg_value": 608.605
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:18:57",
+    "item": "Oak Logs",
+    "avg": "$303.50",
+    "avg_value": 303.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:18:59",
+    "item": "Bone Blocks",
+    "avg": "$540.75",
+    "avg_value": 540.75
+  }
 ]
