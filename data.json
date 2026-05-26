@@ -145336,4 +145336,39 @@
     "avg": "$11.50K",
     "avg_value": 11500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:50:55",
+    "item": "Blocks of Raw Gold",
+    "avg": "$6.15K",
+    "avg_value": 6150.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:51:14",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$50.00K",
+    "avg_value": 50000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:51:17",
+    "item": "Gravel",
+    "avg": "$385.00",
+    "avg_value": 385.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:51:20",
+    "item": "Hoppers",
+    "avg": "$1.70K",
+    "avg_value": 1700.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:51:23",
+    "item": "Diamonds",
+    "avg": "$3.53K",
+    "avg_value": 3530.0
+  }
 ]
