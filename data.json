@@ -148990,4 +148990,60 @@
     "avg": "$8.75K",
     "avg_value": 8750.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:12:07",
+    "item": "Book: Unbreaking III",
+    "avg": "$10.50K",
+    "avg_value": 10500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:12",
+    "item": "Blocks of Gold",
+    "avg": "$6.79K",
+    "avg_value": 6790.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:15",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$315.50",
+    "avg_value": 315.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:23",
+    "item": "Shulker Shells",
+    "avg": "$356.00",
+    "avg_value": 356.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:28",
+    "item": "End Crystals",
+    "avg": "$287.50",
+    "avg_value": 287.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:33",
+    "item": "Gravel",
+    "avg": "$403.50",
+    "avg_value": 403.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:36",
+    "item": "Hoppers",
+    "avg": "$1.78K",
+    "avg_value": 1775.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:12:39",
+    "item": "Diamonds",
+    "avg": "$3.85K",
+    "avg_value": 3850.0
+  }
 ]
