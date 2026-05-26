@@ -140814,4 +140814,18 @@
     "avg": "$240.00",
     "avg_value": 240.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:54:55",
+    "item": "Spruce Logs",
+    "avg": "$53.50",
+    "avg_value": 53.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:54:58",
+    "item": "Blocks of Netherite",
+    "avg": "$32.10M",
+    "avg_value": 3.21E7
+  }
 ]
