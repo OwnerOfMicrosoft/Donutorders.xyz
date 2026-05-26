@@ -148073,4 +148073,53 @@
     "avg": "$525.00",
     "avg_value": 525.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:01:29",
+    "item": "Cobblestone",
+    "avg": "$20.44",
+    "avg_value": 20.435000000000002
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:01:32",
+    "item": "Book: Mending",
+    "avg": "$4.90K",
+    "avg_value": 4900.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:01:35",
+    "item": "Book: Silk Touch",
+    "avg": "$7.25K",
+    "avg_value": 7250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:01:37",
+    "item": "Book: Protection IV",
+    "avg": "$15.50K",
+    "avg_value": 15500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:01:40",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.05K",
+    "avg_value": 4050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:01:42",
+    "item": "Book: Unbreaking III",
+    "avg": "$10.00K",
+    "avg_value": 10000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:01:48",
+    "item": "Blocks of Gold",
+    "avg": "$8.08K",
+    "avg_value": 8075.0
+  }
 ]
