@@ -150859,4 +150859,32 @@
     "avg": "$424.10K",
     "avg_value": 424100.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:34:10",
+    "item": "Redstone Repeaters",
+    "avg": "$1.30K",
+    "avg_value": 1300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:13",
+    "item": "Cobblestone",
+    "avg": "$20.97",
+    "avg_value": 20.97
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:18",
+    "item": "Book: Silk Touch",
+    "avg": "$15.50K",
+    "avg_value": 15500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:34:27",
+    "item": "Book: Unbreaking III",
+    "avg": "$21.00K",
+    "avg_value": 21000.0
+  }
 ]
