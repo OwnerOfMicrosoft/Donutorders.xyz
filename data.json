@@ -146302,4 +146302,46 @@
     "avg": "$2.75K",
     "avg_value": 2750.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:37:52",
+    "item": "Red Sandstone",
+    "avg": "$500.00",
+    "avg_value": 500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:37:55",
+    "item": "Redstone Dust",
+    "avg": "$218.50",
+    "avg_value": 218.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:37:57",
+    "item": "Chests",
+    "avg": "$95.22",
+    "avg_value": 95.215
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:38:00",
+    "item": "Spruce Logs",
+    "avg": "$44.11",
+    "avg_value": 44.105000000000004
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:38:10",
+    "item": "Blocks of Emerald",
+    "avg": "$5.41K",
+    "avg_value": 5405.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:38:13",
+    "item": "Stone",
+    "avg": "$71.51",
+    "avg_value": 71.505
+  }
 ]
