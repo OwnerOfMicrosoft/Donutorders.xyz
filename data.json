@@ -146526,4 +146526,67 @@
     "avg": "$7.55K",
     "avg_value": 7550.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:41:17",
+    "item": "Beacons",
+    "avg": "$207.50K",
+    "avg_value": 207500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:20",
+    "item": "End Crystals",
+    "avg": "$355.00",
+    "avg_value": 355.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:23",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$49.50K",
+    "avg_value": 49500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:25",
+    "item": "Gravel",
+    "avg": "$377.50",
+    "avg_value": 377.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:28",
+    "item": "Hoppers",
+    "avg": "$1.54K",
+    "avg_value": 1535.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:31",
+    "item": "Diamonds",
+    "avg": "$3.53K",
+    "avg_value": 3530.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:33",
+    "item": "Iron Ingots",
+    "avg": "$263.00",
+    "avg_value": 263.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:36",
+    "item": "Blocks of Iron",
+    "avg": "$2.17K",
+    "avg_value": 2170.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:41:38",
+    "item": "Redstone Repeaters",
+    "avg": "$1.01K",
+    "avg_value": 1005.0
+  }
 ]
