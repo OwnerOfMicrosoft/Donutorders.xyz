@@ -140527,4 +140527,39 @@
     "avg": "$570.50M",
     "avg_value": 5.705E8
   }
+,
+  {
+    "timestamp": "2026-05-25 23:47:44",
+    "item": "End Crystals",
+    "avg": "$312.50",
+    "avg_value": 312.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:47:50",
+    "item": "Gravel",
+    "avg": "$435.00",
+    "avg_value": 435.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:47:52",
+    "item": "Hoppers",
+    "avg": "$1.36K",
+    "avg_value": 1360.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:48:01",
+    "item": "Blocks of Iron",
+    "avg": "$3.42K",
+    "avg_value": 3415.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:48:04",
+    "item": "Blocks of Redstone",
+    "avg": "$2.05K",
+    "avg_value": 2050.0
+  }
 ]
