@@ -151531,4 +151531,46 @@
     "avg": "$9.18K",
     "avg_value": 9175.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:43:02",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.38K",
+    "avg_value": 4375.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:43:05",
+    "item": "Book: Unbreaking III",
+    "avg": "$9.00K",
+    "avg_value": 9000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:43:14",
+    "item": "Blocks of Quartz",
+    "avg": "$180.33",
+    "avg_value": 180.33499999999998
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:43:14",
+    "item": "Quartz Stairs",
+    "avg": "$1.00",
+    "avg_value": 1.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:43:19",
+    "item": "Elytra",
+    "avg": "$595.50M",
+    "avg_value": 5.955E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:43:30",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$49.75K",
+    "avg_value": 49750.0
+  }
 ]
