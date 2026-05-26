@@ -139855,4 +139855,32 @@
     "avg": "$2.36K",
     "avg_value": 2355.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:29:43",
+    "item": "Bones",
+    "avg": "$173.06",
+    "avg_value": 173.055
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:29:57",
+    "item": "Cobblestone",
+    "avg": "$28.00",
+    "avg_value": 28.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:30:02",
+    "item": "Book: Silk Touch",
+    "avg": "$7.25K",
+    "avg_value": 7250.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:30:08",
+    "item": "Book: Blast Protection IV",
+    "avg": "$9.00K",
+    "avg_value": 9000.0
+  }
 ]
