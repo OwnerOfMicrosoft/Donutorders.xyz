@@ -139337,4 +139337,32 @@
     "avg": "$182.51K",
     "avg_value": 182505.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:17:54",
+    "item": "Iron Ingots",
+    "avg": "$284.50",
+    "avg_value": 284.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:17:57",
+    "item": "Blocks of Iron",
+    "avg": "$2.26K",
+    "avg_value": 2260.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:17:59",
+    "item": "Blocks of Redstone",
+    "avg": "$1.66K",
+    "avg_value": 1655.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:18:05",
+    "item": "Oak Logs",
+    "avg": "$312.51",
+    "avg_value": 312.505
+  }
 ]
