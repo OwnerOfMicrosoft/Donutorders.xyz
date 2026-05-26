@@ -145147,4 +145147,39 @@
     "avg": "$17.50K",
     "avg_value": 17500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:48:40",
+    "item": "Book: Unbreaking III",
+    "avg": "$18.00K",
+    "avg_value": 18000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:48:59",
+    "item": "Beacons",
+    "avg": "$180.01K",
+    "avg_value": 180010.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:49:02",
+    "item": "End Crystals",
+    "avg": "$330.50",
+    "avg_value": 330.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:49:11",
+    "item": "Minecarts with Hoppers",
+    "avg": "$2.75K",
+    "avg_value": 2750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:49:11",
+    "item": "Hoppers",
+    "avg": "$1.57K",
+    "avg_value": 1565.0
+  }
 ]
