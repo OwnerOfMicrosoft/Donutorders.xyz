@@ -142298,4 +142298,60 @@
     "avg": "$8.35K",
     "avg_value": 8350.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:14:51",
+    "item": "Book: Unbreaking III",
+    "avg": "$7.55K",
+    "avg_value": 7550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:14:56",
+    "item": "Blocks of Gold",
+    "avg": "$6.76K",
+    "avg_value": 6755.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:14:59",
+    "item": "Smooth Quartz Blocks",
+    "avg": "$875.00",
+    "avg_value": 875.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:14:59",
+    "item": "Blocks of Quartz",
+    "avg": "$117.00",
+    "avg_value": 117.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:14:59",
+    "item": "Nether Quartz",
+    "avg": "$29.50",
+    "avg_value": 29.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:14:59",
+    "item": "Quartz Pillars",
+    "avg": "$17.50",
+    "avg_value": 17.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:14:59",
+    "item": "Quartz Stairs",
+    "avg": "$5.50",
+    "avg_value": 5.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:15:01",
+    "item": "Wheat Seeds",
+    "avg": "$25.00",
+    "avg_value": 25.0
+  }
 ]
