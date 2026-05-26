@@ -152056,4 +152056,25 @@
     "avg": "$537.50",
     "avg_value": 537.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:50:39",
+    "item": "Chests",
+    "avg": "$95.26",
+    "avg_value": 95.25999999999999
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:56",
+    "item": "Stone",
+    "avg": "$77.50",
+    "avg_value": 77.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:50:56",
+    "item": "Smooth Stone",
+    "avg": "$78.50",
+    "avg_value": 78.5
+  }
 ]
