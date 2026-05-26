@@ -140380,4 +140380,46 @@
     "avg": "$501.50",
     "avg_value": 501.5
   }
+,
+  {
+    "timestamp": "2026-05-25 23:45:01",
+    "item": "Book: Mending",
+    "avg": "$4.25K",
+    "avg_value": 4250.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:04",
+    "item": "Book: Silk Touch",
+    "avg": "$6.60K",
+    "avg_value": 6600.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:13",
+    "item": "Book: Unbreaking III",
+    "avg": "$7.00K",
+    "avg_value": 7000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:18",
+    "item": "Blocks of Gold",
+    "avg": "$6.95K",
+    "avg_value": 6945.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:21",
+    "item": "Nether Quartz",
+    "avg": "$29.75",
+    "avg_value": 29.75
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:45:24",
+    "item": "Wheat Seeds",
+    "avg": "$12.10",
+    "avg_value": 12.1
+  }
 ]
