@@ -144762,4 +144762,39 @@
     "avg": "$51.00",
     "avg_value": 51.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:44:12",
+    "item": "Book: Silk Touch",
+    "avg": "$6.32K",
+    "avg_value": 6320.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:44:15",
+    "item": "Book: Protection IV",
+    "avg": "$14.25K",
+    "avg_value": 14250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:44:21",
+    "item": "Book: Unbreaking III",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:44:29",
+    "item": "Blocks of Quartz",
+    "avg": "$176.50",
+    "avg_value": 176.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:44:38",
+    "item": "Shulker Shells",
+    "avg": "$322.50",
+    "avg_value": 322.5
+  }
 ]
