@@ -139302,4 +139302,18 @@
     "avg": "$6.14K",
     "avg_value": 6135.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:16:38",
+    "item": "TNT",
+    "avg": "$2.35K",
+    "avg_value": 2350.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:17:06",
+    "item": "Book: Mending",
+    "avg": "$4.25K",
+    "avg_value": 4250.0
+  }
 ]
