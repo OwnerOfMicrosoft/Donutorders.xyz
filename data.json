@@ -149368,4 +149368,46 @@
     "avg": "$277.60",
     "avg_value": 277.6
   }
+,
+  {
+    "timestamp": "2026-05-26 12:16:52",
+    "item": "Emeralds",
+    "avg": "$661.00",
+    "avg_value": 661.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:16:55",
+    "item": "Oak Logs",
+    "avg": "$317.50",
+    "avg_value": 317.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:16:55",
+    "item": "Cherry Logs",
+    "avg": "$309.50",
+    "avg_value": 309.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:16:58",
+    "item": "Bone Blocks",
+    "avg": "$566.00",
+    "avg_value": 566.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:17:08",
+    "item": "Redstone Dust",
+    "avg": "$215.50",
+    "avg_value": 215.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:17:13",
+    "item": "Spruce Logs",
+    "avg": "$48.51",
+    "avg_value": 48.510000000000005
+  }
 ]
