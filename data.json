@@ -151839,4 +151839,39 @@
     "avg": "$6.50K",
     "avg_value": 6500.0
   }
+,
+  {
+    "timestamp": "2026-05-26 12:47:19",
+    "item": "Book: Protection IV",
+    "avg": "$9.17K",
+    "avg_value": 9170.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:22",
+    "item": "Book: Blast Protection IV",
+    "avg": "$4.65K",
+    "avg_value": 4650.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:27",
+    "item": "Gold Ingots",
+    "avg": "$795.00",
+    "avg_value": 795.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:33",
+    "item": "Blocks of Quartz",
+    "avg": "$156.83",
+    "avg_value": 156.83499999999998
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:47:47",
+    "item": "End Crystals",
+    "avg": "$294.00",
+    "avg_value": 294.0
+  }
 ]
