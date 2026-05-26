@@ -145476,4 +145476,39 @@
     "avg": "$5.89K",
     "avg_value": 5885.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:53:16",
+    "item": "Shulker Shells",
+    "avg": "$332.50",
+    "avg_value": 332.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:21",
+    "item": "End Crystals",
+    "avg": "$341.50",
+    "avg_value": 341.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:24",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$46.71K",
+    "avg_value": 46710.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:30",
+    "item": "Hoppers",
+    "avg": "$1.85K",
+    "avg_value": 1850.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:53:32",
+    "item": "Diamonds",
+    "avg": "$3.68K",
+    "avg_value": 3675.0
+  }
 ]
