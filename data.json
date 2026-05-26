@@ -141927,4 +141927,67 @@
     "avg": "$612.05",
     "avg_value": 612.05
   }
+,
+  {
+    "timestamp": "2026-05-26 09:42:30",
+    "item": "Stripped Oak Logs",
+    "avg": "$270.00",
+    "avg_value": 270.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:33",
+    "item": "Bone Blocks",
+    "avg": "$575.00",
+    "avg_value": 575.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:43",
+    "item": "Redstone Dust",
+    "avg": "$260.50",
+    "avg_value": 260.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:46",
+    "item": "Chests",
+    "avg": "$141.00",
+    "avg_value": 141.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:54",
+    "item": "Strings",
+    "avg": "$206.00",
+    "avg_value": 206.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:42:57",
+    "item": "Netherite Ingot",
+    "avg": "$3.52M",
+    "avg_value": 3520000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:43:02",
+    "item": "Stone Bricks",
+    "avg": "$82.50",
+    "avg_value": 82.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:43:02",
+    "item": "Smooth Stone",
+    "avg": "$76.50",
+    "avg_value": 76.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 09:43:02",
+    "item": "Stone",
+    "avg": "$63.75",
+    "avg_value": 63.75
+  }
 ]
