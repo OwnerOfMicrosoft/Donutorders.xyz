@@ -139995,4 +139995,18 @@
     "avg": "$3.55K",
     "avg_value": 3550.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:33:07",
+    "item": "Stripped Pale Oak Log",
+    "avg": "$580.00",
+    "avg_value": 580.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:33:24",
+    "item": "Chests",
+    "avg": "$100.38",
+    "avg_value": 100.38499999999999
+  }
 ]
