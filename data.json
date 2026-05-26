@@ -148311,4 +148311,46 @@
     "avg": "$310.50",
     "avg_value": 310.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:04:15",
+    "item": "Gravel",
+    "avg": "$378.00",
+    "avg_value": 378.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:04:17",
+    "item": "Hoppers",
+    "avg": "$1.31K",
+    "avg_value": 1305.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:04:20",
+    "item": "Diamonds",
+    "avg": "$3.53K",
+    "avg_value": 3530.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:04:26",
+    "item": "Blocks of Iron",
+    "avg": "$2.33K",
+    "avg_value": 2325.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:04:29",
+    "item": "Blocks of Redstone",
+    "avg": "$1.71K",
+    "avg_value": 1705.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:04:32",
+    "item": "Emeralds",
+    "avg": "$616.50",
+    "avg_value": 616.5
+  }
 ]
