@@ -148521,4 +148521,67 @@
     "avg": "$220.50",
     "avg_value": 220.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:07:01",
+    "item": "Chests",
+    "avg": "$550.00",
+    "avg_value": 550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:12",
+    "item": "Netherite Ingots",
+    "avg": "$3.58M",
+    "avg_value": 3575000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:15",
+    "item": "Deepslate Emerald Ore",
+    "avg": "$505.00K",
+    "avg_value": 505000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:15",
+    "item": "Blocks of Emerald",
+    "avg": "$5.75K",
+    "avg_value": 5750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:18",
+    "item": "Smooth Stone",
+    "avg": "$96.00",
+    "avg_value": 96.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:18",
+    "item": "Stone Bricks",
+    "avg": "$75.00",
+    "avg_value": 75.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:21",
+    "item": "Mud",
+    "avg": "$330.00",
+    "avg_value": 330.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:27",
+    "item": "Minecarts with TNT",
+    "avg": "$3.82K",
+    "avg_value": 3815.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:07:32",
+    "item": "Piglin Heads",
+    "avg": "$420.50K",
+    "avg_value": 420500.0
+  }
 ]
