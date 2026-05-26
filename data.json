@@ -143523,4 +143523,46 @@
     "avg": "$25.50",
     "avg_value": 25.5
   }
+,
+  {
+    "timestamp": "2026-05-26 10:29:46",
+    "item": "Minecarts with Hoppers",
+    "avg": "$2.80K",
+    "avg_value": 2800.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:46",
+    "item": "Hoppers",
+    "avg": "$1.61K",
+    "avg_value": 1605.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:55",
+    "item": "Blocks of Iron",
+    "avg": "$2.60K",
+    "avg_value": 2600.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:58",
+    "item": "Blocks of Redstone",
+    "avg": "$1.84K",
+    "avg_value": 1840.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:58",
+    "item": "Redstone Comparators",
+    "avg": "$995.00",
+    "avg_value": 995.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:29:58",
+    "item": "Redstone Repeaters",
+    "avg": "$1.00K",
+    "avg_value": 1000.0
+  }
 ]
