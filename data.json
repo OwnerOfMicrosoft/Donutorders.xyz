@@ -139785,4 +139785,25 @@
     "avg": "$10.00K",
     "avg_value": 10000.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:28:07",
+    "item": "Blocks of Gold",
+    "avg": "$6.95K",
+    "avg_value": 6945.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:28:10",
+    "item": "Blocks of Quartz",
+    "avg": "$156.50",
+    "avg_value": 156.5
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:28:24",
+    "item": "End Crystals",
+    "avg": "$312.50",
+    "avg_value": 312.5
+  }
 ]
