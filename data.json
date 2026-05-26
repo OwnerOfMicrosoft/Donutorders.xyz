@@ -146372,4 +146372,46 @@
     "avg": "$4.65K",
     "avg_value": 4650.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:38:58",
+    "item": "Book: Unbreaking III",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:39:05",
+    "item": "Quartz Stairs",
+    "avg": "$105.00",
+    "avg_value": 105.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:39:08",
+    "item": "Wheat",
+    "avg": "$625.00",
+    "avg_value": 625.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:39:13",
+    "item": "Shulker Shells",
+    "avg": "$313.50",
+    "avg_value": 313.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:39:19",
+    "item": "End Crystals",
+    "avg": "$310.00",
+    "avg_value": 310.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:39:21",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$47.25K",
+    "avg_value": 47250.0
+  }
 ]
