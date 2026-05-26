@@ -142837,4 +142837,74 @@
     "avg": "$178.00K",
     "avg_value": 178000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:21:17",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$47.21K",
+    "avg_value": 47210.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:22",
+    "item": "Hoppers",
+    "avg": "$1.50K",
+    "avg_value": 1500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:25",
+    "item": "Diamonds",
+    "avg": "$3.55K",
+    "avg_value": 3550.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:27",
+    "item": "Iron Ingots",
+    "avg": "$242.50",
+    "avg_value": 242.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:30",
+    "item": "Blocks of Iron",
+    "avg": "$2.11K",
+    "avg_value": 2110.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:33",
+    "item": "Blocks of Redstone",
+    "avg": "$1.75K",
+    "avg_value": 1750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:33",
+    "item": "Redstone Comparators",
+    "avg": "$989.50",
+    "avg_value": 989.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:38",
+    "item": "Cherry Logs",
+    "avg": "$350.00",
+    "avg_value": 350.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:41",
+    "item": "Bone Blocks",
+    "avg": "$539.00",
+    "avg_value": 539.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:21:48",
+    "item": "Sand",
+    "avg": "$366.01",
+    "avg_value": 366.005
+  }
 ]
