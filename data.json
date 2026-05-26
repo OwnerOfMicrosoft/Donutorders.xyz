@@ -147282,4 +147282,60 @@
     "avg": "$990.50",
     "avg_value": 990.5
   }
+,
+  {
+    "timestamp": "2026-05-26 11:51:19",
+    "item": "Book: Mending",
+    "avg": "$4.91K",
+    "avg_value": 4910.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:22",
+    "item": "Book: Silk Touch",
+    "avg": "$12.50K",
+    "avg_value": 12500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:25",
+    "item": "Book: Protection IV",
+    "avg": "$22.00K",
+    "avg_value": 22000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:30",
+    "item": "Book: Unbreaking III",
+    "avg": "$22.25K",
+    "avg_value": 22250.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:33",
+    "item": "Gold Ingots",
+    "avg": "$950.00",
+    "avg_value": 950.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:39",
+    "item": "Blocks of Quartz",
+    "avg": "$153.50",
+    "avg_value": 153.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:42",
+    "item": "Wheat Seeds",
+    "avg": "$21.00",
+    "avg_value": 21.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:51:45",
+    "item": "Elytra",
+    "avg": "$630.55M",
+    "avg_value": 6.3055E8
+  }
 ]
