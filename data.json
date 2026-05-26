@@ -139141,4 +139141,18 @@
     "avg": "$25.85",
     "avg_value": 25.85
   }
+,
+  {
+    "timestamp": "2026-05-25 23:12:48",
+    "item": "Book: Mending",
+    "avg": "$5.26K",
+    "avg_value": 5255.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:13:13",
+    "item": "Elytra",
+    "avg": "$570.50M",
+    "avg_value": 5.705E8
+  }
 ]
