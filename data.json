@@ -144125,4 +144125,81 @@
     "avg": "$1.90K",
     "avg_value": 1900.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:36:23",
+    "item": "Blocks of Iron",
+    "avg": "$2.19K",
+    "avg_value": 2185.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:26",
+    "item": "Blocks of Redstone",
+    "avg": "$1.77K",
+    "avg_value": 1765.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:29",
+    "item": "Emeralds",
+    "avg": "$643.50",
+    "avg_value": 643.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:31",
+    "item": "Cherry Logs",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:31",
+    "item": "Oak Logs",
+    "avg": "$300.00",
+    "avg_value": 300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:34",
+    "item": "Bone Blocks",
+    "avg": "$536.05",
+    "avg_value": 536.05
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:40",
+    "item": "Creeper Heads",
+    "avg": "$260.56K",
+    "avg_value": 260555.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:43",
+    "item": "Sandstone",
+    "avg": "$500.00",
+    "avg_value": 500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:46",
+    "item": "Redstone Dust",
+    "avg": "$282.50",
+    "avg_value": 282.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:48",
+    "item": "Chests",
+    "avg": "$95.21",
+    "avg_value": 95.21
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:36:51",
+    "item": "Spruce Logs",
+    "avg": "$51.50",
+    "avg_value": 51.5
+  }
 ]
