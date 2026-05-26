@@ -10,7 +10,7 @@ echo =======================================
 echo.
 
 :: Source file (your mod writes here)
-set SOURCE=C:\Users\Caleb\Desktop\orders.json
+set SOURCE=C:\Users\Caleb\Desktop\donut_price_history.json
 
 :: Destination in your repo
 set DEST=C:\donutorders\data.json
