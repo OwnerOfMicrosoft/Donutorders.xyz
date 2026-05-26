@@ -150411,4 +150411,67 @@
     "avg": "$984.50",
     "avg_value": 984.5
   }
+,
+  {
+    "timestamp": "2026-05-26 12:29:06",
+    "item": "Bone Blocks",
+    "avg": "$543.00",
+    "avg_value": 543.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:11",
+    "item": "Creeper Heads",
+    "avg": "$280.50K",
+    "avg_value": 280500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:11",
+    "item": "Banner Patterns",
+    "avg": "$55.51K",
+    "avg_value": 55510.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:14",
+    "item": "Sand",
+    "avg": "$365.15",
+    "avg_value": 365.15
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:16",
+    "item": "Redstone Dust",
+    "avg": "$225.50",
+    "avg_value": 225.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:19",
+    "item": "Chests",
+    "avg": "$99.00",
+    "avg_value": 99.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:22",
+    "item": "Spruce Logs",
+    "avg": "$65.00",
+    "avg_value": 65.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:35",
+    "item": "Smooth Stone",
+    "avg": "$75.00",
+    "avg_value": 75.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:29:35",
+    "item": "Stone",
+    "avg": "$70.01",
+    "avg_value": 70.005
+  }
 ]
