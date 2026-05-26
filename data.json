@@ -140660,4 +140660,25 @@
     "avg": "$1.15K",
     "avg_value": 1150.0
   }
+,
+  {
+    "timestamp": "2026-05-25 23:51:34",
+    "item": "Book: Protection IV",
+    "avg": "$13.45K",
+    "avg_value": 13450.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:51:39",
+    "item": "Book: Unbreaking III",
+    "avg": "$6.00K",
+    "avg_value": 6000.0
+  }
+,
+  {
+    "timestamp": "2026-05-25 23:52:04",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$45.55K",
+    "avg_value": 45550.0
+  }
 ]
