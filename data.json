@@ -143418,4 +143418,39 @@
     "avg": "$305.00",
     "avg_value": 305.0
   }
+,
+  {
+    "timestamp": "2026-05-26 10:28:05",
+    "item": "Sand",
+    "avg": "$370.00",
+    "avg_value": 370.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:28:14",
+    "item": "Spruce Logs",
+    "avg": "$47.00",
+    "avg_value": 47.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:28:19",
+    "item": "Strings",
+    "avg": "$108.00",
+    "avg_value": 108.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:28:25",
+    "item": "Blocks of Emerald",
+    "avg": "$7.75K",
+    "avg_value": 7750.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 10:28:28",
+    "item": "Smooth Stone",
+    "avg": "$87.50",
+    "avg_value": 87.5
+  }
 ]
