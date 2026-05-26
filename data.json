@@ -149102,4 +149102,32 @@
     "avg": "$48.01",
     "avg_value": 48.010000000000005
   }
+,
+  {
+    "timestamp": "2026-05-26 12:13:21",
+    "item": "Blocks of Emerald",
+    "avg": "$5.50K",
+    "avg_value": 5500.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:13:24",
+    "item": "Smooth Stone",
+    "avg": "$73.00",
+    "avg_value": 73.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:13:32",
+    "item": "Minecarts with TNT",
+    "avg": "$4.05K",
+    "avg_value": 4050.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 12:13:40",
+    "item": "Ominous Trial Keys",
+    "avg": "$257.50K",
+    "avg_value": 257500.0
+  }
 ]
