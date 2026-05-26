@@ -147443,4 +147443,46 @@
     "avg": "$5.00K",
     "avg_value": 5000.0
   }
+,
+  {
+    "timestamp": "2026-05-26 11:53:32",
+    "item": "Book: Protection IV",
+    "avg": "$21.00K",
+    "avg_value": 21000.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:53:43",
+    "item": "Blocks of Gold",
+    "avg": "$7.30K",
+    "avg_value": 7300.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:53:45",
+    "item": "Nether Quartz",
+    "avg": "$30.00",
+    "avg_value": 30.0
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:53:51",
+    "item": "Elytra",
+    "avg": "$624.05M",
+    "avg_value": 6.2405E8
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:53:58",
+    "item": "End Crystals",
+    "avg": "$330.50",
+    "avg_value": 330.5
+  }
+,
+  {
+    "timestamp": "2026-05-26 11:54:01",
+    "item": "Wither Skeleton Skulls",
+    "avg": "$46.55K",
+    "avg_value": 46550.0
+  }
 ]
